@@ -2,9 +2,7 @@
 
 A small personal project to help me study languages regularly and build a consistent learning habit.
 
-Explore Polish, English, Russian and Mandarin Chinese side by side, with example sentences, pinyin and a little humour. A soft lavender-blue design keeps studying light and approachable.
-
-[Try the website](https://softly-fluent.netlify.app/)
+[Link to the website](https://softly-fluent.netlify.app/)
 
 ![Welcome screen](docs/images/welcome.png)
 ![Vocabulary and examples in four languages](docs/images/study.png)
