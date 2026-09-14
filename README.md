@@ -4,13 +4,13 @@ A small personal project to help me study languages regularly and build a consis
 
 [Link to the website](https://softly-fluent.netlify.app/)
 
-![Welcome screen](docs/images/welcome.png)
 ![Vocabulary and examples in four languages](docs/images/study.png)
 
 ## Features
 
 - Random vocabulary without repeats until the collection is exhausted.
-- Four translations and example sentences, plus Mandarin pinyin.
+- Four translations with everyday examples and Mandarin pinyin.
+- Animated vocabulary cards and a button that cycles through four languages.
 - Progress saved locally in the browser.
 - Responsive design, built with HTML, CSS and JavaScript.
 

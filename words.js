@@ -10,10 +10,10 @@ const WORDS = [
     ],
     "pinyin": "kāfēi",
     "examples": [
-      "Najpierw kawa. Nieproszone rady nigdy.",
-      "Coffee first. Unsolicited advice never.",
-      "Сначала кофе. Непрошеные советы — никогда.",
-      "先喝咖啡。没人问的建议就免了。"
+      "Robię kawę, zanim otworzę pocztę.",
+      "I make coffee before opening my email.",
+      "Я готовлю кофе, прежде чем открыть почту.",
+      "我先煮咖啡，再打开邮箱。"
     ]
   },
   {
@@ -27,10 +27,10 @@ const WORDS = [
     ],
     "pinyin": "chá",
     "examples": [
-      "Herbata jest gorąca. Twoje plotki są letnie.",
-      "The tea is hot. Your gossip is lukewarm.",
-      "Чай горячий. А твои сплетни так себе.",
-      "茶很烫。你的八卦却没什么劲。"
+      "Chcesz herbaty z cytryną?",
+      "Would you like some tea with lemon?",
+      "Хочешь чаю с лимоном?",
+      "你想喝点柠檬茶吗？"
     ]
   },
   {
@@ -44,10 +44,10 @@ const WORDS = [
     ],
     "pinyin": "shuǐ",
     "examples": [
-      "Napij się wody. Dramatyzowanie wzmaga pragnienie.",
-      "Drink some water. Being dramatic is thirsty work.",
-      "Выпей воды. От драматичных сцен хочется пить.",
-      "喝点水吧。演这么多戏也会口渴。"
+      "Zawsze zabieram wodę na długie spacery.",
+      "I always carry water on long walks.",
+      "Я всегда беру воду на долгие прогулки.",
+      "长时间散步时，我总会带水。"
     ]
   },
   {
@@ -61,10 +61,10 @@ const WORDS = [
     ],
     "pinyin": "miànbāo",
     "examples": [
-      "Kupiłam chleb i nazwałam to planowaniem posiłków.",
-      "I bought bread and called it meal planning.",
-      "Я купила хлеб и назвала это планированием питания.",
-      "我买了面包，还管这叫膳食规划。"
+      "Ten chleb jest jeszcze ciepły po wyjęciu z pieca.",
+      "This bread is still warm from the oven.",
+      "Этот хлеб ещё тёплый из печи.",
+      "这面包刚出炉，还热着呢。"
     ]
   },
   {
@@ -78,10 +78,10 @@ const WORDS = [
     ],
     "pinyin": "mǐfàn",
     "examples": [
-      "Ryż jest gotowy. Mój plan na życie nie.",
-      "The rice is ready. My life plan is not.",
-      "Рис готов. Мой план на жизнь — нет.",
-      "米饭做好了。我的人生规划还没做好。"
+      "Na kolację podaliśmy ryż z warzywami.",
+      "We served rice with vegetables for dinner.",
+      "На ужин мы подали рис с овощами.",
+      "晚餐我们准备了米饭配蔬菜。"
     ]
   },
   {
@@ -95,10 +95,10 @@ const WORDS = [
     ],
     "pinyin": "Yìdàlìmiàn",
     "examples": [
-      "Makaron zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "Pasta deserves a place in this story. Your unsolicited advice does not.",
-      "Макароны заслуживают места в этой истории. Твои непрошеные советы — нет.",
-      "意大利面值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Makaron potrzebuje jeszcze dwóch minut.",
+      "The pasta needs two more minutes.",
+      "Макароны нужно варить ещё две минуты.",
+      "意大利面还需要再煮两分钟。"
     ]
   },
   {
@@ -112,10 +112,10 @@ const WORDS = [
     ],
     "pinyin": "nǎilào",
     "examples": [
-      "Na ser zawsze jest miejsce. Na twoją opinię? To dyskusyjne.",
-      "There is always room for cheese. For your opinion? Debatable.",
-      "Для сыра место найдётся всегда. Для твоего мнения? Спорный вопрос.",
-      "奶酪总有地方放。你的意见？那就不一定了。"
+      "Kładę plaster sera na kanapkę.",
+      "I put a slice of cheese on my sandwich.",
+      "Я кладу ломтик сыра на бутерброд.",
+      "我在三明治里放了一片奶酪。"
     ]
   },
   {
@@ -129,10 +129,10 @@ const WORDS = [
     ],
     "pinyin": "qiǎokèlì",
     "examples": [
-      "Czekolada mnie rozumie. Nie zadaje dodatkowych pytań.",
-      "Chocolate understands me. It asks no follow-up questions.",
-      "Шоколад меня понимает. Он не задаёт уточняющих вопросов.",
-      "巧克力懂我。它从来不追问。"
+      "Zostawiłam trochę czekolady na później. Później nadeszło szybko.",
+      "I saved some chocolate for later. Later came quickly.",
+      "Я оставила немного шоколада на потом. Потом наступило быстро.",
+      "我留了点巧克力等会儿吃。这个“等会儿”来得很快。"
     ]
   },
   {
@@ -146,10 +146,10 @@ const WORDS = [
     ],
     "pinyin": "tāng",
     "examples": [
-      "Ta zupa ma więcej głębi niż nasza ostatnia rozmowa.",
-      "This soup has more depth than our last conversation.",
-      "В этом супе больше глубины, чем в нашем последнем разговоре.",
-      "这碗汤比我们上次的对话还有深度。"
+      "Miska gorącej zupy jest idealna na zimny dzień.",
+      "A bowl of hot soup is perfect on a cold day.",
+      "Тарелка горячего супа идеальна в холодный день.",
+      "冷天喝一碗热汤再合适不过了。"
     ]
   },
   {
@@ -163,10 +163,10 @@ const WORDS = [
     ],
     "pinyin": "zǎocān",
     "examples": [
-      "Śniadanie jest ważne. Tak samo jak zostawienie mnie w spokoju przed nim.",
-      "Breakfast is important. So is leaving me alone before it.",
-      "Завтрак важен. Как и возможность побыть в покое до него.",
-      "早餐很重要。在早餐前别烦我也很重要。"
+      "W każdą niedzielę jemy razem śniadanie.",
+      "We eat breakfast together every Sunday.",
+      "Каждое воскресенье мы вместе едим завтрак.",
+      "我们每周日一起吃早餐。"
     ]
   },
   {
@@ -180,10 +180,10 @@ const WORDS = [
     ],
     "pinyin": "wǔcān",
     "examples": [
-      "Lunch to dzisiejszy temat. Twój były może poczekać.",
-      "Lunch is the topic today. Your ex can wait.",
-      "Обед — сегодняшняя тема. Твой бывший может подождать.",
-      "午餐是今天的话题。你的前任可以等等。"
+      "Zjedzmy lunch po spotkaniu.",
+      "Let's have lunch after the meeting.",
+      "Давай пообедаем после встречи.",
+      "我们开完会再吃午餐吧。"
     ]
   },
   {
@@ -197,10 +197,10 @@ const WORDS = [
     ],
     "pinyin": "wǎncān",
     "examples": [
-      "Kolacja to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Dinner is not an excuse to be late. Nice try, though.",
-      "Ужин — не оправдание для опоздания. Но попытка неплохая.",
-      "晚餐不是迟到的借口。不过，这个借口编得还行。"
+      "Kolacja jest gotowa, ale wszyscy nadal siedzą w telefonach.",
+      "Dinner is ready, but everyone is still on their phone.",
+      "Ужин готов, но все ещё сидят в телефонах.",
+      "晚餐做好了，大家却还在看手机。"
     ]
   },
   {
@@ -214,10 +214,10 @@ const WORDS = [
     ],
     "pinyin": "táng",
     "examples": [
-      "Prosiłam o cukier, nie o wykład.",
-      "I asked for sugar, not a lecture.",
-      "Я просила сахар, а не лекцию.",
-      "我要的是糖，不是说教。"
+      "Piję kawę bez cukru.",
+      "I take my coffee without sugar.",
+      "Я пью кофе без сахара.",
+      "我喝咖啡不加糖。"
     ]
   },
   {
@@ -231,10 +231,10 @@ const WORDS = [
     ],
     "pinyin": "yán",
     "examples": [
-      "Sól zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "Salt deserves a place in this story. Your unsolicited advice does not.",
-      "Соль заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "盐值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Dodaj trochę soli do zupy.",
+      "Add a little salt to the soup.",
+      "Добавь немного соли в суп.",
+      "往汤里加一点盐。"
     ]
   },
   {
@@ -248,10 +248,10 @@ const WORDS = [
     ],
     "pinyin": "niúnǎi",
     "examples": [
-      "Mleko to odpowiedź. Pytanie pewnie było dziwne.",
-      "Milk is the answer. The question was probably strange.",
-      "Молоко — это ответ. Вопрос, наверное, был странным.",
-      "牛奶就是答案。问题大概很奇怪。"
+      "W lodówce nie ma już mleka.",
+      "There is no milk left in the fridge.",
+      "В холодильнике больше нет молока.",
+      "冰箱里没有牛奶了。"
     ]
   },
   {
@@ -265,10 +265,10 @@ const WORDS = [
     ],
     "pinyin": "fēngmì",
     "examples": [
-      "Miód jest słodki. Moja odpowiedź nie będzie.",
-      "The honey is sweet. My reply will not be.",
-      "Мёд сладкий. Мой ответ таким не будет.",
-      "蜂蜜很甜。我的回复可不会这么甜。"
+      "Dodaję miód do jogurtu.",
+      "I add honey to my yogurt.",
+      "Я добавляю мёд в йогурт.",
+      "我往酸奶里加蜂蜜。"
     ]
   },
   {
@@ -282,10 +282,10 @@ const WORDS = [
     ],
     "pinyin": "huángyóu",
     "examples": [
-      "Masło to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "Butter is not a personality trait. Someone had to say it.",
-      "Масло — не черта характера. Кто-то должен был это сказать.",
-      "黄油不是性格特点。总得有人说出来。"
+      "Zostaw masło poza lodówką, żeby zmiękło.",
+      "Leave the butter out so it softens.",
+      "Оставь масло вне холодильника, чтобы оно размягчилось.",
+      "把黄油放在冰箱外，让它变软。"
     ]
   },
   {
@@ -299,10 +299,10 @@ const WORDS = [
     ],
     "pinyin": "suānnǎi",
     "examples": [
-      "Jogurt nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "Yogurt will not solve all your problems. Lower your expectations.",
-      "Йогурт не решит всех твоих проблем. Умерь ожидания.",
-      "酸奶解决不了你所有的问题。降低一点期待吧。"
+      "Jogurt naturalny pasuje do świeżych owoców.",
+      "Plain yogurt goes well with fresh fruit.",
+      "Натуральный йогурт хорошо сочетается со свежими фруктами.",
+      "原味酸奶很适合搭配新鲜水果。"
     ]
   },
   {
@@ -316,10 +316,10 @@ const WORDS = [
     ],
     "pinyin": "bīngqílín",
     "examples": [
-      "Lody topnieją szybciej, niż znikają moje problemy.",
-      "The ice cream is melting faster than my problems are disappearing.",
-      "Мороженое тает быстрее, чем исчезают мои проблемы.",
-      "冰淇淋融化的速度比我的问题消失的速度还快。"
+      "Moje lody stopniały, zanim zdążyłam zrobić zdjęcie.",
+      "My ice cream melted before I could take a photo.",
+      "Моё мороженое растаяло, прежде чем я успела сделать фото.",
+      "我还没来得及拍照，冰淇淋就化了。"
     ]
   },
   {
@@ -333,10 +333,10 @@ const WORDS = [
     ],
     "pinyin": "bǐsà",
     "examples": [
-      "Pizza dotarła. Nagle wierzę w szczęśliwe zakończenia.",
-      "The pizza arrived. Suddenly, I believe in happy endings.",
-      "Пицца приехала. Вдруг я поверила в счастливые финалы.",
-      "比萨送到了。我突然相信圆满结局了。"
+      "Zamówiliśmy pizzę, bo nikt nie chciał gotować.",
+      "We ordered pizza because nobody wanted to cook.",
+      "Мы заказали пиццу, потому что никто не хотел готовить.",
+      "我们点了比萨，因为谁都不想做饭。"
     ]
   },
   {
@@ -350,10 +350,10 @@ const WORDS = [
     ],
     "pinyin": "píngguǒ",
     "examples": [
-      "Jedno jabłko dziennie. Osobowość nadal bez aktualizacji.",
-      "An apple a day. Still no personality upgrade.",
-      "По яблоку в день. А обновления личности всё нет.",
-      "每天一个苹果。性格还是没升级。"
+      "Spakowałam jabłko na przekąskę.",
+      "I packed an apple for a snack.",
+      "Я взяла яблоко на перекус.",
+      "我带了一个苹果当零食。"
     ]
   },
   {
@@ -367,10 +367,10 @@ const WORDS = [
     ],
     "pinyin": "xiāngjiāo",
     "examples": [
-      "Banan ma lepszą równowagę między pracą a życiem niż ja.",
-      "The banana has a better work-life balance than I do.",
-      "У банана баланс между работой и жизнью лучше, чем у меня.",
-      "香蕉的工作与生活平衡都比我好。"
+      "Ten banan jest wystarczająco dojrzały na koktajl.",
+      "This banana is ripe enough for a smoothie.",
+      "Этот банан уже достаточно спелый для смузи.",
+      "这根香蕉已经熟了，可以做奶昔。"
     ]
   },
   {
@@ -384,10 +384,10 @@ const WORDS = [
     ],
     "pinyin": "chéngzi",
     "examples": [
-      "Pomarańcza to odpowiedź. Pytanie pewnie było dziwne.",
-      "An orange is the answer. The question was probably strange.",
-      "Апельсин — это ответ. Вопрос, наверное, был странным.",
-      "橙子就是答案。问题大概很奇怪。"
+      "Obierz pomarańczę, zanim dodasz ją do sałatki.",
+      "Peel the orange before adding it to the salad.",
+      "Очисти апельсин, прежде чем добавить его в салат.",
+      "先剥橙子，再把它放进沙拉里。"
     ]
   },
   {
@@ -401,10 +401,10 @@ const WORDS = [
     ],
     "pinyin": "níngméng",
     "examples": [
-      "Życie dało mi cytrynę. Poprosiłam o zwrot pieniędzy.",
-      "Life gave me a lemon. I asked for a refund.",
-      "Жизнь дала мне лимон. Я попросила вернуть деньги.",
-      "生活给了我一个柠檬。我要求退款。"
+      "Wyciśnij pół cytryny do wody.",
+      "Squeeze half a lemon into the water.",
+      "Выжми половину лимона в воду.",
+      "把半个柠檬的汁挤进水里。"
     ]
   },
   {
@@ -418,10 +418,10 @@ const WORDS = [
     ],
     "pinyin": "cǎoméi",
     "examples": [
-      "Truskawka to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A strawberry is not a personality trait. Someone had to say it.",
-      "Клубника — не черта характера. Кто-то должен был это сказать.",
-      "草莓不是性格特点。总得有人说出来。"
+      "Pierwsza truskawka z naszego ogrodu była bardzo słodka.",
+      "The first strawberry from our garden was very sweet.",
+      "Первая клубника из нашего сада была очень сладкой.",
+      "我们花园里的第一颗草莓特别甜。"
     ]
   },
   {
@@ -435,10 +435,10 @@ const WORDS = [
     ],
     "pinyin": "tǔdòu",
     "examples": [
-      "Ziemniak nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A potato will not solve all your problems. Lower your expectations.",
-      "Картофелина не решит всех твоих проблем. Умерь ожидания.",
-      "土豆解决不了你所有的问题。降低一点期待吧。"
+      "Piecz ziemniaka, aż będzie miękki.",
+      "Bake the potato until it is soft.",
+      "Запекай картофелину, пока она не станет мягкой.",
+      "把土豆烤到变软。"
     ]
   },
   {
@@ -452,10 +452,10 @@ const WORDS = [
     ],
     "pinyin": "xīhóngshì",
     "examples": [
-      "Pomidor to dzisiejszy temat. Twój były może poczekać.",
-      "A tomato is the topic today. Your ex can wait.",
-      "Помидор — сегодняшняя тема. Твой бывший может подождать.",
-      "西红柿是今天的话题。你的前任可以等等。"
+      "Pokrój pomidora w cienkie plasterki.",
+      "Cut the tomato into thin slices.",
+      "Нарежь помидор тонкими ломтиками.",
+      "把西红柿切成薄片。"
     ]
   },
   {
@@ -469,10 +469,10 @@ const WORDS = [
     ],
     "pinyin": "húluóbo",
     "examples": [
-      "Marchewka to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A carrot is not an excuse to be late. Nice try, though.",
-      "Морковь — не оправдание для опоздания. Но попытка неплохая.",
-      "胡萝卜不是迟到的借口。不过，这个借口编得还行。"
+      "Starłam marchewkę do sałatki.",
+      "I grated a carrot into the salad.",
+      "Я натёрла морковь в салат.",
+      "我把胡萝卜擦成丝，放进沙拉里。"
     ]
   },
   {
@@ -486,10 +486,10 @@ const WORDS = [
     ],
     "pinyin": "yángcōng",
     "examples": [
-      "Cebula to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "An onion is not the problem. Your dramatic reaction is.",
-      "Луковица — не проблема. Проблема — твоя драматичная реакция.",
-      "洋葱不是问题。你那夸张的反应才是问题。"
+      "Krojenie cebuli zawsze doprowadza mnie do łez.",
+      "Chopping an onion always makes me cry.",
+      "Когда я режу лук, у меня всегда текут слёзы.",
+      "切洋葱总让我流泪。"
     ]
   },
   {
@@ -503,10 +503,10 @@ const WORDS = [
     ],
     "pinyin": "jīdàn",
     "examples": [
-      "Umiem ugotować jajko. Proszę wstrzymać oklaski.",
-      "I can boil an egg. Please hold your applause.",
-      "Я умею варить яйцо. Прошу пока не аплодировать.",
-      "我会煮鸡蛋。请先别鼓掌。"
+      "Ugotowałam jajko na śniadanie.",
+      "I boiled an egg for breakfast.",
+      "Я сварила яйцо на завтрак.",
+      "我早餐煮了一个鸡蛋。"
     ]
   },
   {
@@ -520,10 +520,10 @@ const WORDS = [
     ],
     "pinyin": "dàngāo",
     "examples": [
-      "Upiekłam ciasto. To mój wkład w społeczeństwo.",
-      "I made a cake. That is my contribution to society.",
-      "Я испекла торт. Это мой вклад в общество.",
-      "我做了一个蛋糕。这就是我对社会的贡献。"
+      "Upiekliśmy ciasto na jej urodziny.",
+      "We baked a cake for her birthday.",
+      "Мы испекли торт на её день рождения.",
+      "我们为她的生日做了一个蛋糕。"
     ]
   },
   {
@@ -537,10 +537,10 @@ const WORDS = [
     ],
     "pinyin": "bǐnggān",
     "examples": [
-      "Jedno ciastko to przekąska. Sześć to strategia.",
-      "One cookie is a snack. Six is a strategy.",
-      "Одно печенье — перекус. Шесть — стратегия.",
-      "一块饼干是零食。六块就是策略。"
+      "Zostało jedno ciastko, więc oczywiście je zjadłam.",
+      "There was one cookie left, so naturally I ate it.",
+      "Осталось одно печенье, и я, конечно, его съела.",
+      "只剩一块饼干了，我当然把它吃了。"
     ]
   },
   {
@@ -554,10 +554,10 @@ const WORDS = [
     ],
     "pinyin": "sānmíngzhì",
     "examples": [
-      "Kanapka to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A sandwich is not a personality trait. Someone had to say it.",
-      "Бутерброд — не черта характера. Кто-то должен был это сказать.",
-      "三明治不是性格特点。总得有人说出来。"
+      "Zrobiłam kanapkę na podróż pociągiem.",
+      "I made a sandwich for the train journey.",
+      "Я приготовила бутерброд в дорогу на поезд.",
+      "我做了一个三明治，准备在火车上吃。"
     ]
   },
   {
@@ -571,10 +571,10 @@ const WORDS = [
     ],
     "pinyin": "shālā",
     "examples": [
-      "Sałatka nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A salad will not solve all your problems. Lower your expectations.",
-      "Салат не решит всех твоих проблем. Умерь ожидания.",
-      "沙拉解决不了你所有的问题。降低一点期待吧。"
+      "Ta sałatka potrzebuje odrobiny oliwy.",
+      "This salad needs a little olive oil.",
+      "В этот салат нужно добавить немного оливкового масла.",
+      "这份沙拉需要加一点橄榄油。"
     ]
   },
   {
@@ -588,10 +588,10 @@ const WORDS = [
     ],
     "pinyin": "guǒzhī",
     "examples": [
-      "Sok to dzisiejszy temat. Twój były może poczekać.",
-      "Juice is the topic today. Your ex can wait.",
-      "Сок — сегодняшняя тема. Твой бывший может подождать.",
-      "果汁是今天的话题。你的前任可以等等。"
+      "Chcesz sok czy wodę?",
+      "Would you like juice or water?",
+      "Хочешь сок или воду?",
+      "你想喝果汁还是水？"
     ]
   },
   {
@@ -605,10 +605,10 @@ const WORDS = [
     ],
     "pinyin": "shuǐguǒ",
     "examples": [
-      "Owoce to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Fruit is not an excuse to be late. Nice try, though.",
-      "Фрукты — не оправдание для опоздания. Но попытка неплохая.",
-      "水果不是迟到的借口。不过，这个借口编得还行。"
+      "Kupujemy świeże owoce na targu.",
+      "We buy fresh fruit at the market.",
+      "Мы покупаем свежие фрукты на рынке.",
+      "我们在市场买新鲜水果。"
     ]
   },
   {
@@ -622,10 +622,10 @@ const WORDS = [
     ],
     "pinyin": "shíwù",
     "examples": [
-      "Przyszłam dla jedzenia. Nawiązywanie kontaktów było zasadzką.",
-      "I came for the food. The networking was an ambush.",
-      "Я пришла ради еды. Нетворкинг оказался засадой.",
-      "我是来吃东西的。社交环节简直是埋伏。"
+      "Jedzenie pachnie pysznie.",
+      "The food smells delicious.",
+      "Еда пахнет очень вкусно.",
+      "食物闻起来很香。"
     ]
   },
   {
@@ -639,10 +639,10 @@ const WORDS = [
     ],
     "pinyin": "jī'è",
     "examples": [
-      "Głód zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "Hunger deserves a place in this story. Your unsolicited advice does not.",
-      "Голод заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "饥饿值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Po wędrówce mój głód był silniejszy niż dobre maniery.",
+      "After the hike, my hunger was stronger than my manners.",
+      "После похода голод оказался сильнее моих хороших манер.",
+      "徒步之后，饥饿战胜了我的餐桌礼仪。"
     ]
   },
   {
@@ -656,10 +656,10 @@ const WORDS = [
     ],
     "pinyin": "kǒukě",
     "examples": [
-      "Pragnienie to odpowiedź. Pytanie pewnie było dziwne.",
-      "Thirst is the answer. The question was probably strange.",
-      "Жажда — это ответ. Вопрос, наверное, был странным.",
-      "口渴就是答案。问题大概很奇怪。"
+      "Szklanka wody ugasiła moje pragnienie.",
+      "A glass of water quenched my thirst.",
+      "Стакан воды утолил мою жажду.",
+      "我口渴了，喝了一杯水就好了。"
     ]
   },
   {
@@ -673,10 +673,10 @@ const WORDS = [
     ],
     "pinyin": "shípǔ",
     "examples": [
-      "Przepis to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A recipe is not a substitute for common sense. Unfortunately.",
-      "Рецепт — не замена здравому смыслу. К сожалению.",
-      "食谱代替不了常识。真遗憾。"
+      "Ten przepis jest na cztery porcje.",
+      "This recipe serves four people.",
+      "Этот рецепт рассчитан на четыре порции.",
+      "这个食谱可以做四人份。"
     ]
   },
   {
@@ -690,10 +690,10 @@ const WORDS = [
     ],
     "pinyin": "nàixīn",
     "examples": [
-      "Moja cierpliwość jest na urlopie. Nie podała daty powrotu.",
-      "My patience is on vacation. It did not leave a return date.",
-      "Моё терпение в отпуске. Дату возвращения оно не сообщило.",
-      "我的耐心去度假了。它没说什么时候回来。"
+      "Nauka języka wymaga cierpliwości.",
+      "Learning a language takes patience.",
+      "Изучение языка требует терпения.",
+      "学语言需要耐心。"
     ]
   },
   {
@@ -707,10 +707,10 @@ const WORDS = [
     ],
     "pinyin": "zìxìn",
     "examples": [
-      "Twoja pewność siebie robi wrażenie. Dowodów brak.",
-      "Your confidence is impressive. Your evidence is missing.",
-      "Твоя уверенность впечатляет. А вот доказательств нет.",
-      "你的自信令人佩服。证据却不见踪影。"
+      "Codzienne mówienie choćby przez chwilę buduje pewność siebie.",
+      "Speaking a little every day builds confidence.",
+      "Если говорить понемногу каждый день, уверенность в себе растёт.",
+      "每天开口说一点，就能增强自信。"
     ]
   },
   {
@@ -724,10 +724,10 @@ const WORDS = [
     ],
     "pinyin": "dònglì",
     "examples": [
-      "Moja motywacja pojawia się dokładnie wtedy, gdy pora spać.",
-      "My motivation arrives exactly when it is time to go to bed.",
-      "Моя мотивация появляется ровно тогда, когда пора спать.",
-      "我的动力总是在该睡觉的时候准时出现。"
+      "Moja motywacja rośnie, gdy zauważam postępy.",
+      "My motivation improves when I notice progress.",
+      "Моя мотивация растёт, когда я замечаю прогресс.",
+      "看到进步时，我就更有动力。"
     ]
   },
   {
@@ -741,10 +741,10 @@ const WORDS = [
     ],
     "pinyin": "bàofù",
     "examples": [
-      "Ambicja to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Ambition is not an excuse to be late. Nice try, though.",
-      "Амбиция — не оправдание для опоздания. Но попытка неплохая.",
-      "抱负不是迟到的借口。不过，这个借口编得还行。"
+      "Jej ambicją jest otwarcie małej księgarni.",
+      "Her ambition is to open a small bookshop.",
+      "Её амбиция — открыть небольшой книжный магазин.",
+      "她的抱负是开一家小书店。"
     ]
   },
   {
@@ -758,10 +758,10 @@ const WORDS = [
     ],
     "pinyin": "chénggōng",
     "examples": [
-      "Sukces jest słodki. Nierobienie absolutnie niczego też.",
-      "Success is sweet. So is doing absolutely nothing.",
-      "Успех сладок. Как и полное безделье.",
-      "成功很甜。什么都不做也很甜。"
+      "Przeczytanie pierwszej książki po angielsku było dla mnie sukcesem.",
+      "Finishing my first book in English felt like a success.",
+      "Прочитать первую книгу на английском стало для меня успехом.",
+      "读完第一本英文书让我感受到了成功。"
     ]
   },
   {
@@ -775,10 +775,10 @@ const WORDS = [
     ],
     "pinyin": "shībài",
     "examples": [
-      "Ta porażka to lekcja. Kosztowna.",
-      "This failure is a learning experience. An expensive one.",
-      "Эта неудача — урок. Дорогой.",
-      "这次失败是一堂课。学费挺贵。"
+      "Jedna porażka nie oznacza, że trzeba się poddać.",
+      "One failure does not mean you should give up.",
+      "Одна неудача не означает, что нужно сдаваться.",
+      "一次失败不代表你应该放弃。"
     ]
   },
   {
@@ -792,10 +792,10 @@ const WORDS = [
     ],
     "pinyin": "yùnqi",
     "examples": [
-      "Powodzenia. Twój plan będzie tego potrzebował.",
-      "Good luck. Your plan will need it.",
-      "Удачи. Твоему плану она понадобится.",
-      "祝你好运。你的计划会需要的。"
+      "Cały tydzień było słonecznie. Co za szczęście!",
+      "We had sunshine all week. What luck!",
+      "Всю неделю было солнечно. Какая удача!",
+      "整个星期都是晴天，运气真好！"
     ]
   },
   {
@@ -809,10 +809,10 @@ const WORDS = [
     ],
     "pinyin": "xìngfú",
     "examples": [
-      "Radość to nie zamiennik zdrowego rozsądku. Niestety.",
-      "Happiness is not a substitute for common sense. Unfortunately.",
-      "Счастье — не замена здравому смыслу. К сожалению.",
-      "幸福代替不了常识。真遗憾。"
+      "Spotkanie starego przyjaciela napełniło mnie radością.",
+      "Seeing an old friend filled me with happiness.",
+      "Встреча со старым другом наполнила меня счастьем.",
+      "见到老朋友让我感到很幸福。"
     ]
   },
   {
@@ -826,10 +826,10 @@ const WORDS = [
     ],
     "pinyin": "bēishāng",
     "examples": [
-      "Smutek to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "Sadness is not a personality trait. Someone had to say it.",
-      "Грусть — не черта характера. Кто-то должен был это сказать.",
-      "悲伤不是性格特点。总得有人说出来。"
+      "Poczułam smutek, gdy podróż się skończyła.",
+      "I felt sadness when the trip ended.",
+      "Когда путешествие закончилось, я почувствовала грусть.",
+      "旅行结束时，我感到悲伤。"
     ]
   },
   {
@@ -843,10 +843,10 @@ const WORDS = [
     ],
     "pinyin": "fènnù",
     "examples": [
-      "Moja złość ma doskonałą pamięć.",
-      "My anger has excellent memory.",
-      "У моей злости отличная память.",
-      "我的愤怒记性特别好。"
+      "Poszłam na spacer, żeby uspokoić złość.",
+      "I went for a walk to calm my anger.",
+      "Я пошла гулять, чтобы справиться со злостью.",
+      "我去散步，让自己的愤怒平息下来。"
     ]
   },
   {
@@ -860,10 +860,10 @@ const WORDS = [
     ],
     "pinyin": "kǒngjù",
     "examples": [
-      "Strach to dzisiejszy temat. Twój były może poczekać.",
-      "Fear is the topic today. Your ex can wait.",
-      "Страх — сегодняшняя тема. Твой бывший может подождать.",
-      "恐惧是今天的话题。你的前任可以等等。"
+      "Strach przed błędami powstrzymuje mnie przed mówieniem.",
+      "My fear of making mistakes stops me from speaking.",
+      "Страх ошибок мешает мне говорить.",
+      "对犯错的恐惧让我不敢开口。"
     ]
   },
   {
@@ -877,10 +877,10 @@ const WORDS = [
     ],
     "pinyin": "xīwàng",
     "examples": [
-      "Nadal mam nadzieję. Najwyraźniej niczego się nie nauczyłam.",
-      "I still have hope. Clearly, I have learned nothing.",
-      "У меня ещё есть надежда. Видимо, я ничему не научилась.",
-      "我还抱有希望。显然，我什么教训都没吸取。"
+      "Nadal mam nadzieję, że pociąg przyjedzie punktualnie.",
+      "I still have hope that the train will arrive on time.",
+      "У меня ещё есть надежда, что поезд придёт вовремя.",
+      "我仍然希望火车能准时到达。"
     ]
   },
   {
@@ -894,10 +894,10 @@ const WORDS = [
     ],
     "pinyin": "ài",
     "examples": [
-      "Miłość to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "Love is not the problem. Your dramatic reaction is.",
-      "Любовь — не проблема. Проблема — твоя драматичная реакция.",
-      "爱不是问题。你那夸张的反应才是问题。"
+      "Okazuje nam miłość, gotując dla nas.",
+      "She shows her love by cooking for us.",
+      "Она показывает свою любовь, готовя для нас.",
+      "她通过给我们做饭表达爱。"
     ]
   },
   {
@@ -911,10 +911,10 @@ const WORDS = [
     ],
     "pinyin": "yǒuyì",
     "examples": [
-      "Prawdziwa przyjaźń przetrwa złe fryzury i jeszcze gorsze decyzje.",
-      "True friendship survives bad haircuts and worse decisions.",
-      "Настоящая дружба переживёт плохие стрижки и ещё худшие решения.",
-      "真正的友谊经得起难看的发型和更糟的决定。"
+      "Nasza przyjaźń zaczęła się w szkole.",
+      "Our friendship began at school.",
+      "Наша дружба началась в школе.",
+      "我们的友谊始于学校。"
     ]
   },
   {
@@ -928,10 +928,10 @@ const WORDS = [
     ],
     "pinyin": "xìnrèn",
     "examples": [
-      "Zaufanie to odpowiedź. Pytanie pewnie było dziwne.",
-      "Trust is the answer. The question was probably strange.",
-      "Доверие — это ответ. Вопрос, наверное, был странным.",
-      "信任就是答案。问题大概很奇怪。"
+      "Zaufanie rośnie, gdy ludzie dotrzymują obietnic.",
+      "Trust grows when people keep their promises.",
+      "Доверие растёт, когда люди выполняют обещания.",
+      "人们信守承诺，信任就会增加。"
     ]
   },
   {
@@ -945,10 +945,10 @@ const WORDS = [
     ],
     "pinyin": "zūnzhòng",
     "examples": [
-      "Na szacunek trzeba zasłużyć. Głośność nie jest kwalifikacją.",
-      "Respect is earned. Volume is not a qualification.",
-      "Уважение нужно заслужить. Громкость — не квалификация.",
-      "尊重是赢来的。嗓门大不算资格。"
+      "Słuchanie bez przerywania jest oznaką szacunku.",
+      "Listening without interrupting is a sign of respect.",
+      "Слушать, не перебивая, — знак уважения.",
+      "认真听别人说话、不打断，是尊重的表现。"
     ]
   },
   {
@@ -962,10 +962,10 @@ const WORDS = [
     ],
     "pinyin": "chéngshí",
     "examples": [
-      "Uczciwość to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "Honesty is not a personality trait. Someone had to say it.",
-      "Честность — не черта характера. Кто-то должен был это сказать.",
-      "诚实不是性格特点。总得有人说出来。"
+      "Doceniam twoją uczciwość, nawet gdy prawda jest trudna.",
+      "I appreciate your honesty, even when the truth is difficult.",
+      "Я ценю твою честность, даже когда правду трудно принять.",
+      "即使真相难以接受，我也感谢你的诚实。"
     ]
   },
   {
@@ -979,10 +979,10 @@ const WORDS = [
     ],
     "pinyin": "shànliáng",
     "examples": [
-      "Życzliwość nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "Kindness will not solve all your problems. Lower your expectations.",
-      "Доброта не решит всех твоих проблем. Умерь ожидания.",
-      "善良解决不了你所有的问题。降低一点期待吧。"
+      "Mały gest życzliwości może odmienić czyjś dzień.",
+      "A small act of kindness can change someone's day.",
+      "Небольшой добрый поступок может изменить чей-то день.",
+      "一个小小的善良举动就能改变别人一天的心情。"
     ]
   },
   {
@@ -996,10 +996,10 @@ const WORDS = [
     ],
     "pinyin": "yǒngqì",
     "examples": [
-      "Trzeba odwagi, żeby wysłać tego e-maila bez sprawdzania go dwanaście razy.",
-      "It takes courage to send that email without checking it twelve times.",
-      "Нужна смелость, чтобы отправить это письмо, не проверив его двенадцать раз.",
-      "不检查十二遍就发出那封邮件，是需要勇气的。"
+      "Zabranie głosu przed klasą wymagało odwagi.",
+      "It took courage to speak in front of the class.",
+      "Чтобы выступить перед классом, понадобилась смелость.",
+      "在全班面前发言需要勇气。"
     ]
   },
   {
@@ -1013,10 +1013,10 @@ const WORDS = [
     ],
     "pinyin": "hàoqíxīn",
     "examples": [
-      "Ciekawość to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Curiosity is not an excuse to be late. Nice try, though.",
-      "Любопытство — не оправдание для опоздания. Но попытка неплохая.",
-      "好奇心不是迟到的借口。不过，这个借口编得还行。"
+      "Ciekawość sprawiła, że otworzyłam stare pudełko.",
+      "Curiosity made me open the old box.",
+      "Любопытство заставило меня открыть старую коробку.",
+      "好奇心让我打开了那个旧盒子。"
     ]
   },
   {
@@ -1030,10 +1030,10 @@ const WORDS = [
     ],
     "pinyin": "chuàngzàolì",
     "examples": [
-      "Kreatywność to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "Creativity is not the problem. Your dramatic reaction is.",
-      "Креативность — не проблема. Проблема — твоя драматичная реакция.",
-      "创造力不是问题。你那夸张的反应才是问题。"
+      "Ten projekt daje mi przestrzeń na kreatywność.",
+      "This project gives me room for creativity.",
+      "Этот проект даёт мне простор для креативности.",
+      "这个项目给了我发挥创造力的空间。"
     ]
   },
   {
@@ -1047,10 +1047,10 @@ const WORDS = [
     ],
     "pinyin": "xiǎngxiànglì",
     "examples": [
-      "Wyobraźnia zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "Imagination deserves a place in this story. Your unsolicited advice does not.",
-      "Воображение заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "想象力值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Dzieci często mają bujną wyobraźnię.",
+      "Children often have a vivid imagination.",
+      "У детей часто богатое воображение.",
+      "孩子们往往有丰富的想象力。"
     ]
   },
   {
@@ -1064,10 +1064,10 @@ const WORDS = [
     ],
     "pinyin": "zhìhuì",
     "examples": [
-      "Mądrość to odpowiedź. Pytanie pewnie było dziwne.",
-      "Wisdom is the answer. The question was probably strange.",
-      "Мудрость — это ответ. Вопрос, наверное, был странным.",
-      "智慧就是答案。问题大概很奇怪。"
+      "Moja babcia dzieliła się mądrością poprzez opowieści.",
+      "My grandmother shared her wisdom through stories.",
+      "Моя бабушка делилась мудростью через рассказы.",
+      "奶奶通过故事分享她的智慧。"
     ]
   },
   {
@@ -1081,10 +1081,10 @@ const WORDS = [
     ],
     "pinyin": "zhīshi",
     "examples": [
-      "Wiedza to nie zamiennik zdrowego rozsądku. Niestety.",
-      "Knowledge is not a substitute for common sense. Unfortunately.",
-      "Знание — не замена здравому смыслу. К сожалению.",
-      "知识代替不了常识。真遗憾。"
+      "Czytanie poszerza naszą wiedzę o świecie.",
+      "Reading expands our knowledge of the world.",
+      "Чтение расширяет наши знания о мире.",
+      "阅读能增长我们对世界的知识。"
     ]
   },
   {
@@ -1098,10 +1098,10 @@ const WORDS = [
     ],
     "pinyin": "jīngyàn",
     "examples": [
-      "Doświadczenie to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "Experience is not a personality trait. Someone had to say it.",
-      "Опыт — не черта характера. Кто-то должен был это сказать.",
-      "经验不是性格特点。总得有人说出来。"
+      "Nie potrzebujesz doświadczenia, żeby dołączyć do tego kursu.",
+      "You do not need experience to join this course.",
+      "Чтобы записаться на этот курс, опыт не нужен.",
+      "参加这门课程不需要经验。"
     ]
   },
   {
@@ -1115,10 +1115,10 @@ const WORDS = [
     ],
     "pinyin": "zìyóu",
     "examples": [
-      "Wolność nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "Freedom will not solve all your problems. Lower your expectations.",
-      "Свобода не решит всех твоих проблем. Умерь ожидания.",
-      "自由解决不了你所有的问题。降低一点期待吧。"
+      "Praca zdalna daje mi więcej wolności.",
+      "Working remotely gives me more freedom.",
+      "Удалённая работа даёт мне больше свободы.",
+      "远程工作给了我更多自由。"
     ]
   },
   {
@@ -1132,10 +1132,10 @@ const WORDS = [
     ],
     "pinyin": "píngjìng",
     "examples": [
-      "Spokój to dzisiejszy temat. Twój były może poczekać.",
-      "Peace is the topic today. Your ex can wait.",
-      "Спокойствие — сегодняшняя тема. Твой бывший может подождать.",
-      "平静是今天的话题。你的前任可以等等。"
+      "Po pracy odnajduję spokój w ogrodzie.",
+      "I find peace in the garden after work.",
+      "После работы я нахожу спокойствие в саду.",
+      "下班后，我在花园里找到平静。"
     ]
   },
   {
@@ -1149,10 +1149,10 @@ const WORDS = [
     ],
     "pinyin": "ānjìng",
     "examples": [
-      "Twoja cisza to najlepszy argument, jaki dziś przedstawiłeś.",
-      "Your silence is the best point you have made today.",
-      "Твоя тишина — лучший аргумент за сегодня.",
-      "你的沉默是你今天最有说服力的发言。"
+      "Cisza w bibliotece pomaga mi się skupić.",
+      "The silence in the library helps me concentrate.",
+      "Тишина в библиотеке помогает мне сосредоточиться.",
+      "图书馆里的安静让我能集中注意力。"
     ]
   },
   {
@@ -1166,10 +1166,10 @@ const WORDS = [
     ],
     "pinyin": "hùnluàn",
     "examples": [
-      "To nie chaos. To mój system porządkowania dokumentów.",
-      "This is not chaos. It is my filing system.",
-      "Это не хаос. Это моя система хранения документов.",
-      "这不是混乱。这是我的文件管理系统。"
+      "Na moim biurku panuje chaos, ale wiem, gdzie wszystko jest.",
+      "My desk is chaos, but I know where everything is.",
+      "На моём столе хаос, но я знаю, где что лежит.",
+      "我的书桌一片混乱，但我知道每样东西在哪儿。"
     ]
   },
   {
@@ -1183,10 +1183,10 @@ const WORDS = [
     ],
     "pinyin": "yālì",
     "examples": [
-      "Radzę sobie ze stresem, dostarczając mu więcej powodów do zmartwień.",
-      "I manage stress by giving it more things to worry about.",
-      "Я справляюсь со стрессом, подкидывая ему новые поводы для беспокойства.",
-      "我应对压力的方式，就是给它更多值得担心的事。"
+      "Zbyt wiele terminów wywołuje u mnie stres.",
+      "Too many deadlines cause me stress.",
+      "Слишком много сроков вызывают у меня стресс.",
+      "太多截止日期让我感到压力。"
     ]
   },
   {
@@ -1200,10 +1200,10 @@ const WORDS = [
     ],
     "pinyin": "jīnglì",
     "examples": [
-      "Energia to odpowiedź. Pytanie pewnie było dziwne.",
-      "Energy is the answer. The question was probably strange.",
-      "Энергия — это ответ. Вопрос, наверное, был странным.",
-      "精力就是答案。问题大概很奇怪。"
+      "Po dobrze przespanej nocy mam więcej energii.",
+      "After a good night's sleep, I have more energy.",
+      "После хорошего сна у меня больше энергии.",
+      "睡个好觉之后，我更有精力。"
     ]
   },
   {
@@ -1217,10 +1217,10 @@ const WORDS = [
     ],
     "pinyin": "xiūxi",
     "examples": [
-      "Odpoczynek to nie zamiennik zdrowego rozsądku. Niestety.",
-      "Rest is not a substitute for common sense. Unfortunately.",
-      "Отдых — не замена здравому смыслу. К сожалению.",
-      "休息代替不了常识。真遗憾。"
+      "Po długiej podróży potrzebowaliśmy odpoczynku.",
+      "After the long journey, we needed rest.",
+      "После долгой дороги нам нужен был отдых.",
+      "长途旅行后，我们需要休息。"
     ]
   },
   {
@@ -1234,10 +1234,10 @@ const WORDS = [
     ],
     "pinyin": "shuìmián",
     "examples": [
-      "Sen to moje hobby, mój talent i mój plan na pięć lat.",
-      "Sleep is my hobby, my talent and my five-year plan.",
-      "Сон — моё хобби, мой талант и мой план на пять лет.",
-      "睡眠是我的爱好、特长和五年规划。"
+      "Potrzebuję więcej snu i mniej nocnych filmików.",
+      "I need more sleep and fewer late-night videos.",
+      "Мне нужно больше сна и меньше ночных видео.",
+      "我需要更多睡眠，少在深夜看视频。"
     ]
   },
   {
@@ -1251,10 +1251,10 @@ const WORDS = [
     ],
     "pinyin": "wúliáo",
     "examples": [
-      "Nuda nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "Boredom will not solve all your problems. Lower your expectations.",
-      "Скука не решит всех твоих проблем. Умерь ожидания.",
-      "无聊解决不了你所有的问题。降低一点期待吧。"
+      "Zaczęłam rysować, żeby uciec od nudy.",
+      "I started drawing to escape boredom.",
+      "Я начала рисовать, чтобы избавиться от скуки.",
+      "我开始画画，摆脱无聊。"
     ]
   },
   {
@@ -1268,10 +1268,10 @@ const WORDS = [
     ],
     "pinyin": "zìháo",
     "examples": [
-      "Duma to dzisiejszy temat. Twój były może poczekać.",
-      "Pride is the topic today. Your ex can wait.",
-      "Гордость — сегодняшняя тема. Твой бывший может подождать.",
-      "自豪是今天的话题。你的前任可以等等。"
+      "Poczułam dumę, gdy skończyłam projekt.",
+      "I felt pride when I finished the project.",
+      "Я почувствовала гордость, когда закончила проект.",
+      "完成项目时，我感到自豪。"
     ]
   },
   {
@@ -1285,10 +1285,10 @@ const WORDS = [
     ],
     "pinyin": "jídù",
     "examples": [
-      "Zazdrość to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Jealousy is not an excuse to be late. Nice try, though.",
-      "Ревность — не оправдание для опоздания. Но попытка неплохая.",
-      "嫉妒不是迟到的借口。不过，这个借口编得还行。"
+      "Zazdrość może zniszczyć związek.",
+      "Jealousy can damage a relationship.",
+      "Ревность может разрушить отношения.",
+      "嫉妒会伤害一段关系。"
     ]
   },
   {
@@ -1302,10 +1302,10 @@ const WORDS = [
     ],
     "pinyin": "jīngxǐ",
     "examples": [
-      "Niespodzianka to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "Surprise is not the problem. Your dramatic reaction is.",
-      "Сюрприз — не проблема. Проблема — твоя драматичная реакция.",
-      "惊喜不是问题。你那夸张的反应才是问题。"
+      "Przyjęcie było całkowitą niespodzianką.",
+      "The party was a complete surprise.",
+      "Вечеринка стала полным сюрпризом.",
+      "这场聚会完全是个惊喜。"
     ]
   },
   {
@@ -1319,10 +1319,10 @@ const WORDS = [
     ],
     "pinyin": "xíguàn",
     "examples": [
-      "Nawyk zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A habit deserves a place in this story. Your unsolicited advice does not.",
-      "Привычка заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "习惯值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Czytanie przed snem stało się nawykiem.",
+      "Reading before bed has become a habit.",
+      "Чтение перед сном стало привычкой.",
+      "睡前阅读已经成了习惯。"
     ]
   },
   {
@@ -1336,10 +1336,10 @@ const WORDS = [
     ],
     "pinyin": "jièkǒu",
     "examples": [
-      "Ta wymówka zasługuje na nagrodę za twórcze pisanie.",
-      "That excuse deserves an award for creative writing.",
-      "Эта отговорка заслуживает премии за творческое письмо.",
-      "这个借口值得拿个创意写作奖。"
+      "Muszę się uczyć, a nie wymyślać kolejną wymówkę.",
+      "I need to study, not invent another excuse.",
+      "Мне нужно учиться, а не придумывать очередную отговорку.",
+      "我需要学习，而不是再找一个借口。"
     ]
   },
   {
@@ -1353,10 +1353,10 @@ const WORDS = [
     ],
     "pinyin": "yìjiàn",
     "examples": [
-      "Opinia to nie zamiennik zdrowego rozsądku. Niestety.",
-      "An opinion is not a substitute for common sense. Unfortunately.",
-      "Мнение — не замена здравому смыслу. К сожалению.",
-      "意见代替不了常识。真遗憾。"
+      "Moim zdaniem drugi projekt jest czytelniejszy.",
+      "In my opinion, the second design is clearer.",
+      "По моему мнению, второй вариант понятнее.",
+      "我的意见是，第二个设计更清楚。"
     ]
   },
   {
@@ -1370,10 +1370,10 @@ const WORDS = [
     ],
     "pinyin": "shū",
     "examples": [
-      "Kupiłam kolejną książkę. Przeczytanie jej to osobny projekt.",
-      "I bought another book. Reading it is a separate project.",
-      "Я купила ещё одну книгу. Прочитать её — отдельный проект.",
-      "我又买了一本书。读完它是另一个项目。"
+      "Pożyczyłam książkę z biblioteki.",
+      "I borrowed a book from the library.",
+      "Я взяла книгу в библиотеке.",
+      "我从图书馆借了一本书。"
     ]
   },
   {
@@ -1387,10 +1387,10 @@ const WORDS = [
     ],
     "pinyin": "bǐjìběn",
     "examples": [
-      "Ten zeszyt zawiera trzy pomysły i siedemdziesiąt list zakupów.",
-      "This notebook contains three ideas and seventy shopping lists.",
-      "В этой тетради три идеи и семьдесят списков покупок.",
-      "这个笔记本里有三个想法和七十份购物清单。"
+      "Zapisuję nowe słowa w zeszycie.",
+      "I write new words in a notebook.",
+      "Я записываю новые слова в тетрадь.",
+      "我把新单词写在笔记本里。"
     ]
   },
   {
@@ -1404,10 +1404,10 @@ const WORDS = [
     ],
     "pinyin": "yuánzhūbǐ",
     "examples": [
-      "Długopis to dzisiejszy temat. Twój były może poczekać.",
-      "A pen is the topic today. Your ex can wait.",
-      "Ручка — сегодняшняя тема. Твой бывший может подождать.",
-      "圆珠笔是今天的话题。你的前任可以等等。"
+      "Mogę pożyczyć twój długopis?",
+      "Can I borrow your pen?",
+      "Можно одолжить твою ручку?",
+      "我可以借一下你的圆珠笔吗？"
     ]
   },
   {
@@ -1421,10 +1421,10 @@ const WORDS = [
     ],
     "pinyin": "qiānbǐ",
     "examples": [
-      "Ołówek to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A pencil is not an excuse to be late. Nice try, though.",
-      "Карандаш — не оправдание для опоздания. Но попытка неплохая.",
-      "铅笔不是迟到的借口。不过，这个借口编得还行。"
+      "Narysuj kontur ołówkiem.",
+      "Draw the outline with a pencil.",
+      "Нарисуй контур карандашом.",
+      "用铅笔画出轮廓。"
     ]
   },
   {
@@ -1438,10 +1438,10 @@ const WORDS = [
     ],
     "pinyin": "shūzhuō",
     "examples": [
-      "Biurko to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A desk is not the problem. Your dramatic reaction is.",
-      "Письменный стол — не проблема. Проблема — твоя драматичная реакция.",
-      "书桌不是问题。你那夸张的反应才是问题。"
+      "Moje biurko stoi przy oknie.",
+      "My desk is next to the window.",
+      "Мой письменный стол стоит у окна.",
+      "我的书桌在窗边。"
     ]
   },
   {
@@ -1455,10 +1455,10 @@ const WORDS = [
     ],
     "pinyin": "yǐzi",
     "examples": [
-      "Krzesło zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A chair deserves a place in this story. Your unsolicited advice does not.",
-      "Стул заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "椅子值得出现在这个故事里。你那些没人问的建议就免了。"
+      "To krzesło jest wystarczająco wygodne na długie lekcje.",
+      "This chair is comfortable enough for long lessons.",
+      "Этот стул достаточно удобен для долгих уроков.",
+      "这把椅子很舒服，适合上长课。"
     ]
   },
   {
@@ -1472,10 +1472,10 @@ const WORDS = [
     ],
     "pinyin": "zhuōzi",
     "examples": [
-      "Stół to odpowiedź. Pytanie pewnie było dziwne.",
-      "A table is the answer. The question was probably strange.",
-      "Стол — это ответ. Вопрос, наверное, был странным.",
-      "桌子就是答案。问题大概很奇怪。"
+      "Nakrywamy do stołu przed kolacją.",
+      "We set the table before dinner.",
+      "Мы накрываем на стол перед ужином.",
+      "晚餐前，我们摆好桌子。"
     ]
   },
   {
@@ -1489,10 +1489,10 @@ const WORDS = [
     ],
     "pinyin": "chuáng",
     "examples": [
-      "Moje łóżko wspiera mnie bardziej niż większość ludzi.",
-      "My bed supports me more than most people do.",
-      "Моя кровать поддерживает меня лучше, чем большинство людей.",
-      "我的床比大多数人都更支持我。"
+      "Wczoraj wieczorem wcześnie położyłam się do łóżka.",
+      "I went to bed early last night.",
+      "Вчера вечером я рано легла в кровать.",
+      "昨晚我很早就上床了。"
     ]
   },
   {
@@ -1506,10 +1506,10 @@ const WORDS = [
     ],
     "pinyin": "zhěntou",
     "examples": [
-      "Poduszka to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A pillow is not a personality trait. Someone had to say it.",
-      "Подушка — не черта характера. Кто-то должен был это сказать.",
-      "枕头不是性格特点。总得有人说出来。"
+      "Ta poduszka jest dla mnie za miękka.",
+      "This pillow is too soft for me.",
+      "Эта подушка для меня слишком мягкая.",
+      "这个枕头对我来说太软了。"
     ]
   },
   {
@@ -1523,10 +1523,10 @@ const WORDS = [
     ],
     "pinyin": "tǎnzi",
     "examples": [
-      "Koc nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A blanket will not solve all your problems. Lower your expectations.",
-      "Одеяло не решит всех твоих проблем. Умерь ожидания.",
-      "毯子解决不了你所有的问题。降低一点期待吧。"
+      "Otuliłam się kocem i otworzyłam książkę.",
+      "I wrapped myself in a blanket and opened a book.",
+      "Я завернулась в одеяло и открыла книгу.",
+      "我裹着毯子，打开了一本书。"
     ]
   },
   {
@@ -1540,10 +1540,10 @@ const WORDS = [
     ],
     "pinyin": "dēng",
     "examples": [
-      "Lampa to dzisiejszy temat. Twój były może poczekać.",
-      "A lamp is the topic today. Your ex can wait.",
-      "Лампа — сегодняшняя тема. Твой бывший может подождать.",
-      "灯是今天的话题。你的前任可以等等。"
+      "Włącz lampę, żeby móc czytać.",
+      "Turn on the lamp so you can read.",
+      "Включи лампу, чтобы можно было читать.",
+      "打开灯，这样你就能看书了。"
     ]
   },
   {
@@ -1557,10 +1557,10 @@ const WORDS = [
     ],
     "pinyin": "jìngzi",
     "examples": [
-      "Lustro jest szczere. Dzisiaj trochę za szczere.",
-      "The mirror is honest. A little too honest today.",
-      "Зеркало честное. Сегодня даже слишком.",
-      "镜子很诚实。今天有点太诚实了。"
+      "Sprawdziłam fryzurę w lustrze.",
+      "I checked my hair in the mirror.",
+      "Я посмотрела на свою причёску в зеркало.",
+      "我照镜子看了看头发。"
     ]
   },
   {
@@ -1574,10 +1574,10 @@ const WORDS = [
     ],
     "pinyin": "chuānghu",
     "examples": [
-      "Okno to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A window is not the problem. Your dramatic reaction is.",
-      "Окно — не проблема. Проблема — твоя драматичная реакция.",
-      "窗户不是问题。你那夸张的反应才是问题。"
+      "Otwórz okno, żeby wpuścić świeże powietrze.",
+      "Open the window to let some fresh air in.",
+      "Открой окно, чтобы впустить свежий воздух.",
+      "打开窗户，让新鲜空气进来。"
     ]
   },
   {
@@ -1591,10 +1591,10 @@ const WORDS = [
     ],
     "pinyin": "mén",
     "examples": [
-      "Drzwi zasługują na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A door deserves a place in this story. Your unsolicited advice does not.",
-      "Дверь заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "门值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Zamknij drzwi po cichu.",
+      "Please close the door quietly.",
+      "Пожалуйста, закрой дверь тихо.",
+      "请轻轻关门。"
     ]
   },
   {
@@ -1608,10 +1608,10 @@ const WORDS = [
     ],
     "pinyin": "yàoshi",
     "examples": [
-      "Klucz to odpowiedź. Pytanie pewnie było dziwne.",
-      "A key is the answer. The question was probably strange.",
-      "Ключ — это ответ. Вопрос, наверное, был странным.",
-      "钥匙就是答案。问题大概很奇怪。"
+      "Zostawiłam klucz w kieszeni płaszcza.",
+      "I left the key in my coat pocket.",
+      "Я оставила ключ в кармане пальто.",
+      "我把钥匙放在大衣口袋里了。"
     ]
   },
   {
@@ -1625,10 +1625,10 @@ const WORDS = [
     ],
     "pinyin": "bāo",
     "examples": [
-      "Torba to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A bag is not a substitute for common sense. Unfortunately.",
-      "Сумка — не замена здравому смыслу. К сожалению.",
-      "包代替不了常识。真遗憾。"
+      "Ta torba jest wystarczająco duża na mój laptop.",
+      "This bag is big enough for my laptop.",
+      "Эта сумка достаточно большая для моего ноутбука.",
+      "这个包足够大，能装下我的笔记本电脑。"
     ]
   },
   {
@@ -1642,10 +1642,10 @@ const WORDS = [
     ],
     "pinyin": "qiánbāo",
     "examples": [
-      "Mój portfel jest na bardzo ścisłej diecie.",
-      "My wallet is on a very strict diet.",
-      "Мой кошелёк на очень строгой диете.",
-      "我的钱包正在严格节食。"
+      "Mój portfel jest w przedniej kieszeni torby.",
+      "My wallet is in the front pocket of my bag.",
+      "Мой кошелёк в переднем кармане сумки.",
+      "我的钱包在包前面的口袋里。"
     ]
   },
   {
@@ -1659,10 +1659,10 @@ const WORDS = [
     ],
     "pinyin": "yǔsǎn",
     "examples": [
-      "Parasol nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "An umbrella will not solve all your problems. Lower your expectations.",
-      "Зонт не решит всех твоих проблем. Умерь ожидания.",
-      "雨伞解决不了你所有的问题。降低一点期待吧。"
+      "Jutro ma padać, więc wezmę parasol.",
+      "It will rain tomorrow, so I will take an umbrella.",
+      "Завтра будет дождь, поэтому я возьму зонт.",
+      "明天会下雨，所以我要带雨伞。"
     ]
   },
   {
@@ -1676,10 +1676,10 @@ const WORDS = [
     ],
     "pinyin": "shǒujī",
     "examples": [
-      "Mój telefon jest inteligentny. Jego właścicielka nadal się ładuje.",
-      "My phone is smart. Its owner is still buffering.",
-      "Мой телефон умный. Его хозяйка всё ещё загружается.",
-      "我的手机很智能。它的主人还在加载中。"
+      "Bateria w moim telefonie jest prawie rozładowana.",
+      "My phone battery is almost empty.",
+      "Батарея моего телефона почти разрядилась.",
+      "我的手机快没电了。"
     ]
   },
   {
@@ -1693,10 +1693,10 @@ const WORDS = [
     ],
     "pinyin": "diànnǎo",
     "examples": [
-      "Komputer to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A computer is not an excuse to be late. Nice try, though.",
-      "Компьютер — не оправдание для опоздания. Но попытка неплохая.",
-      "电脑不是迟到的借口。不过，这个借口编得还行。"
+      "Używam komputera do ćwiczenia pisania.",
+      "I use my computer to practise writing.",
+      "Я использую компьютер, чтобы практиковаться в письме.",
+      "我用电脑练习写作。"
     ]
   },
   {
@@ -1710,10 +1710,10 @@ const WORDS = [
     ],
     "pinyin": "jiànpán",
     "examples": [
-      "Klawiatura to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A keyboard is not the problem. Your dramatic reaction is.",
-      "Клавиатура — не проблема. Проблема — твоя драматичная реакция.",
-      "键盘不是问题。你那夸张的反应才是问题。"
+      "Cicha klawiatura ułatwia pracę nocą.",
+      "A quiet keyboard makes late-night work easier.",
+      "Тихая клавиатура облегчает работу ночью.",
+      "安静的键盘让深夜工作更方便。"
     ]
   },
   {
@@ -1727,10 +1727,10 @@ const WORDS = [
     ],
     "pinyin": "píngmù",
     "examples": [
-      "Ekran zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A screen deserves a place in this story. Your unsolicited advice does not.",
-      "Экран заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "屏幕值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Ekran jest za jasny w tym ciemnym pokoju.",
+      "The screen is too bright for this dark room.",
+      "Экран слишком яркий для этой тёмной комнаты.",
+      "在这个暗房间里，屏幕太亮了。"
     ]
   },
   {
@@ -1744,10 +1744,10 @@ const WORDS = [
     ],
     "pinyin": "xiàngjī",
     "examples": [
-      "Aparat fotograficzny to odpowiedź. Pytanie pewnie było dziwne.",
-      "A camera is the answer. The question was probably strange.",
-      "Фотоаппарат — это ответ. Вопрос, наверное, был странным.",
-      "相机就是答案。问题大概很奇怪。"
+      "Zabrałam aparat fotograficzny w podróż.",
+      "I took my camera on the trip.",
+      "Я взяла фотоаппарат в поездку.",
+      "我旅行时带了相机。"
     ]
   },
   {
@@ -1761,10 +1761,10 @@ const WORDS = [
     ],
     "pinyin": "shízhōng",
     "examples": [
-      "Zegar to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A clock is not a substitute for common sense. Unfortunately.",
-      "Часы — не замена здравому смыслу. К сожалению.",
-      "时钟代替不了常识。真遗憾。"
+      "Zegar na ścianie spóźnia się o pięć minut.",
+      "The clock on the wall is five minutes slow.",
+      "Часы на стене отстают на пять минут.",
+      "墙上的时钟慢了五分钟。"
     ]
   },
   {
@@ -1778,10 +1778,10 @@ const WORDS = [
     ],
     "pinyin": "shǒubiǎo",
     "examples": [
-      "Zegarek to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A watch is not a personality trait. Someone had to say it.",
-      "Наручные часы — не черта характера. Кто-то должен был это сказать.",
-      "手表不是性格特点。总得有人说出来。"
+      "Mój zegarek zatrzymał się podczas spotkania.",
+      "My watch stopped during the meeting.",
+      "Мои наручные часы остановились во время встречи.",
+      "开会时，我的手表停了。"
     ]
   },
   {
@@ -1795,10 +1795,10 @@ const WORDS = [
     ],
     "pinyin": "bēizi",
     "examples": [
-      "Filiżanka nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A cup will not solve all your problems. Lower your expectations.",
-      "Чашка не решит всех твоих проблем. Умерь ожидания.",
-      "杯子解决不了你所有的问题。降低一点期待吧。"
+      "Ogrzałam dłonie o filiżankę herbaty.",
+      "I warmed my hands around a cup of tea.",
+      "Я согрела руки о чашку чая.",
+      "我捧着一杯茶暖手。"
     ]
   },
   {
@@ -1812,10 +1812,10 @@ const WORDS = [
     ],
     "pinyin": "pánzi",
     "examples": [
-      "Talerz to dzisiejszy temat. Twój były może poczekać.",
-      "A plate is the topic today. Your ex can wait.",
-      "Тарелка — сегодняшняя тема. Твой бывший может подождать.",
-      "盘子是今天的话题。你的前任可以等等。"
+      "Połóż czysty talerz na półce.",
+      "Put the clean plate on the shelf.",
+      "Поставь чистую тарелку на полку.",
+      "把干净的盘子放到架子上。"
     ]
   },
   {
@@ -1829,10 +1829,10 @@ const WORDS = [
     ],
     "pinyin": "sháozi",
     "examples": [
-      "Łyżka to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A spoon is not an excuse to be late. Nice try, though.",
-      "Ложка — не оправдание для опоздания. Но попытка неплохая.",
-      "勺子不是迟到的借口。不过，这个借口编得还行。"
+      "Użyj łyżki do wymieszania zupy.",
+      "Use a spoon to stir the soup.",
+      "Помешай суп ложкой.",
+      "用勺子搅拌汤。"
     ]
   },
   {
@@ -1846,10 +1846,10 @@ const WORDS = [
     ],
     "pinyin": "chāzi",
     "examples": [
-      "Widelec to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A fork is not the problem. Your dramatic reaction is.",
-      "Вилка — не проблема. Проблема — твоя драматичная реакция.",
-      "叉子不是问题。你那夸张的反应才是问题。"
+      "Upuściłam widelec pod stół.",
+      "I dropped my fork under the table.",
+      "Я уронила вилку под стол.",
+      "我的叉子掉到桌子下面了。"
     ]
   },
   {
@@ -1863,10 +1863,10 @@ const WORDS = [
     ],
     "pinyin": "dāo",
     "examples": [
-      "Nóż zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A knife deserves a place in this story. Your unsolicited advice does not.",
-      "Нож заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "刀值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Ten nóż łatwo kroi chleb.",
+      "This knife cuts bread easily.",
+      "Этим ножом легко резать хлеб.",
+      "这把刀切面包很轻松。"
     ]
   },
   {
@@ -1880,10 +1880,10 @@ const WORDS = [
     ],
     "pinyin": "píngzi",
     "examples": [
-      "Butelka to odpowiedź. Pytanie pewnie było dziwne.",
-      "A bottle is the answer. The question was probably strange.",
-      "Бутылка — это ответ. Вопрос, наверное, был странным.",
-      "瓶子就是答案。问题大概很奇怪。"
+      "Napełnij butelkę, zanim wyjdziemy.",
+      "Fill the bottle before we leave.",
+      "Наполни бутылку, прежде чем мы уйдём.",
+      "出发前把瓶子装满。"
     ]
   },
   {
@@ -1897,10 +1897,10 @@ const WORDS = [
     ],
     "pinyin": "hézi",
     "examples": [
-      "Pudełko to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A box is not a substitute for common sense. Unfortunately.",
-      "Коробка — не замена здравому смыслу. К сожалению.",
-      "盒子代替不了常识。真遗憾。"
+      "Kot woli pudełko od drogiej zabawki.",
+      "The cat prefers the box to the expensive toy.",
+      "Кот предпочитает коробку дорогой игрушке.",
+      "猫更喜欢盒子，而不是昂贵的玩具。"
     ]
   },
   {
@@ -1914,10 +1914,10 @@ const WORDS = [
     ],
     "pinyin": "làzhú",
     "examples": [
-      "Świeca to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A candle is not a personality trait. Someone had to say it.",
-      "Свеча — не черта характера. Кто-то должен был это сказать.",
-      "蜡烛不是性格特点。总得有人说出来。"
+      "Zapaliliśmy świecę, gdy wyłączono prąd.",
+      "We lit a candle when the power went out.",
+      "Мы зажгли свечу, когда отключили электричество.",
+      "停电时，我们点了一支蜡烛。"
     ]
   },
   {
@@ -1931,10 +1931,10 @@ const WORDS = [
     ],
     "pinyin": "máojīn",
     "examples": [
-      "Ręcznik nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A towel will not solve all your problems. Lower your expectations.",
-      "Полотенце не решит всех твоих проблем. Умерь ожидания.",
-      "毛巾解决不了你所有的问题。降低一点期待吧。"
+      "Powieś ręcznik, żeby wysechł.",
+      "Hang the towel up to dry.",
+      "Повесь полотенце сушиться.",
+      "把毛巾挂起来晾干。"
     ]
   },
   {
@@ -1948,10 +1948,10 @@ const WORDS = [
     ],
     "pinyin": "yáshuā",
     "examples": [
-      "Szczoteczka do zębów to dzisiejszy temat. Twój były może poczekać.",
-      "A toothbrush is the topic today. Your ex can wait.",
-      "Зубная щётка — сегодняшняя тема. Твой бывший может подождать.",
-      "牙刷是今天的话题。你的前任可以等等。"
+      "Zapomniałam spakować szczoteczkę do zębów.",
+      "I forgot to pack my toothbrush.",
+      "Я забыла взять зубную щётку.",
+      "我忘记把牙刷放进行李了。"
     ]
   },
   {
@@ -1965,10 +1965,10 @@ const WORDS = [
     ],
     "pinyin": "féizào",
     "examples": [
-      "Mydło to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Soap is not an excuse to be late. Nice try, though.",
-      "Мыло — не оправдание для опоздания. Но попытка неплохая.",
-      "肥皂不是迟到的借口。不过，这个借口编得还行。"
+      "Umyj ręce mydłem.",
+      "Wash your hands with soap.",
+      "Вымой руки с мылом.",
+      "用肥皂洗手。"
     ]
   },
   {
@@ -1982,10 +1982,10 @@ const WORDS = [
     ],
     "pinyin": "chènshān",
     "examples": [
-      "Koszula to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A shirt is not the problem. Your dramatic reaction is.",
-      "Рубашка — не проблема. Проблема — твоя драматичная реакция.",
-      "衬衫不是问题。你那夸张的反应才是问题。"
+      "Wyprasowałam koszulę przed rozmową kwalifikacyjną.",
+      "I ironed my shirt before the interview.",
+      "Я погладила рубашку перед собеседованием.",
+      "面试前，我熨好了衬衫。"
     ]
   },
   {
@@ -1999,10 +1999,10 @@ const WORDS = [
     ],
     "pinyin": "dàyī",
     "examples": [
-      "Płaszcz zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A coat deserves a place in this story. Your unsolicited advice does not.",
-      "Пальто заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "大衣值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Weź płaszcz, na dworze jest zimno.",
+      "Take your coat; it is cold outside.",
+      "Возьми пальто, на улице холодно.",
+      "带上大衣，外面很冷。"
     ]
   },
   {
@@ -2016,10 +2016,10 @@ const WORDS = [
     ],
     "pinyin": "màozi",
     "examples": [
-      "Kapelusz to odpowiedź. Pytanie pewnie było dziwne.",
-      "A hat is the answer. The question was probably strange.",
-      "Шляпа — это ответ. Вопрос, наверное, был странным.",
-      "帽子就是答案。问题大概很奇怪。"
+      "Wiatr porwał mój kapelusz.",
+      "The wind blew my hat away.",
+      "Ветер унёс мою шляпу.",
+      "风把我的帽子吹走了。"
     ]
   },
   {
@@ -2033,10 +2033,10 @@ const WORDS = [
     ],
     "pinyin": "wéijīn",
     "examples": [
-      "Szalik to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A scarf is not a substitute for common sense. Unfortunately.",
-      "Шарф — не замена здравому смыслу. К сожалению.",
-      "围巾代替不了常识。真遗憾。"
+      "Ten szalik ogrzewa mi szyję.",
+      "This scarf keeps my neck warm.",
+      "Этот шарф согревает мне шею.",
+      "这条围巾让我的脖子很暖和。"
     ]
   },
   {
@@ -2050,10 +2050,10 @@ const WORDS = [
     ],
     "pinyin": "māo",
     "examples": [
-      "Kot nie płaci czynszu, ale ma bardzo stanowcze opinie.",
-      "The cat pays no rent but has very strong opinions.",
-      "Кот не платит за жильё, зато у него очень твёрдые убеждения.",
-      "猫不交房租，意见倒是特别多。"
+      "Kot znowu śpi na moich notatkach.",
+      "The cat is sleeping on my notes again.",
+      "Кот опять спит на моих записях.",
+      "猫又睡在我的笔记上了。"
     ]
   },
   {
@@ -2067,10 +2067,10 @@ const WORDS = [
     ],
     "pinyin": "gǒu",
     "examples": [
-      "Pies we mnie wierzy. Kiepsko ocenia ludzi.",
-      "The dog believes in me. A terrible judge of character.",
-      "Собака в меня верит. Плохо разбирается в людях.",
-      "狗相信我。它看人的眼光真不怎么样。"
+      "Pies potrzebuje spaceru przed śniadaniem.",
+      "The dog needs a walk before breakfast.",
+      "Собаке нужна прогулка перед завтраком.",
+      "狗需要在早餐前出去散步。"
     ]
   },
   {
@@ -2084,10 +2084,10 @@ const WORDS = [
     ],
     "pinyin": "niǎo",
     "examples": [
-      "Ptak to dzisiejszy temat. Twój były może poczekać.",
-      "A bird is the topic today. Your ex can wait.",
-      "Птица — сегодняшняя тема. Твой бывший может подождать.",
-      "鸟是今天的话题。你的前任可以等等。"
+      "Ptak zbudował gniazdo za naszym oknem.",
+      "A bird built a nest outside our window.",
+      "Птица свила гнездо за нашим окном.",
+      "一只鸟在我们窗外筑了巢。"
     ]
   },
   {
@@ -2101,10 +2101,10 @@ const WORDS = [
     ],
     "pinyin": "yú",
     "examples": [
-      "Ryba to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A fish is not an excuse to be late. Nice try, though.",
-      "Рыба — не оправдание для опоздания. Но попытка неплохая.",
-      "鱼不是迟到的借口。不过，这个借口编得还行。"
+      "Mała ryba przepłynęła pod łódką.",
+      "A small fish swam under the boat.",
+      "Маленькая рыба проплыла под лодкой.",
+      "一条小鱼游到了船下面。"
     ]
   },
   {
@@ -2118,10 +2118,10 @@ const WORDS = [
     ],
     "pinyin": "mǎ",
     "examples": [
-      "Koń to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A horse is not the problem. Your dramatic reaction is.",
-      "Лошадь — не проблема. Проблема — твоя драматичная реакция.",
-      "马不是问题。你那夸张的反应才是问题。"
+      "Koń je trawę na polu.",
+      "The horse is eating grass in the field.",
+      "Лошадь ест траву в поле.",
+      "马正在田里吃草。"
     ]
   },
   {
@@ -2135,10 +2135,10 @@ const WORDS = [
     ],
     "pinyin": "tùzi",
     "examples": [
-      "Królik zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A rabbit deserves a place in this story. Your unsolicited advice does not.",
-      "Кролик заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "兔子值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Królik schował się za krzakiem.",
+      "The rabbit hid behind the bush.",
+      "Кролик спрятался за кустом.",
+      "兔子躲到了灌木后面。"
     ]
   },
   {
@@ -2152,10 +2152,10 @@ const WORDS = [
     ],
     "pinyin": "húli",
     "examples": [
-      "Lis to odpowiedź. Pytanie pewnie było dziwne.",
-      "A fox is the answer. The question was probably strange.",
-      "Лиса — это ответ. Вопрос, наверное, был странным.",
-      "狐狸就是答案。问题大概很奇怪。"
+      "Widzieliśmy lisa przy lesie.",
+      "We saw a fox near the forest.",
+      "Мы видели лису возле леса.",
+      "我们在森林附近看见了一只狐狸。"
     ]
   },
   {
@@ -2169,10 +2169,10 @@ const WORDS = [
     ],
     "pinyin": "xióng",
     "examples": [
-      "Niedźwiedź to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A bear is not a substitute for common sense. Unfortunately.",
-      "Медведь — не замена здравому смыслу. К сожалению.",
-      "熊代替不了常识。真遗憾。"
+      "Niedźwiedź zostawił ślady na śniegu.",
+      "A bear left tracks in the snow.",
+      "Медведь оставил следы на снегу.",
+      "一只熊在雪地上留下了脚印。"
     ]
   },
   {
@@ -2186,10 +2186,10 @@ const WORDS = [
     ],
     "pinyin": "láng",
     "examples": [
-      "Wilk to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A wolf is not a personality trait. Someone had to say it.",
-      "Волк — не черта характера. Кто-то должен был это сказать.",
-      "狼不是性格特点。总得有人说出来。"
+      "Słyszeliśmy wilka wyjącego w oddali.",
+      "We heard a wolf howling in the distance.",
+      "Мы слышали, как вдали выл волк.",
+      "我们听见远处有狼在嚎叫。"
     ]
   },
   {
@@ -2203,10 +2203,10 @@ const WORDS = [
     ],
     "pinyin": "lǎoshǔ",
     "examples": [
-      "Mysz nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A mouse will not solve all your problems. Lower your expectations.",
-      "Мышь не решит всех твоих проблем. Умерь ожидания.",
-      "老鼠解决不了你所有的问题。降低一点期待吧。"
+      "Mysz przebiegła za szafką.",
+      "A mouse ran behind the cupboard.",
+      "Мышь пробежала за шкафом.",
+      "一只老鼠跑到了柜子后面。"
     ]
   },
   {
@@ -2220,10 +2220,10 @@ const WORDS = [
     ],
     "pinyin": "húdié",
     "examples": [
-      "Motyl to dzisiejszy temat. Twój były może poczekać.",
-      "A butterfly is the topic today. Your ex can wait.",
-      "Бабочка — сегодняшняя тема. Твой бывший может подождать.",
-      "蝴蝶是今天的话题。你的前任可以等等。"
+      "Motyl usiadł na kwiatku.",
+      "A butterfly landed on the flower.",
+      "Бабочка села на цветок.",
+      "一只蝴蝶落在花上。"
     ]
   },
   {
@@ -2237,10 +2237,10 @@ const WORDS = [
     ],
     "pinyin": "mìfēng",
     "examples": [
-      "Pszczoła to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A bee is not an excuse to be late. Nice try, though.",
-      "Пчела — не оправдание для опоздания. Но попытка неплохая.",
-      "蜜蜂不是迟到的借口。不过，这个借口编得还行。"
+      "Pszczoła przeleciała obok mojej filiżanki.",
+      "A bee flew past my cup.",
+      "Пчела пролетела мимо моей чашки.",
+      "一只蜜蜂从我的杯子旁飞过。"
     ]
   },
   {
@@ -2254,10 +2254,10 @@ const WORDS = [
     ],
     "pinyin": "shù",
     "examples": [
-      "Drzewo to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A tree is not the problem. Your dramatic reaction is.",
-      "Дерево — не проблема. Проблема — твоя драматичная реакция.",
-      "树不是问题。你那夸张的反应才是问题。"
+      "Odpoczywaliśmy w cieniu drzewa.",
+      "We rested in the shade of a tree.",
+      "Мы отдыхали в тени дерева.",
+      "我们在树荫下休息。"
     ]
   },
   {
@@ -2271,10 +2271,10 @@ const WORDS = [
     ],
     "pinyin": "huā",
     "examples": [
-      "Kwiat zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A flower deserves a place in this story. Your unsolicited advice does not.",
-      "Цветок заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "花值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Ten kwiat potrzebuje więcej światła słonecznego.",
+      "This flower needs more sunlight.",
+      "Этому цветку нужно больше солнечного света.",
+      "这朵花需要更多阳光。"
     ]
   },
   {
@@ -2288,10 +2288,10 @@ const WORDS = [
     ],
     "pinyin": "yèzi",
     "examples": [
-      "Liść to odpowiedź. Pytanie pewnie było dziwne.",
-      "A leaf is the answer. The question was probably strange.",
-      "Лист — это ответ. Вопрос, наверное, был странным.",
-      "叶子就是答案。问题大概很奇怪。"
+      "Żółty liść spadł na mój zeszyt.",
+      "A yellow leaf fell onto my notebook.",
+      "Жёлтый лист упал на мою тетрадь.",
+      "一片黄叶落在我的笔记本上。"
     ]
   },
   {
@@ -2305,10 +2305,10 @@ const WORDS = [
     ],
     "pinyin": "sēnlín",
     "examples": [
-      "Las to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A forest is not a substitute for common sense. Unfortunately.",
-      "Лес — не замена здравому смыслу. К сожалению.",
-      "森林代替不了常识。真遗憾。"
+      "Szliśmy wąską ścieżką przez las.",
+      "We followed a narrow path through the forest.",
+      "Мы шли по узкой тропинке через лес.",
+      "我们沿着一条小路穿过森林。"
     ]
   },
   {
@@ -2322,10 +2322,10 @@ const WORDS = [
     ],
     "pinyin": "shān",
     "examples": [
-      "Góra to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A mountain is not a personality trait. Someone had to say it.",
-      "Гора — не черта характера. Кто-то должен был это сказать.",
-      "山不是性格特点。总得有人说出来。"
+      "Szczyt góry był pokryty śniegiem.",
+      "The top of the mountain was covered in snow.",
+      "Вершина горы была покрыта снегом.",
+      "山顶覆盖着白雪。"
     ]
   },
   {
@@ -2339,10 +2339,10 @@ const WORDS = [
     ],
     "pinyin": "hé",
     "examples": [
-      "Rzeka nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A river will not solve all your problems. Lower your expectations.",
-      "Река не решит всех твоих проблем. Умерь ожидания.",
-      "河解决不了你所有的问题。降低一点期待吧。"
+      "Rzeka płynie przez miasto.",
+      "The river flows through the city.",
+      "Река течёт через город.",
+      "这条河流经城市。"
     ]
   },
   {
@@ -2356,10 +2356,10 @@ const WORDS = [
     ],
     "pinyin": "hú",
     "examples": [
-      "Jezioro to dzisiejszy temat. Twój były może poczekać.",
-      "A lake is the topic today. Your ex can wait.",
-      "Озеро — сегодняшняя тема. Твой бывший может подождать.",
-      "湖是今天的话题。你的前任可以等等。"
+      "Pływaliśmy w jeziorze przed obiadem.",
+      "We swam in the lake before lunch.",
+      "Мы купались в озере перед обедом.",
+      "午饭前，我们在湖里游泳。"
     ]
   },
   {
@@ -2373,10 +2373,10 @@ const WORDS = [
     ],
     "pinyin": "hǎi",
     "examples": [
-      "Morze to nie wymówka na spóźnienie. Ale niezła próba.",
-      "The sea is not an excuse to be late. Nice try, though.",
-      "Море — не оправдание для опоздания. Но попытка неплохая.",
-      "海不是迟到的借口。不过，这个借口编得还行。"
+      "Z mojego pokoju słychać morze.",
+      "I can hear the sea from my room.",
+      "Из моей комнаты слышно море.",
+      "在我的房间里能听见海的声音。"
     ]
   },
   {
@@ -2390,10 +2390,10 @@ const WORDS = [
     ],
     "pinyin": "yǔ",
     "examples": [
-      "Deszcz odwołał moje plany. Wreszcie przydatna prognoza pogody.",
-      "The rain cancelled my plans. Finally, a useful weather forecast.",
-      "Дождь отменил мои планы. Наконец-то полезный прогноз погоды.",
-      "下雨取消了我的计划。天气预报终于有用了。"
+      "Deszcz zaczął padać, gdy wyszliśmy z domu.",
+      "The rain started just as we left home.",
+      "Дождь начался, как только мы вышли из дома.",
+      "我们刚出门就下雨了。"
     ]
   },
   {
@@ -2407,10 +2407,10 @@ const WORDS = [
     ],
     "pinyin": "xuě",
     "examples": [
-      "Śnieg zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "Snow deserves a place in this story. Your unsolicited advice does not.",
-      "Снег заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "雪值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Świeży śnieg pokrył ogród.",
+      "Fresh snow covered the garden.",
+      "Свежий снег покрыл сад.",
+      "新下的雪覆盖了花园。"
     ]
   },
   {
@@ -2424,10 +2424,10 @@ const WORDS = [
     ],
     "pinyin": "fēng",
     "examples": [
-      "Wiatr to odpowiedź. Pytanie pewnie było dziwne.",
-      "Wind is the answer. The question was probably strange.",
-      "Ветер — это ответ. Вопрос, наверное, был странным.",
-      "风就是答案。问题大概很奇怪。"
+      "Wiatr utrudniał mi jazdę na rowerze.",
+      "The wind made it difficult to ride my bicycle.",
+      "Из-за ветра было трудно ехать на велосипеде.",
+      "风让我骑自行车变得很吃力。"
     ]
   },
   {
@@ -2441,10 +2441,10 @@ const WORDS = [
     ],
     "pinyin": "yún",
     "examples": [
-      "Chmura to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A cloud is not a substitute for common sense. Unfortunately.",
-      "Облако — не замена здравому смыслу. К сожалению.",
-      "云代替不了常识。真遗憾。"
+      "Chmura na chwilę zasłoniła słońce.",
+      "A cloud hid the sun for a moment.",
+      "Облако на минуту закрыло солнце.",
+      "一朵云暂时遮住了太阳。"
     ]
   },
   {
@@ -2458,10 +2458,10 @@ const WORDS = [
     ],
     "pinyin": "tàiyáng",
     "examples": [
-      "Słońce to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "The sun is not a personality trait. Someone had to say it.",
-      "Солнце — не черта характера. Кто-то должен был это сказать.",
-      "太阳不是性格特点。总得有人说出来。"
+      "Dzisiaj jest gorąco i cały czas świeci słońce.",
+      "It is hot today, and the sun has been shining all day.",
+      "Сегодня жарко, и солнце светит весь день.",
+      "今天很热，太阳一整天都在照耀。"
     ]
   },
   {
@@ -2475,10 +2475,10 @@ const WORDS = [
     ],
     "pinyin": "yuèliang",
     "examples": [
-      "Księżyc nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "The moon will not solve all your problems. Lower your expectations.",
-      "Луна не решит всех твоих проблем. Умерь ожидания.",
-      "月亮解决不了你所有的问题。降低一点期待吧。"
+      "Księżyc jasno dziś świeci.",
+      "The moon looks bright tonight.",
+      "Сегодня ночью луна ярко светит.",
+      "今晚的月亮很明亮。"
     ]
   },
   {
@@ -2492,10 +2492,10 @@ const WORDS = [
     ],
     "pinyin": "xīngxing",
     "examples": [
-      "Gwiazda to dzisiejszy temat. Twój były może poczekać.",
-      "A star is the topic today. Your ex can wait.",
-      "Звезда — сегодняшняя тема. Твой бывший может подождать.",
-      "星星是今天的话题。你的前任可以等等。"
+      "Zauważyłam jasną gwiazdę nad dachem.",
+      "I spotted a bright star above the roof.",
+      "Я заметила яркую звезду над крышей.",
+      "我看见屋顶上方有一颗明亮的星星。"
     ]
   },
   {
@@ -2509,10 +2509,10 @@ const WORDS = [
     ],
     "pinyin": "tiānkōng",
     "examples": [
-      "Niebo to nie wymówka na spóźnienie. Ale niezła próba.",
-      "The sky is not an excuse to be late. Nice try, though.",
-      "Небо — не оправдание для опоздания. Но попытка неплохая.",
-      "天空不是迟到的借口。不过，这个借口编得还行。"
+      "Po zachodzie słońca niebo zrobiło się różowe.",
+      "The sky turned pink after sunset.",
+      "После заката небо стало розовым.",
+      "日落后，天空变成了粉色。"
     ]
   },
   {
@@ -2526,10 +2526,10 @@ const WORDS = [
     ],
     "pinyin": "hǎitān",
     "examples": [
-      "Plaża to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A beach is not the problem. Your dramatic reaction is.",
-      "Пляж — не проблема. Проблема — твоя драматичная реакция.",
-      "海滩不是问题。你那夸张的反应才是问题。"
+      "Spacerowaliśmy po plaży o zachodzie słońca.",
+      "We walked along the beach at sunset.",
+      "Мы гуляли по пляжу на закате.",
+      "日落时，我们沿着海滩散步。"
     ]
   },
   {
@@ -2543,10 +2543,10 @@ const WORDS = [
     ],
     "pinyin": "huāyuán",
     "examples": [
-      "Ogród zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A garden deserves a place in this story. Your unsolicited advice does not.",
-      "Сад заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "花园值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Uprawiam pomidory w ogrodzie.",
+      "I grow tomatoes in my garden.",
+      "Я выращиваю помидоры в саду.",
+      "我在花园里种西红柿。"
     ]
   },
   {
@@ -2560,10 +2560,10 @@ const WORDS = [
     ],
     "pinyin": "lǚxíng",
     "examples": [
-      "Każda podróż zaczyna się od zapomnienia ładowarki.",
-      "Every journey begins with forgetting the charger.",
-      "Каждое путешествие начинается с забытой зарядки.",
-      "每次旅行都从忘带充电器开始。"
+      "Podróż trwała dłużej, niż się spodziewaliśmy.",
+      "The journey took longer than we expected.",
+      "Путешествие заняло больше времени, чем мы ожидали.",
+      "这次旅行比我们预想的时间更长。"
     ]
   },
   {
@@ -2577,10 +2577,10 @@ const WORDS = [
     ],
     "pinyin": "piào",
     "examples": [
-      "Bilet to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A ticket is not a substitute for common sense. Unfortunately.",
-      "Билет — не замена здравому смыслу. К сожалению.",
-      "票代替不了常识。真遗憾。"
+      "Kupiłam bilet przez internet.",
+      "I bought my ticket online.",
+      "Я купила билет онлайн.",
+      "我在网上买了票。"
     ]
   },
   {
@@ -2594,10 +2594,10 @@ const WORDS = [
     ],
     "pinyin": "hùzhào",
     "examples": [
-      "Paszport to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A passport is not a personality trait. Someone had to say it.",
-      "Паспорт — не черта характера. Кто-то должен был это сказать.",
-      "护照不是性格特点。总得有人说出来。"
+      "Sprawdź, czy paszport jest w torbie.",
+      "Check that your passport is in your bag.",
+      "Проверь, лежит ли паспорт в сумке.",
+      "检查一下护照是不是在包里。"
     ]
   },
   {
@@ -2611,10 +2611,10 @@ const WORDS = [
     ],
     "pinyin": "xínglixiāng",
     "examples": [
-      "Moja walizka jest pełna. Najwyraźniej potrzebuję siedmiu osobowości na ten wyjazd.",
-      "My suitcase is full. Apparently, I need seven personalities for this trip.",
-      "Мой чемодан полон. Видимо, для этой поездки мне нужны семь личностей.",
-      "我的行李箱满了。看来这趟旅行需要七种人格。"
+      "Moja walizka jest ciężka, ale połowę zajmują książki.",
+      "My suitcase is heavy, but half of it is books.",
+      "Мой чемодан тяжёлый, но половину занимают книги.",
+      "我的行李箱很重，不过里面一半是书。"
     ]
   },
   {
@@ -2628,10 +2628,10 @@ const WORDS = [
     ],
     "pinyin": "dìtú",
     "examples": [
-      "Mapa to dzisiejszy temat. Twój były może poczekać.",
-      "A map is the topic today. Your ex can wait.",
-      "Карта — сегодняшняя тема. Твой бывший может подождать.",
-      "地图是今天的话题。你的前任可以等等。"
+      "Użyliśmy mapy, żeby znaleźć stację.",
+      "We used a map to find the station.",
+      "Мы нашли станцию по карте.",
+      "我们用地图找到了车站。"
     ]
   },
   {
@@ -2645,10 +2645,10 @@ const WORDS = [
     ],
     "pinyin": "huǒchē",
     "examples": [
-      "Pociąg to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A train is not an excuse to be late. Nice try, though.",
-      "Поезд — не оправдание для опоздания. Но попытка неплохая.",
-      "火车不是迟到的借口。不过，这个借口编得还行。"
+      "Pociąg odjeżdża za dziesięć minut.",
+      "The train leaves in ten minutes.",
+      "Поезд отправляется через десять минут.",
+      "火车十分钟后出发。"
     ]
   },
   {
@@ -2662,10 +2662,10 @@ const WORDS = [
     ],
     "pinyin": "gōnggòng qìchē",
     "examples": [
-      "Autobus to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A bus is not the problem. Your dramatic reaction is.",
-      "Автобус — не проблема. Проблема — твоя драматичная реакция.",
-      "公共汽车不是问题。你那夸张的反应才是问题。"
+      "Spóźniłam się na autobus o kilka sekund.",
+      "I missed the bus by a few seconds.",
+      "Я опоздала на автобус на несколько секунд.",
+      "我差几秒就赶上公共汽车了。"
     ]
   },
   {
@@ -2679,10 +2679,10 @@ const WORDS = [
     ],
     "pinyin": "zìxíngchē",
     "examples": [
-      "Rower zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A bicycle deserves a place in this story. Your unsolicited advice does not.",
-      "Велосипед заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "自行车值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Jeżdżę rowerem do biblioteki.",
+      "I ride my bicycle to the library.",
+      "Я езжу в библиотеку на велосипеде.",
+      "我骑自行车去图书馆。"
     ]
   },
   {
@@ -2696,10 +2696,10 @@ const WORDS = [
     ],
     "pinyin": "qìchē",
     "examples": [
-      "Samochód to odpowiedź. Pytanie pewnie było dziwne.",
-      "A car is the answer. The question was probably strange.",
-      "Машина — это ответ. Вопрос, наверное, был странным.",
-      "汽车就是答案。问题大概很奇怪。"
+      "Zaparkowaliśmy samochód przy hotelu.",
+      "We parked the car near the hotel.",
+      "Мы припарковали машину возле отеля.",
+      "我们把汽车停在酒店附近。"
     ]
   },
   {
@@ -2713,10 +2713,10 @@ const WORDS = [
     ],
     "pinyin": "fēijī",
     "examples": [
-      "Samolot to nie zamiennik zdrowego rozsądku. Niestety.",
-      "An airplane is not a substitute for common sense. Unfortunately.",
-      "Самолёт — не замена здравому смыслу. К сожалению.",
-      "飞机代替不了常识。真遗憾。"
+      "Samolot wystartował punktualnie.",
+      "The airplane took off on time.",
+      "Самолёт вылетел вовремя.",
+      "飞机准时起飞了。"
     ]
   },
   {
@@ -2730,10 +2730,10 @@ const WORDS = [
     ],
     "pinyin": "chēzhàn",
     "examples": [
-      "Stacja to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A station is not a personality trait. Someone had to say it.",
-      "Станция — не черта характера. Кто-то должен был это сказать.",
-      "车站不是性格特点。总得有人说出来。"
+      "Spotkajmy się przed stacją.",
+      "Let's meet outside the station.",
+      "Давай встретимся перед станцией.",
+      "我们在车站外面见吧。"
     ]
   },
   {
@@ -2747,10 +2747,10 @@ const WORDS = [
     ],
     "pinyin": "jīchǎng",
     "examples": [
-      "Lotnisko nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "An airport will not solve all your problems. Lower your expectations.",
-      "Аэропорт не решит всех твоих проблем. Умерь ожидания.",
-      "机场解决不了你所有的问题。降低一点期待吧。"
+      "Dotarliśmy na lotnisko wcześnie.",
+      "We arrived at the airport early.",
+      "Мы приехали в аэропорт рано.",
+      "我们很早就到机场了。"
     ]
   },
   {
@@ -2764,10 +2764,10 @@ const WORDS = [
     ],
     "pinyin": "jiǔdiàn",
     "examples": [
-      "Hotel to dzisiejszy temat. Twój były może poczekać.",
-      "A hotel is the topic today. Your ex can wait.",
-      "Отель — сегодняшняя тема. Твой бывший может подождать.",
-      "酒店是今天的话题。你的前任可以等等。"
+      "Nasz hotel jest blisko plaży.",
+      "Our hotel is close to the beach.",
+      "Наш отель находится рядом с пляжем.",
+      "我们的酒店离海滩很近。"
     ]
   },
   {
@@ -2781,10 +2781,10 @@ const WORDS = [
     ],
     "pinyin": "fángjiān",
     "examples": [
-      "Pokój to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A room is not an excuse to be late. Nice try, though.",
-      "Комната — не оправдание для опоздания. Но попытка неплохая.",
-      "房间不是迟到的借口。不过，这个借口编得还行。"
+      "Ten pokój ma piękny widok.",
+      "This room has a lovely view.",
+      "Из этой комнаты прекрасный вид.",
+      "这个房间的景色很好。"
     ]
   },
   {
@@ -2798,10 +2798,10 @@ const WORDS = [
     ],
     "pinyin": "chéngshì",
     "examples": [
-      "Miasto to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A city is not the problem. Your dramatic reaction is.",
-      "Город — не проблема. Проблема — твоя драматичная реакция.",
-      "城市不是问题。你那夸张的反应才是问题。"
+      "Lubię poznawać nowe miasto pieszo.",
+      "I like exploring a new city on foot.",
+      "Мне нравится исследовать новый город пешком.",
+      "我喜欢步行探索一座新城市。"
     ]
   },
   {
@@ -2815,10 +2815,10 @@ const WORDS = [
     ],
     "pinyin": "cūnzhuāng",
     "examples": [
-      "Wieś zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A village deserves a place in this story. Your unsolicited advice does not.",
-      "Деревня заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "村庄值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Moi dziadkowie mieszkają w małej wsi.",
+      "My grandparents live in a small village.",
+      "Мои бабушка и дедушка живут в маленькой деревне.",
+      "我的爷爷奶奶住在一个小村庄里。"
     ]
   },
   {
@@ -2832,10 +2832,10 @@ const WORDS = [
     ],
     "pinyin": "jiēdào",
     "examples": [
-      "Ulica to odpowiedź. Pytanie pewnie było dziwne.",
-      "A street is the answer. The question was probably strange.",
-      "Улица — это ответ. Вопрос, наверное, был странным.",
-      "街道就是答案。问题大概很奇怪。"
+      "Ta ulica jest rano spokojna.",
+      "This street is quiet in the morning.",
+      "На этой улице утром тихо.",
+      "这条街道早上很安静。"
     ]
   },
   {
@@ -2849,10 +2849,10 @@ const WORDS = [
     ],
     "pinyin": "qiáo",
     "examples": [
-      "Most to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A bridge is not a substitute for common sense. Unfortunately.",
-      "Мост — не замена здравому смыслу. К сожалению.",
-      "桥代替不了常识。真遗憾。"
+      "Przeszliśmy przez most, żeby dotrzeć do parku.",
+      "We crossed the bridge to reach the park.",
+      "Мы перешли мост, чтобы попасть в парк.",
+      "我们过了桥，走到了公园。"
     ]
   },
   {
@@ -2866,10 +2866,10 @@ const WORDS = [
     ],
     "pinyin": "bówùguǎn",
     "examples": [
-      "Muzeum to nie cecha osobowości. Ktoś musiał to powiedzieć.",
-      "A museum is not a personality trait. Someone had to say it.",
-      "Музей — не черта характера. Кто-то должен был это сказать.",
-      "博物馆不是性格特点。总得有人说出来。"
+      "Muzeum jest zamknięte w poniedziałki.",
+      "The museum is closed on Mondays.",
+      "Музей закрыт по понедельникам.",
+      "博物馆星期一不开放。"
     ]
   },
   {
@@ -2883,10 +2883,10 @@ const WORDS = [
     ],
     "pinyin": "gōngyuán",
     "examples": [
-      "Park nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A park will not solve all your problems. Lower your expectations.",
-      "Парк не решит всех твоих проблем. Умерь ожидания.",
-      "公园解决不了你所有的问题。降低一点期待吧。"
+      "Zrobiliśmy piknik w parku.",
+      "We had a picnic in the park.",
+      "Мы устроили пикник в парке.",
+      "我们在公园里野餐。"
     ]
   },
   {
@@ -2900,10 +2900,10 @@ const WORDS = [
     ],
     "pinyin": "kè",
     "examples": [
-      "Lekcja to dzisiejszy temat. Twój były może poczekać.",
-      "A lesson is the topic today. Your ex can wait.",
-      "Урок — сегодняшняя тема. Твой бывший может подождать.",
-      "课是今天的话题。你的前任可以等等。"
+      "Dzisiejsza lekcja dotyczy zamawiania jedzenia.",
+      "Today's lesson is about ordering food.",
+      "Сегодняшний урок посвящён заказу еды.",
+      "今天的课是关于点餐的。"
     ]
   },
   {
@@ -2917,10 +2917,10 @@ const WORDS = [
     ],
     "pinyin": "yǔyán",
     "examples": [
-      "Język to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A language is not an excuse to be late. Nice try, though.",
-      "Язык — не оправдание для опоздания. Но попытка неплохая.",
-      "语言不是迟到的借口。不过，这个借口编得还行。"
+      "Chcę codziennie używać każdego języka choć przez chwilę.",
+      "I want to use each language a little every day.",
+      "Я хочу каждый день понемногу пользоваться каждым языком.",
+      "我想每天都用一用每种语言。"
     ]
   },
   {
@@ -2934,10 +2934,10 @@ const WORDS = [
     ],
     "pinyin": "dāncí",
     "examples": [
-      "Słowo to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A word is not the problem. Your dramatic reaction is.",
-      "Слово — не проблема. Проблема — твоя драматичная реакция.",
-      "单词不是问题。你那夸张的反应才是问题。"
+      "Nauczyłam się nowego słowa podczas naszej rozmowy.",
+      "I learned a new word during our conversation.",
+      "Во время нашего разговора я выучила новое слово.",
+      "我们聊天时，我学到了一个新单词。"
     ]
   },
   {
@@ -2951,10 +2951,10 @@ const WORDS = [
     ],
     "pinyin": "jùzi",
     "examples": [
-      "Zdanie zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A sentence deserves a place in this story. Your unsolicited advice does not.",
-      "Предложение заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "句子值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Napisz zdanie z tym czasownikiem.",
+      "Write a sentence using this verb.",
+      "Напиши предложение с этим глаголом.",
+      "用这个动词写一个句子。"
     ]
   },
   {
@@ -2968,10 +2968,10 @@ const WORDS = [
     ],
     "pinyin": "wèntí",
     "examples": [
-      "Pytanie to odpowiedź. Pytanie pewnie było dziwne.",
-      "A question is the answer. The question was probably strange.",
-      "Вопрос — это ответ. Вопрос, наверное, был странным.",
-      "问题就是答案。问题大概很奇怪。"
+      "Czy mogę zadać pytanie?",
+      "May I ask a question?",
+      "Можно задать вопрос?",
+      "我可以问一个问题吗？"
     ]
   },
   {
@@ -2985,10 +2985,10 @@ const WORDS = [
     ],
     "pinyin": "dá'àn",
     "examples": [
-      "Odpowiedź to nie zamiennik zdrowego rozsądku. Niestety.",
-      "An answer is not a substitute for common sense. Unfortunately.",
-      "Ответ — не замена здравому смыслу. К сожалению.",
-      "答案代替不了常识。真遗憾。"
+      "Znam odpowiedź, ale potrzebuję chwili, żeby ją wypowiedzieć.",
+      "I know the answer, but I need a moment to say it.",
+      "Я знаю ответ, но мне нужна минутка, чтобы его произнести.",
+      "我知道答案，但需要一点时间说出来。"
     ]
   },
   {
@@ -3002,10 +3002,10 @@ const WORDS = [
     ],
     "pinyin": "cuòwù",
     "examples": [
-      "Popełniłam błąd. Nazwijmy go edycją limitowaną.",
-      "I made a mistake. Let us call it a limited edition.",
-      "Я допустила ошибку. Назовём её ограниченным тиражом.",
-      "我犯了个错误。就叫它限量版吧。"
+      "Znalazłam błąd w pracy domowej.",
+      "I found a mistake in my homework.",
+      "Я нашла ошибку в домашнем задании.",
+      "我在家庭作业里发现了一个错误。"
     ]
   },
   {
@@ -3019,10 +3019,10 @@ const WORDS = [
     ],
     "pinyin": "jìhuà",
     "examples": [
-      "Plan nie rozwiąże wszystkich twoich problemów. Obniż oczekiwania.",
-      "A plan will not solve all your problems. Lower your expectations.",
-      "План не решит всех твоих проблем. Умерь ожидания.",
-      "计划解决不了你所有的问题。降低一点期待吧。"
+      "Mój plan to nauka przed kolacją.",
+      "My plan is to study before dinner.",
+      "Мой план — позаниматься перед ужином.",
+      "我的计划是在晚餐前学习。"
     ]
   },
   {
@@ -3036,10 +3036,10 @@ const WORDS = [
     ],
     "pinyin": "xiǎngfǎ",
     "examples": [
-      "Pomysł to dzisiejszy temat. Twój były może poczekać.",
-      "An idea is the topic today. Your ex can wait.",
-      "Идея — сегодняшняя тема. Твой бывший может подождать.",
-      "想法是今天的话题。你的前任可以等等。"
+      "Zapisałam pomysł, zanim go zapomniałam.",
+      "I wrote down the idea before I forgot it.",
+      "Я записала идею, пока не забыла её.",
+      "我把想法记了下来，免得忘记。"
     ]
   },
   {
@@ -3053,10 +3053,10 @@ const WORDS = [
     ],
     "pinyin": "juédìng",
     "examples": [
-      "Decyzja to nie wymówka na spóźnienie. Ale niezła próba.",
-      "A decision is not an excuse to be late. Nice try, though.",
-      "Решение — не оправдание для опоздания. Но попытка неплохая.",
-      "决定不是迟到的借口。不过，这个借口编得还行。"
+      "To była trudna decyzja, ale cieszę się, że ją podjęłam.",
+      "It was a difficult decision, but I am glad I made it.",
+      "Это было трудное решение, но я рада, что его приняла.",
+      "这是个艰难的决定，但我很高兴自己做出了决定。"
     ]
   },
   {
@@ -3070,10 +3070,10 @@ const WORDS = [
     ],
     "pinyin": "jiézhǐ rìqī",
     "examples": [
-      "Termin to po prostu straszak w kalendarzu.",
-      "A deadline is just a jump scare on a calendar.",
-      "Крайний срок — просто скример в календаре.",
-      "截止日期就是日历上的突然惊吓。"
+      "Termin jest w piątek, więc zacznę dzisiaj.",
+      "The deadline is Friday, so I will start today.",
+      "Крайний срок — пятница, поэтому я начну сегодня.",
+      "截止日期是星期五，所以我今天就开始。"
     ]
   },
   {
@@ -3087,10 +3087,10 @@ const WORDS = [
     ],
     "pinyin": "huìmiàn",
     "examples": [
-      "Spotkanie zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A meeting deserves a place in this story. Your unsolicited advice does not.",
-      "Встреча заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "会面值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Nasze spotkanie zaczyna się o dziewiątej.",
+      "Our meeting starts at nine.",
+      "Наша встреча начинается в девять.",
+      "我们的会面在九点开始。"
     ]
   },
   {
@@ -3104,10 +3104,10 @@ const WORDS = [
     ],
     "pinyin": "diànzǐ yóujiàn",
     "examples": [
-      "E-mail to odpowiedź. Pytanie pewnie było dziwne.",
-      "An email is the answer. The question was probably strange.",
-      "Электронное письмо — это ответ. Вопрос, наверное, был странным.",
-      "电子邮件就是答案。问题大概很奇怪。"
+      "Wysłałam e-mail z pytaniem o kurs.",
+      "I sent an email to ask about the course.",
+      "Я отправила электронное письмо с вопросом о курсе.",
+      "我发了一封电子邮件，询问课程的情况。"
     ]
   },
   {
@@ -3121,10 +3121,10 @@ const WORDS = [
     ],
     "pinyin": "xiāoxi",
     "examples": [
-      "Wiadomość to nie zamiennik zdrowego rozsądku. Niestety.",
-      "A message is not a substitute for common sense. Unfortunately.",
-      "Сообщение — не замена здравому смыслу. К сожалению.",
-      "消息代替不了常识。真遗憾。"
+      "Zostaw mi wiadomość, jeśli nie odbiorę.",
+      "Leave me a message if I do not answer.",
+      "Оставь мне сообщение, если я не отвечу.",
+      "如果我没接电话，就给我留个消息。"
     ]
   },
   {
@@ -3138,10 +3138,10 @@ const WORDS = [
     ],
     "pinyin": "mìmǎ",
     "examples": [
-      "Moje hasło jest silne. Moja silna wola nie.",
-      "My password is strong. My willpower is not.",
-      "Мой пароль надёжный. Моя сила воли — нет.",
-      "我的密码很强。我的意志力不强。"
+      "Znowu zapomniałam hasła.",
+      "I forgot my password again.",
+      "Я снова забыла пароль.",
+      "我又忘了密码。"
     ]
   },
   {
@@ -3155,10 +3155,10 @@ const WORDS = [
     ],
     "pinyin": "qián",
     "examples": [
-      "Pieniądze szczęścia nie dają. I tak chcę to sprawdzić.",
-      "Money cannot buy happiness. I would still like to test that.",
-      "Деньги не приносят счастья. Всё равно хочу проверить.",
-      "钱买不到幸福。我还是想验证一下。"
+      "Oszczędzam pieniądze na podróż.",
+      "I am saving money for a trip.",
+      "Я коплю деньги на поездку.",
+      "我在存钱准备旅行。"
     ]
   },
   {
@@ -3172,10 +3172,10 @@ const WORDS = [
     ],
     "pinyin": "shíjiān",
     "examples": [
-      "Czas leci, kiedy unikasz obowiązków.",
-      "Time flies when you are avoiding responsibilities.",
-      "Время летит, когда избегаешь обязанностей.",
-      "逃避责任的时候，时间过得飞快。"
+      "Każdego wieczoru znajduję czas na czytanie.",
+      "I make time for reading every evening.",
+      "Каждый вечер я нахожу время для чтения.",
+      "我每天晚上都会留出时间看书。"
     ]
   },
   {
@@ -3189,10 +3189,10 @@ const WORDS = [
     ],
     "pinyin": "yīnyuè",
     "examples": [
-      "Muzyka to nie wymówka na spóźnienie. Ale niezła próba.",
-      "Music is not an excuse to be late. Nice try, though.",
-      "Музыка — не оправдание для опоздания. Но попытка неплохая.",
-      "音乐不是迟到的借口。不过，这个借口编得还行。"
+      "Spokojna muzyka pomaga mi się zrelaksować.",
+      "Quiet music helps me relax.",
+      "Спокойная музыка помогает мне расслабиться.",
+      "轻柔的音乐让我放松。"
     ]
   },
   {
@@ -3206,10 +3206,10 @@ const WORDS = [
     ],
     "pinyin": "diànyǐng",
     "examples": [
-      "Film to nie problem. Problemem jest twoja dramatyczna reakcja.",
-      "A film is not the problem. Your dramatic reaction is.",
-      "Фильм — не проблема. Проблема — твоя драматичная реакция.",
-      "电影不是问题。你那夸张的反应才是问题。"
+      "Obejrzeliśmy film z angielskimi napisami.",
+      "We watched a film with English subtitles.",
+      "Мы посмотрели фильм с английскими субтитрами.",
+      "我们看了一部带英文字幕的电影。"
     ]
   },
   {
@@ -3223,10 +3223,10 @@ const WORDS = [
     ],
     "pinyin": "gùshi",
     "examples": [
-      "Historia zasługuje na miejsce w tej historii. Twoje nieproszone rady nie.",
-      "A story deserves a place in this story. Your unsolicited advice does not.",
-      "История заслуживает места в этой истории. Твои непрошеные советы — нет.",
-      "故事值得出现在这个故事里。你那些没人问的建议就免了。"
+      "Opowiedz mi tę historię od początku.",
+      "Tell me the story from the beginning.",
+      "Расскажи мне эту историю с самого начала.",
+      "从头给我讲这个故事吧。"
     ]
   },
   {
@@ -3240,10 +3240,10 @@ const WORDS = [
     ],
     "pinyin": "chéngnuò",
     "examples": [
-      "Obietnica to nie plan. Twój kalendarz zna różnicę.",
-      "A promise is not a plan. Your calendar knows the difference.",
-      "Обещание — не план. Твой календарь знает разницу.",
-      "承诺不是计划。你的日历知道区别。"
+      "Dotrzymałam obietnicy i zadzwoniłam do niej.",
+      "I kept my promise and called her.",
+      "Я сдержала обещание и позвонила ей.",
+      "我遵守承诺，给她打了电话。"
     ]
   },
   {
@@ -3257,10 +3257,10 @@ const WORDS = [
     ],
     "pinyin": "mìmì",
     "examples": [
-      "Twój sekret jest u mnie bezpieczny. Prawie nie słuchałam.",
-      "Your secret is safe with me. I was barely listening.",
-      "Твой секрет со мной в безопасности. Я почти не слушала.",
-      "你的秘密在我这里很安全。我刚才基本没听。"
+      "Przyjęcie urodzinowe jest sekretem.",
+      "The birthday party is a secret.",
+      "Вечеринка на день рождения — секрет.",
+      "生日聚会是个秘密。"
     ]
   },
   {
@@ -3274,10 +3274,10 @@ const WORDS = [
     ],
     "pinyin": "mèngxiǎng",
     "examples": [
-      "Moje marzenie jest wielkie. Moja zdolność skupienia uwagi jest malutka.",
-      "My dream is big. My attention span is tiny.",
-      "Моя мечта огромна. Моя способность концентрироваться крошечная.",
-      "我的梦想很大。我的专注力很小。"
+      "Moim marzeniem jest czytanie powieści w czterech językach.",
+      "My dream is to read novels in four languages.",
+      "Моя мечта — читать романы на четырёх языках.",
+      "我的梦想是用四种语言读小说。"
     ]
   },
   {
@@ -3291,10 +3291,10 @@ const WORDS = [
     ],
     "pinyin": "àihào",
     "examples": [
-      "Moje hobby to kupowanie rzeczy do innych moich hobby.",
-      "My hobby is buying supplies for my other hobbies.",
-      "Моё хобби — покупать принадлежности для других моих хобби.",
-      "我的爱好是给其他爱好买用品。"
+      "Fotografia to moje ulubione hobby.",
+      "Photography is my favourite hobby.",
+      "Фотография — моё любимое хобби.",
+      "摄影是我最喜欢的爱好。"
     ]
   },
   {
@@ -3308,10 +3308,10 @@ const WORDS = [
     ],
     "pinyin": "duìwu",
     "examples": [
-      "Ta kolejka jest dłuższa niż mój ostatni związek.",
-      "This queue is longer than my last relationship.",
-      "Эта очередь длиннее моих последних отношений.",
-      "这支队伍比我上一段恋情还长。"
+      "Czekaliśmy w kolejce przez pół godziny.",
+      "We waited in the queue for half an hour.",
+      "Мы стояли в очереди полчаса.",
+      "我们在队伍里等了半个小时。"
     ]
   },
   {
@@ -3325,10 +3325,10 @@ const WORDS = [
     ],
     "pinyin": "zhékòu",
     "examples": [
-      "Zniżka to nie powód, żeby kupić trzecią lampę.",
-      "A discount is not a reason to buy a third lamp.",
-      "Скидка — не повод покупать третью лампу.",
-      "有折扣不是买第三盏灯的理由。"
+      "Studenci mogą dostać zniżkę na bilety.",
+      "Students can get a discount on tickets.",
+      "Студенты могут получить скидку на билеты.",
+      "学生买票可以享受折扣。"
     ]
   },
   {
@@ -3342,10 +3342,10 @@ const WORDS = [
     ],
     "pinyin": "xiǎopiào",
     "examples": [
-      "Zachowaj paragon. Nawet twoja pewność siebie potrzebuje możliwości zwrotu.",
-      "Keep the receipt. Even your confidence needs a return policy.",
-      "Сохрани чек. Даже твоей уверенности нужна возможность возврата.",
-      "留好小票。连你的自信都需要退货保障。"
+      "Zachowaj paragon na wypadek zwrotu.",
+      "Keep the receipt in case you want to return it.",
+      "Сохрани чек на случай возврата.",
+      "留好小票，以防需要退货。"
     ]
   },
   {
@@ -3359,10 +3359,10 @@ const WORDS = [
     ],
     "pinyin": "zhōumò",
     "examples": [
-      "Weekend ma dwa dni. Moja regeneracja wymaga dwunastu.",
-      "The weekend has two days. My recovery requires twelve.",
-      "В выходных два дня. На восстановление мне нужно двенадцать.",
-      "周末有两天。我恢复元气需要十二天。"
+      "Spędzam weekend z przyjaciółmi.",
+      "I am spending the weekend with friends.",
+      "Я провожу выходные с друзьями.",
+      "我这个周末和朋友们一起过。"
     ]
   },
   {
@@ -3376,10 +3376,10 @@ const WORDS = [
     ],
     "pinyin": "jiàqī",
     "examples": [
-      "Potrzebuję urlopu od planowania urlopu.",
-      "I need a holiday from planning my holiday.",
-      "Мне нужен отпуск от планирования отпуска.",
-      "我需要放个假，休息一下，不再规划假期。"
+      "Zarezerwowałam urlop nad morzem.",
+      "I booked a holiday by the sea.",
+      "Я забронировала отпуск у моря.",
+      "我预订了海边的假期。"
     ]
   },
   {
@@ -3393,10 +3393,10 @@ const WORDS = [
     ],
     "pinyin": "xiànshí",
     "examples": [
-      "Rzeczywistość zadzwoniła. Przekierowałam ją na pocztę głosową.",
-      "Reality called. I let it go to voicemail.",
-      "Реальность позвонила. Я перевела звонок на голосовую почту.",
-      "现实打来电话。我让它转到语音信箱了。"
+      "Pokój wyglądał na większy w internecie niż w rzeczywistości.",
+      "The room looked bigger online than in reality.",
+      "В интернете комната выглядела больше, чем в реальности.",
+      "房间在网上看起来比现实中大。"
     ]
   },
   {
@@ -3410,10 +3410,10 @@ const WORDS = [
     ],
     "pinyin": "chúfáng",
     "examples": [
-      "Kuchnia? To jest twój wielki plan?",
-      "A kitchen? That is your grand plan?",
-      "Кухня? Это и есть твой великий план?",
-      "厨房？这就是你的宏伟计划？"
+      "Gotujemy razem w kuchni.",
+      "We cook together in the kitchen.",
+      "Мы готовим вместе на кухне.",
+      "我们一起在厨房做饭。"
     ]
   },
   {
@@ -3427,10 +3427,10 @@ const WORDS = [
     ],
     "pinyin": "yùshì",
     "examples": [
-      "Łazienka to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A bathroom is the subject of my presentation. Try to contain your excitement.",
-      "Ванная комната — тема моей презентации. Постарайся сдержать восторг.",
-      "浴室是我演示的主题。请克制一下你的激动。"
+      "Łazienka jest na końcu korytarza.",
+      "The bathroom is at the end of the hallway.",
+      "Ванная комната находится в конце коридора.",
+      "浴室在走廊尽头。"
     ]
   },
   {
@@ -3444,10 +3444,10 @@ const WORDS = [
     ],
     "pinyin": "wòshì",
     "examples": [
-      "Sypialnia to nie cecha osobowości. Sprawdziłam.",
-      "A bedroom is not a personality trait. I checked.",
-      "Спальня — не черта характера. Я проверила.",
-      "卧室不是性格特点。我查过了。"
+      "Moja sypialnia jest rano nasłoneczniona.",
+      "My bedroom gets sunlight in the morning.",
+      "Утром в мою спальню попадает солнечный свет.",
+      "早上阳光会照进我的卧室。"
     ]
   },
   {
@@ -3461,10 +3461,10 @@ const WORDS = [
     ],
     "pinyin": "kètīng",
     "examples": [
-      "Salon to odpowiedź. Proszę nie pytać o pytanie.",
-      "A living room is the answer. Please do not ask about the question.",
-      "Гостиная — это ответ. О вопросе лучше не спрашивай.",
-      "客厅就是答案。请别问问题是什么。"
+      "Oglądamy filmy w salonie.",
+      "We watch films in the living room.",
+      "Мы смотрим фильмы в гостиной.",
+      "我们在客厅看电影。"
     ]
   },
   {
@@ -3478,10 +3478,10 @@ const WORDS = [
     ],
     "pinyin": "yángtái",
     "examples": [
-      "Balkon to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A balcony is my topic today. Your opinions are an optional extra.",
-      "Балкон — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "阳台是我今天的话题。你的意见是可选项。"
+      "Piję poranną kawę na balkonie.",
+      "I drink my morning coffee on the balcony.",
+      "Я пью утренний кофе на балконе.",
+      "我早上在阳台喝咖啡。"
     ]
   },
   {
@@ -3495,10 +3495,10 @@ const WORDS = [
     ],
     "pinyin": "wūdǐng",
     "examples": [
-      "Dach to nie zamiennik porządnych przeprosin.",
-      "A roof is not a substitute for a decent apology.",
-      "Крыша — не замена нормальному извинению.",
-      "屋顶代替不了一次像样的道歉。"
+      "Dach wymaga naprawy po burzy.",
+      "The roof needs repairs after the storm.",
+      "После бури крыша нуждается в ремонте.",
+      "暴风雨过后，屋顶需要修理。"
     ]
   },
   {
@@ -3512,10 +3512,10 @@ const WORDS = [
     ],
     "pinyin": "qiáng",
     "examples": [
-      "Ściana to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A wall is an interesting choice. I am being diplomatic.",
-      "Стена — интересный выбор. Я стараюсь быть дипломатичной.",
-      "墙是个有趣的选择。我已经说得很委婉了。"
+      "Pomalowaliśmy ścianę na niebiesko.",
+      "We painted the wall blue.",
+      "Мы покрасили стену в синий цвет.",
+      "我们把墙漆成了蓝色。"
     ]
   },
   {
@@ -3529,10 +3529,10 @@ const WORDS = [
     ],
     "pinyin": "dìbǎn",
     "examples": [
-      "Podłoga to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A floor is the title of my next masterpiece. Expectations should remain low.",
-      "Пол — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "地板是我下一部杰作的标题。期待值最好低一点。"
+      "Podłoga jest mokra, idź ostrożnie.",
+      "The floor is wet; walk carefully.",
+      "Пол мокрый, иди осторожно.",
+      "地板湿了，走路小心。"
     ]
   },
   {
@@ -3546,10 +3546,10 @@ const WORDS = [
     ],
     "pinyin": "tiānhuābǎn",
     "examples": [
-      "Sufit to nie główny problem. Problemem są twoje priorytety.",
-      "A ceiling is not the main issue. Your priorities are.",
-      "Потолок — не главная проблема. Проблема в твоих приоритетах.",
-      "天花板不是主要问题。你的轻重缓急才是。"
+      "Lampa zwisa z sufitu.",
+      "A lamp hangs from the ceiling.",
+      "С потолка свисает лампа.",
+      "天花板上吊着一盏灯。"
     ]
   },
   {
@@ -3563,10 +3563,10 @@ const WORDS = [
     ],
     "pinyin": "dìtǎn",
     "examples": [
-      "Dywan to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A carpet is the theme of this conversation. Somehow, we are still talking about you.",
-      "Ковёр — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "地毯是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Dywan jest miękki pod stopami.",
+      "The carpet feels soft under my feet.",
+      "Ковёр мягкий под ногами.",
+      "地毯踩上去很软。"
     ]
   },
   {
@@ -3580,10 +3580,10 @@ const WORDS = [
     ],
     "pinyin": "shāfā",
     "examples": [
-      "Sofa to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A sofa is not a good reason to call me at dawn.",
-      "Диван — не повод звонить мне на рассвете.",
-      "沙发不是天一亮就给我打电话的好理由。"
+      "Znowu zasnęłam na sofie.",
+      "I fell asleep on the sofa again.",
+      "Я опять уснула на диване.",
+      "我又在沙发上睡着了。"
     ]
   },
   {
@@ -3597,10 +3597,10 @@ const WORDS = [
     ],
     "pinyin": "jiàzi",
     "examples": [
-      "Półka to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A shelf is just the beginning of this story. Yes, it gets stranger.",
-      "Полка — только начало этой истории. Да, дальше ещё страннее.",
-      "架子只是这个故事的开始。没错，后面更奇怪。"
+      "Połóż książki na górnej półce.",
+      "Put the books on the top shelf.",
+      "Поставь книги на верхнюю полку.",
+      "把书放在架子的最上层。"
     ]
   },
   {
@@ -3614,10 +3614,10 @@ const WORDS = [
     ],
     "pinyin": "yīguì",
     "examples": [
-      "Szafa? To jest twój wielki plan?",
-      "A wardrobe? That is your grand plan?",
-      "Шкаф? Это и есть твой великий план?",
-      "衣柜？这就是你的宏伟计划？"
+      "Moje zimowe ubrania są w szafie.",
+      "My winter clothes are in the wardrobe.",
+      "Моя зимняя одежда в шкафу.",
+      "我的冬装都在衣柜里。"
     ]
   },
   {
@@ -3631,10 +3631,10 @@ const WORDS = [
     ],
     "pinyin": "chōuti",
     "examples": [
-      "Szuflada to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A drawer is the subject of my presentation. Try to contain your excitement.",
-      "Ящик — тема моей презентации. Постарайся сдержать восторг.",
-      "抽屉是我演示的主题。请克制一下你的激动。"
+      "Nożyczki są w szufladzie.",
+      "The scissors are in the drawer.",
+      "Ножницы лежат в ящике.",
+      "剪刀在抽屉里。"
     ]
   },
   {
@@ -3648,10 +3648,10 @@ const WORDS = [
     ],
     "pinyin": "bīngxiāng",
     "examples": [
-      "Lodówka to nie cecha osobowości. Sprawdziłam.",
-      "A fridge is not a personality trait. I checked.",
-      "Холодильник — не черта характера. Я проверила.",
-      "冰箱不是性格特点。我查过了。"
+      "Włóż mleko z powrotem do lodówki.",
+      "Put the milk back in the fridge.",
+      "Убери молоко обратно в холодильник.",
+      "把牛奶放回冰箱。"
     ]
   },
   {
@@ -3665,10 +3665,10 @@ const WORDS = [
     ],
     "pinyin": "kǎoxiāng",
     "examples": [
-      "Piekarnik to odpowiedź. Proszę nie pytać o pytanie.",
-      "An oven is the answer. Please do not ask about the question.",
-      "Духовка — это ответ. О вопросе лучше не спрашивай.",
-      "烤箱就是答案。请别问问题是什么。"
+      "Rozgrzej piekarnik przed pieczeniem ciasta.",
+      "Preheat the oven before baking the cake.",
+      "Разогрей духовку перед выпечкой торта.",
+      "烤蛋糕之前，先预热烤箱。"
     ]
   },
   {
@@ -3682,10 +3682,10 @@ const WORDS = [
     ],
     "pinyin": "shuǐhú",
     "examples": [
-      "Czajnik to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A kettle is my topic today. Your opinions are an optional extra.",
-      "Чайник — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "水壶是我今天的话题。你的意见是可选项。"
+      "Napełnij czajnik świeżą wodą.",
+      "Fill the kettle with fresh water.",
+      "Наполни чайник свежей водой.",
+      "往水壶里装入新鲜的水。"
     ]
   },
   {
@@ -3699,10 +3699,10 @@ const WORDS = [
     ],
     "pinyin": "wēibōlú",
     "examples": [
-      "Mikrofalówka to nie zamiennik porządnych przeprosin.",
-      "A microwave is not a substitute for a decent apology.",
-      "Микроволновка — не замена нормальному извинению.",
-      "微波炉代替不了一次像样的道歉。"
+      "Podgrzałam zupę w mikrofalówce.",
+      "I heated the soup in the microwave.",
+      "Я разогрела суп в микроволновке.",
+      "我用微波炉热了汤。"
     ]
   },
   {
@@ -3716,10 +3716,10 @@ const WORDS = [
     ],
     "pinyin": "xǐwǎnjī",
     "examples": [
-      "Zmywarka to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A dishwasher is an interesting choice. I am being diplomatic.",
-      "Посудомоечная машина — интересный выбор. Я стараюсь быть дипломатичной.",
-      "洗碗机是个有趣的选择。我已经说得很委婉了。"
+      "Zmywarka jest pełna czystych talerzy.",
+      "The dishwasher is full of clean plates.",
+      "Посудомоечная машина полна чистых тарелок.",
+      "洗碗机里装满了干净的盘子。"
     ]
   },
   {
@@ -3733,10 +3733,10 @@ const WORDS = [
     ],
     "pinyin": "xǐyījī",
     "examples": [
-      "Pralka to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A washing machine is the title of my next masterpiece. Expectations should remain low.",
-      "Стиральная машина — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "洗衣机是我下一部杰作的标题。期待值最好低一点。"
+      "Pralka jest głośniejsza niż telewizor.",
+      "The washing machine is louder than the television.",
+      "Стиральная машина громче телевизора.",
+      "洗衣机比电视还吵。"
     ]
   },
   {
@@ -3750,10 +3750,10 @@ const WORDS = [
     ],
     "pinyin": "xīchénqì",
     "examples": [
-      "Odkurzacz to nie główny problem. Problemem są twoje priorytety.",
-      "A vacuum cleaner is not the main issue. Your priorities are.",
-      "Пылесос — не главная проблема. Проблема в твоих приоритетах.",
-      "吸尘器不是主要问题。你的轻重缓急才是。"
+      "Odkurzacz przestraszył kota.",
+      "The vacuum cleaner scared the cat.",
+      "Пылесос напугал кота.",
+      "吸尘器吓到了猫。"
     ]
   },
   {
@@ -3767,10 +3767,10 @@ const WORDS = [
     ],
     "pinyin": "sàozhou",
     "examples": [
-      "Miotła to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A broom is the theme of this conversation. Somehow, we are still talking about you.",
-      "Метла — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "扫帚是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Użyj miotły, żeby zamieść okruszki.",
+      "Use the broom to sweep up the crumbs.",
+      "Подмети крошки метлой.",
+      "用扫帚把碎屑扫起来。"
     ]
   },
   {
@@ -3784,10 +3784,10 @@ const WORDS = [
     ],
     "pinyin": "shuǐtǒng",
     "examples": [
-      "Wiadro to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A bucket is not a good reason to call me at dawn.",
-      "Ведро — не повод звонить мне на рассвете.",
-      "水桶不是天一亮就给我打电话的好理由。"
+      "Napełniliśmy wiadro wodą.",
+      "We filled a bucket with water.",
+      "Мы наполнили ведро водой.",
+      "我们把水桶装满了水。"
     ]
   },
   {
@@ -3801,10 +3801,10 @@ const WORDS = [
     ],
     "pinyin": "hǎimián",
     "examples": [
-      "Gąbka to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A sponge is just the beginning of this story. Yes, it gets stranger.",
-      "Губка — только начало этой истории. Да, дальше ещё страннее.",
-      "海绵只是这个故事的开始。没错，后面更奇怪。"
+      "Przetrzyj stół wilgotną gąbką.",
+      "Wipe the table with a damp sponge.",
+      "Протри стол влажной губкой.",
+      "用湿海绵擦桌子。"
     ]
   },
   {
@@ -3818,10 +3818,10 @@ const WORDS = [
     ],
     "pinyin": "chuānglián",
     "examples": [
-      "Zasłona? To jest twój wielki plan?",
-      "A curtain? That is your grand plan?",
-      "Штора? Это и есть твой великий план?",
-      "窗帘？这就是你的宏伟计划？"
+      "Zasuń zasłonę, zanim włączysz światło.",
+      "Close the curtain before turning on the light.",
+      "Закрой штору, прежде чем включить свет.",
+      "开灯前先拉上窗帘。"
     ]
   },
   {
@@ -3835,10 +3835,10 @@ const WORDS = [
     ],
     "pinyin": "huāpíng",
     "examples": [
-      "Wazon to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A vase is the subject of my presentation. Try to contain your excitement.",
-      "Ваза — тема моей презентации. Постарайся сдержать восторг.",
-      "花瓶是我演示的主题。请克制一下你的激动。"
+      "Włożyłam świeże kwiaty do wazonu.",
+      "I put fresh flowers in the vase.",
+      "Я поставила свежие цветы в вазу.",
+      "我把鲜花插进花瓶里。"
     ]
   },
   {
@@ -3852,10 +3852,10 @@ const WORDS = [
     ],
     "pinyin": "huà",
     "examples": [
-      "Obraz to nie cecha osobowości. Sprawdziłam.",
-      "A painting is not a personality trait. I checked.",
-      "Картина — не черта характера. Я проверила.",
-      "画不是性格特点。我查过了。"
+      "Ten obraz przypomina mi morze.",
+      "This painting reminds me of the sea.",
+      "Эта картина напоминает мне о море.",
+      "这幅画让我想起了海。"
     ]
   },
   {
@@ -3869,10 +3869,10 @@ const WORDS = [
     ],
     "pinyin": "chāzuò",
     "examples": [
-      "Gniazdko to odpowiedź. Proszę nie pytać o pytanie.",
-      "A socket is the answer. Please do not ask about the question.",
-      "Розетка — это ответ. О вопросе лучше не спрашивай.",
-      "插座就是答案。请别问问题是什么。"
+      "Obok biurka jest gniazdko.",
+      "There is a socket next to the desk.",
+      "Рядом с письменным столом есть розетка.",
+      "书桌旁边有插座。"
     ]
   },
   {
@@ -3886,10 +3886,10 @@ const WORDS = [
     ],
     "pinyin": "chōngdiànqì",
     "examples": [
-      "Ładowarka to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A charger is my topic today. Your opinions are an optional extra.",
-      "Зарядное устройство — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "充电器是我今天的话题。你的意见是可选项。"
+      "Czy ta ładowarka pasuje do twojego telefonu?",
+      "Does this charger work with your phone?",
+      "Это зарядное устройство подходит к твоему телефону?",
+      "这个充电器能给你的手机充电吗？"
     ]
   },
   {
@@ -3903,10 +3903,10 @@ const WORDS = [
     ],
     "pinyin": "yáokòngqì",
     "examples": [
-      "Pilot to nie zamiennik porządnych przeprosin.",
-      "A remote control is not a substitute for a decent apology.",
-      "Пульт — не замена нормальному извинению.",
-      "遥控器代替不了一次像样的道歉。"
+      "Pilot był pod poduszką.",
+      "The remote control was under the cushion.",
+      "Пульт лежал под подушкой.",
+      "遥控器在靠垫下面。"
     ]
   },
   {
@@ -3920,10 +3920,10 @@ const WORDS = [
     ],
     "pinyin": "liányīqún",
     "examples": [
-      "Sukienka to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A dress is an interesting choice. I am being diplomatic.",
-      "Платье — интересный выбор. Я стараюсь быть дипломатичной.",
-      "连衣裙是个有趣的选择。我已经说得很委婉了。"
+      "Założyła niebieską sukienkę na przyjęcie.",
+      "She wore a blue dress to the party.",
+      "Она надела синее платье на вечеринку.",
+      "她穿着蓝色连衣裙去参加聚会。"
     ]
   },
   {
@@ -3937,10 +3937,10 @@ const WORDS = [
     ],
     "pinyin": "qúnzi",
     "examples": [
-      "Spódnica to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A skirt is the title of my next masterpiece. Expectations should remain low.",
-      "Юбка — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "裙子是我下一部杰作的标题。期待值最好低一点。"
+      "Ta spódnica ma kieszenie.",
+      "This skirt has pockets.",
+      "У этой юбки есть карманы.",
+      "这条裙子有口袋。"
     ]
   },
   {
@@ -3954,10 +3954,10 @@ const WORDS = [
     ],
     "pinyin": "jiákè",
     "examples": [
-      "Kurtka to nie główny problem. Problemem są twoje priorytety.",
-      "A jacket is not the main issue. Your priorities are.",
-      "Куртка — не главная проблема. Проблема в твоих приоритетах.",
-      "夹克不是主要问题。你的轻重缓急才是。"
+      "Weź kurtkę na wieczór.",
+      "Take a jacket for the evening.",
+      "Возьми куртку на вечер.",
+      "带件夹克，晚上穿。"
     ]
   },
   {
@@ -3971,10 +3971,10 @@ const WORDS = [
     ],
     "pinyin": "máoyī",
     "examples": [
-      "Sweter to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A sweater is the theme of this conversation. Somehow, we are still talking about you.",
-      "Свитер — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "毛衣是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Moja babcia zrobiła ten sweter na drutach.",
+      "My grandmother knitted this sweater.",
+      "Моя бабушка связала этот свитер.",
+      "这件毛衣是我奶奶织的。"
     ]
   },
   {
@@ -3988,10 +3988,10 @@ const WORDS = [
     ],
     "pinyin": "T xù",
     "examples": [
-      "Koszulka to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A T-shirt is not a good reason to call me at dawn.",
-      "Футболка — не повод звонить мне на рассвете.",
-      "T恤不是天一亮就给我打电话的好理由。"
+      "Rozlałam kawę na białą koszulkę.",
+      "I spilled coffee on my white T-shirt.",
+      "Я пролила кофе на белую футболку.",
+      "我把咖啡洒在白色T恤上了。"
     ]
   },
   {
@@ -4005,10 +4005,10 @@ const WORDS = [
     ],
     "pinyin": "xīzhuāng",
     "examples": [
-      "Garnitur to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A suit is just the beginning of this story. Yes, it gets stranger.",
-      "Костюм — только начало этой истории. Да, дальше ещё страннее.",
-      "西装只是这个故事的开始。没错，后面更奇怪。"
+      "Kupił garnitur na ślub.",
+      "He bought a suit for the wedding.",
+      "Он купил костюм на свадьбу.",
+      "他为婚礼买了一套西装。"
     ]
   },
   {
@@ -4022,10 +4022,10 @@ const WORDS = [
     ],
     "pinyin": "lǐngdài",
     "examples": [
-      "Krawat? To jest twój wielki plan?",
-      "A tie? That is your grand plan?",
-      "Галстук? Это и есть твой великий план?",
-      "领带？这就是你的宏伟计划？"
+      "Ten krawat pasuje do twojej koszuli.",
+      "This tie matches your shirt.",
+      "Этот галстук подходит к твоей рубашке.",
+      "这条领带和你的衬衫很配。"
     ]
   },
   {
@@ -4039,10 +4039,10 @@ const WORDS = [
     ],
     "pinyin": "yāodài",
     "examples": [
-      "Pasek to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A belt is the subject of my presentation. Try to contain your excitement.",
-      "Ремень — тема моей презентации. Постарайся сдержать восторг.",
-      "腰带是我演示的主题。请克制一下你的激动。"
+      "Potrzebuję paska do tych spodni.",
+      "I need a belt for these trousers.",
+      "Мне нужен ремень для этих брюк.",
+      "这条裤子需要配一条腰带。"
     ]
   },
   {
@@ -4056,10 +4056,10 @@ const WORDS = [
     ],
     "pinyin": "xiézi",
     "examples": [
-      "But to nie cecha osobowości. Sprawdziłam.",
-      "A shoe is not a personality trait. I checked.",
-      "Ботинок — не черта характера. Я проверила.",
-      "鞋子不是性格特点。我查过了。"
+      "W moim bucie jest mały kamień.",
+      "There is a small stone in my shoe.",
+      "В моём ботинке маленький камень.",
+      "我的鞋子里有一颗小石头。"
     ]
   },
   {
@@ -4073,10 +4073,10 @@ const WORDS = [
     ],
     "pinyin": "wàzi",
     "examples": [
-      "Skarpetka to odpowiedź. Proszę nie pytać o pytanie.",
-      "A sock is the answer. Please do not ask about the question.",
-      "Носок — это ответ. О вопросе лучше не спрашивай.",
-      "袜子就是答案。请别问问题是什么。"
+      "Jedna skarpetka zniknęła w praniu, jak zwykle.",
+      "One sock disappeared in the wash, as usual.",
+      "Один носок исчез после стирки, как обычно.",
+      "和往常一样，一只袜子洗完就不见了。"
     ]
   },
   {
@@ -4090,10 +4090,10 @@ const WORDS = [
     ],
     "pinyin": "shǒutào",
     "examples": [
-      "Rękawiczka to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A glove is my topic today. Your opinions are an optional extra.",
-      "Перчатка — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "手套是我今天的话题。你的意见是可选项。"
+      "Znalazłam twoją rękawiczkę w autobusie.",
+      "I found your glove on the bus.",
+      "Я нашла твою перчатку в автобусе.",
+      "我在公共汽车上找到了你的手套。"
     ]
   },
   {
@@ -4107,10 +4107,10 @@ const WORDS = [
     ],
     "pinyin": "kǒudài",
     "examples": [
-      "Kieszeń to nie zamiennik porządnych przeprosin.",
-      "A pocket is not a substitute for a decent apology.",
-      "Карман — не замена нормальному извинению.",
-      "口袋代替不了一次像样的道歉。"
+      "Mój bilet jest w kieszeni.",
+      "My ticket is in my pocket.",
+      "Мой билет в кармане.",
+      "我的票在口袋里。"
     ]
   },
   {
@@ -4124,10 +4124,10 @@ const WORDS = [
     ],
     "pinyin": "niǔkòu",
     "examples": [
-      "Guzik to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A button is an interesting choice. I am being diplomatic.",
-      "Пуговица — интересный выбор. Я стараюсь быть дипломатичной.",
-      "纽扣是个有趣的选择。我已经说得很委婉了。"
+      "Od koszuli odpadł mi guzik.",
+      "A button came off my shirt.",
+      "У моей рубашки оторвалась пуговица.",
+      "我的衬衫掉了一颗纽扣。"
     ]
   },
   {
@@ -4141,10 +4141,10 @@ const WORDS = [
     ],
     "pinyin": "lāliàn",
     "examples": [
-      "Zamek błyskawiczny to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A zipper is the title of my next masterpiece. Expectations should remain low.",
-      "Молния — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "拉链是我下一部杰作的标题。期待值最好低一点。"
+      "Zamek błyskawiczny w mojej torbie się zaciął.",
+      "The zipper on my bag is stuck.",
+      "Молния на моей сумке заела.",
+      "我包上的拉链卡住了。"
     ]
   },
   {
@@ -4158,10 +4158,10 @@ const WORDS = [
     ],
     "pinyin": "jièzhi",
     "examples": [
-      "Pierścionek to nie główny problem. Problemem są twoje priorytety.",
-      "A ring is not the main issue. Your priorities are.",
-      "Кольцо — не главная проблема. Проблема в твоих приоритетах.",
-      "戒指不是主要问题。你的轻重缓急才是。"
+      "Nosi srebrny pierścionek.",
+      "She wears a silver ring.",
+      "Она носит серебряное кольцо.",
+      "她戴着一枚银戒指。"
     ]
   },
   {
@@ -4175,10 +4175,10 @@ const WORDS = [
     ],
     "pinyin": "xiàngliàn",
     "examples": [
-      "Naszyjnik to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A necklace is the theme of this conversation. Somehow, we are still talking about you.",
-      "Ожерелье — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "项链是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Ten naszyjnik był prezentem od mojej siostry.",
+      "This necklace was a gift from my sister.",
+      "Это ожерелье — подарок от моей сестры.",
+      "这条项链是我姐姐送的礼物。"
     ]
   },
   {
@@ -4192,10 +4192,10 @@ const WORDS = [
     ],
     "pinyin": "shǒuliàn",
     "examples": [
-      "Bransoletka to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A bracelet is not a good reason to call me at dawn.",
-      "Браслет — не повод звонить мне на рассвете.",
-      "手链不是天一亮就给我打电话的好理由。"
+      "Zrobiłam bransoletkę z kolorowych koralików.",
+      "I made a bracelet from colourful beads.",
+      "Я сделала браслет из разноцветных бусин.",
+      "我用彩色珠子做了一条手链。"
     ]
   },
   {
@@ -4209,10 +4209,10 @@ const WORDS = [
     ],
     "pinyin": "ěrhuán",
     "examples": [
-      "Kolczyk to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "An earring is just the beginning of this story. Yes, it gets stranger.",
-      "Серьга — только начало этой истории. Да, дальше ещё страннее.",
-      "耳环只是这个故事的开始。没错，后面更奇怪。"
+      "Zgubiłam kolczyk na przyjęciu.",
+      "I lost an earring at the party.",
+      "Я потеряла серьгу на вечеринке.",
+      "我在聚会上丢了一只耳环。"
     ]
   },
   {
@@ -4226,10 +4226,10 @@ const WORDS = [
     ],
     "pinyin": "shūzi",
     "examples": [
-      "Grzebień? To jest twój wielki plan?",
-      "A comb? That is your grand plan?",
-      "Расчёска? Это и есть твой великий план?",
-      "梳子？这就是你的宏伟计划？"
+      "Trzymam grzebień w torbie.",
+      "I keep a comb in my bag.",
+      "Я ношу расчёску в сумке.",
+      "我包里放着一把梳子。"
     ]
   },
   {
@@ -4243,10 +4243,10 @@ const WORDS = [
     ],
     "pinyin": "fàshuā",
     "examples": [
-      "Szczotka do włosów to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A hairbrush is the subject of my presentation. Try to contain your excitement.",
-      "Щётка для волос — тема моей презентации. Постарайся сдержать восторг.",
-      "发刷是我演示的主题。请克制一下你的激动。"
+      "Dziś rano wyczyściłam szczotkę do włosów.",
+      "I cleaned my hairbrush this morning.",
+      "Сегодня утром я почистила щётку для волос.",
+      "今天早上我清理了发刷。"
     ]
   },
   {
@@ -4260,10 +4260,10 @@ const WORDS = [
     ],
     "pinyin": "xǐfàshuǐ",
     "examples": [
-      "Szampon to nie cecha osobowości. Sprawdziłam.",
-      "Shampoo is not a personality trait. I checked.",
-      "Шампунь — не черта характера. Я проверила.",
-      "洗发水不是性格特点。我查过了。"
+      "Ten szampon pachnie kokosem.",
+      "This shampoo smells like coconut.",
+      "Этот шампунь пахнет кокосом.",
+      "这款洗发水有椰子的香味。"
     ]
   },
   {
@@ -4277,10 +4277,10 @@ const WORDS = [
     ],
     "pinyin": "yágāo",
     "examples": [
-      "Pasta do zębów to odpowiedź. Proszę nie pytać o pytanie.",
-      "Toothpaste is the answer. Please do not ask about the question.",
-      "Зубная паста — это ответ. О вопросе лучше не спрашивай.",
-      "牙膏就是答案。请别问问题是什么。"
+      "Musimy kupić więcej pasty do zębów.",
+      "We need to buy more toothpaste.",
+      "Нам нужно купить ещё зубной пасты.",
+      "我们需要再买些牙膏。"
     ]
   },
   {
@@ -4294,10 +4294,10 @@ const WORDS = [
     ],
     "pinyin": "xiāngshuǐ",
     "examples": [
-      "Perfumy to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Perfume is my topic today. Your opinions are an optional extra.",
-      "Духи — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "香水是我今天的话题。你的意见是可选项。"
+      "Jej perfumy mają lekki kwiatowy zapach.",
+      "Her perfume has a light floral scent.",
+      "У её духов лёгкий цветочный аромат.",
+      "她的香水有淡淡的花香。"
     ]
   },
   {
@@ -4311,10 +4311,10 @@ const WORDS = [
     ],
     "pinyin": "kǒuhóng",
     "examples": [
-      "Szminka to nie zamiennik porządnych przeprosin.",
-      "Lipstick is not a substitute for a decent apology.",
-      "Помада — не замена нормальному извинению.",
-      "口红代替不了一次像样的道歉。"
+      "Wybrałam czerwoną szminkę na wieczór.",
+      "I chose a red lipstick for the evening.",
+      "Я выбрала красную помаду на вечер.",
+      "我选了一支红色口红，晚上用。"
     ]
   },
   {
@@ -4328,10 +4328,10 @@ const WORDS = [
     ],
     "pinyin": "fángshàishuāng",
     "examples": [
-      "Krem przeciwsłoneczny to ciekawy wybór. Staram się być dyplomatyczna.",
-      "Sunscreen is an interesting choice. I am being diplomatic.",
-      "Солнцезащитный крем — интересный выбор. Я стараюсь быть дипломатичной.",
-      "防晒霜是个有趣的选择。我已经说得很委婉了。"
+      "Spakowałam krem przeciwsłoneczny na wyjazd na plażę.",
+      "I packed sunscreen for our beach trip.",
+      "Я взяла солнцезащитный крем для поездки на пляж.",
+      "去海滩旅行，我带了防晒霜。"
     ]
   },
   {
@@ -4345,10 +4345,10 @@ const WORDS = [
     ],
     "pinyin": "tìxūdāo",
     "examples": [
-      "Maszynka do golenia to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A razor is the title of my next masterpiece. Expectations should remain low.",
-      "Бритва — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "剃须刀是我下一部杰作的标题。期待值最好低一点。"
+      "Spakował maszynkę do golenia do kosmetyczki.",
+      "He packed his razor in the washbag.",
+      "Он положил бритву в косметичку.",
+      "他把剃须刀放进了洗漱包。"
     ]
   },
   {
@@ -4362,10 +4362,10 @@ const WORDS = [
     ],
     "pinyin": "zhǐjia",
     "examples": [
-      "Paznokieć to nie główny problem. Problemem są twoje priorytety.",
-      "A nail is not the main issue. Your priorities are.",
-      "Ноготь — не главная проблема. Проблема в твоих приоритетах.",
-      "指甲不是主要问题。你的轻重缓急才是。"
+      "Złamałam paznokieć podczas otwierania pudełka.",
+      "I broke a nail while opening the box.",
+      "Я сломала ноготь, открывая коробку.",
+      "打开盒子时，我弄断了一片指甲。"
     ]
   },
   {
@@ -4379,10 +4379,10 @@ const WORDS = [
     ],
     "pinyin": "fàxíng",
     "examples": [
-      "Fryzura to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A haircut is the theme of this conversation. Somehow, we are still talking about you.",
-      "Стрижка — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "发型是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Twoja nowa fryzura bardzo ci pasuje.",
+      "Your new haircut really suits you.",
+      "Тебе очень идёт новая стрижка.",
+      "你的新发型很适合你。"
     ]
   },
   {
@@ -4396,10 +4396,10 @@ const WORDS = [
     ],
     "pinyin": "wūzì",
     "examples": [
-      "Plama to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A stain is not a good reason to call me at dawn.",
-      "Пятно — не повод звонить мне на рассвете.",
-      "污渍不是天一亮就给我打电话的好理由。"
+      "Na obrusie jest plama z kawy.",
+      "There is a coffee stain on the tablecloth.",
+      "На скатерти кофейное пятно.",
+      "桌布上有一块咖啡污渍。"
     ]
   },
   {
@@ -4413,10 +4413,10 @@ const WORDS = [
     ],
     "pinyin": "xǐyī",
     "examples": [
-      "Pranie to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "Laundry is just the beginning of this story. Yes, it gets stranger.",
-      "Стирка — только начало этой истории. Да, дальше ещё страннее.",
-      "洗衣只是这个故事的开始。没错，后面更奇怪。"
+      "Robię pranie w sobotnie poranki.",
+      "I do the laundry on Saturday mornings.",
+      "Я занимаюсь стиркой по субботам утром.",
+      "我星期六早上洗衣。"
     ]
   },
   {
@@ -4430,10 +4430,10 @@ const WORDS = [
     ],
     "pinyin": "tóu",
     "examples": [
-      "Głowa? To jest twój wielki plan?",
-      "A head? That is your grand plan?",
-      "Голова? Это и есть твой великий план?",
-      "头？这就是你的宏伟计划？"
+      "Uderzyłam głową w niską framugę.",
+      "I bumped my head on the low doorway.",
+      "Я ударилась головой о низкий дверной проём.",
+      "我的头撞到了低矮的门框。"
     ]
   },
   {
@@ -4447,10 +4447,10 @@ const WORDS = [
     ],
     "pinyin": "liǎn",
     "examples": [
-      "Twarz to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A face is the subject of my presentation. Try to contain your excitement.",
-      "Лицо — тема моей презентации. Постарайся сдержать восторг.",
-      "脸是我演示的主题。请克制一下你的激动。"
+      "Umyj twarz chłodną wodą.",
+      "Wash your face with cool water.",
+      "Умой лицо прохладной водой.",
+      "用凉水洗脸。"
     ]
   },
   {
@@ -4464,10 +4464,10 @@ const WORDS = [
     ],
     "pinyin": "yǎnjing",
     "examples": [
-      "Oko to nie cecha osobowości. Sprawdziłam.",
-      "An eye is not a personality trait. I checked.",
-      "Глаз — не черта характера. Я проверила.",
-      "眼睛不是性格特点。我查过了。"
+      "Coś wpadło mi do oka.",
+      "Something got into my eye.",
+      "Мне что-то попало в глаз.",
+      "我的眼睛里进了东西。"
     ]
   },
   {
@@ -4481,10 +4481,10 @@ const WORDS = [
     ],
     "pinyin": "ěrduo",
     "examples": [
-      "Ucho to odpowiedź. Proszę nie pytać o pytanie.",
-      "An ear is the answer. Please do not ask about the question.",
-      "Ухо — это ответ. О вопросе лучше не спрашивай.",
-      "耳朵就是答案。请别问问题是什么。"
+      "Lewe ucho marznie mi na wietrze.",
+      "My left ear feels cold in the wind.",
+      "У меня на ветру мёрзнет левое ухо.",
+      "风一吹，我的左耳朵就觉得冷。"
     ]
   },
   {
@@ -4498,10 +4498,10 @@ const WORDS = [
     ],
     "pinyin": "bízi",
     "examples": [
-      "Nos to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A nose is my topic today. Your opinions are an optional extra.",
-      "Нос — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "鼻子是我今天的话题。你的意见是可选项。"
+      "Mój nos robi się czerwony na zimnie.",
+      "My nose turns red in cold weather.",
+      "На холоде у меня краснеет нос.",
+      "天气冷时，我的鼻子会变红。"
     ]
   },
   {
@@ -4515,10 +4515,10 @@ const WORDS = [
     ],
     "pinyin": "zuǐ",
     "examples": [
-      "Usta to nie zamiennik porządnych przeprosin.",
-      "A mouth is not a substitute for a decent apology.",
-      "Рот — не замена нормальному извинению.",
-      "嘴代替不了一次像样的道歉。"
+      "Zasłaniaj usta, gdy kaszlesz.",
+      "Please cover your mouth when you cough.",
+      "Пожалуйста, прикрывай рот, когда кашляешь.",
+      "咳嗽时请捂住嘴。"
     ]
   },
   {
@@ -4532,10 +4532,10 @@ const WORDS = [
     ],
     "pinyin": "yáchǐ",
     "examples": [
-      "Ząb to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A tooth is an interesting choice. I am being diplomatic.",
-      "Зуб — интересный выбор. Я стараюсь быть дипломатичной.",
-      "牙齿是个有趣的选择。我已经说得很委婉了。"
+      "Dentysta sprawdził mój ząb.",
+      "The dentist checked my tooth.",
+      "Стоматолог осмотрел мой зуб.",
+      "牙医检查了我的牙齿。"
     ]
   },
   {
@@ -4549,10 +4549,10 @@ const WORDS = [
     ],
     "pinyin": "bózi",
     "examples": [
-      "Szyja to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A neck is the title of my next masterpiece. Expectations should remain low.",
-      "Шея — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "脖子是我下一部杰作的标题。期待值最好低一点。"
+      "Po długim locie mam sztywną szyję.",
+      "My neck feels stiff after the long flight.",
+      "После долгого перелёта у меня затекла шея.",
+      "长途飞行后，我的脖子有些僵硬。"
     ]
   },
   {
@@ -4566,10 +4566,10 @@ const WORDS = [
     ],
     "pinyin": "jiānbǎng",
     "examples": [
-      "Ramię to nie główny problem. Problemem są twoje priorytety.",
-      "A shoulder is not the main issue. Your priorities are.",
-      "Плечо — не главная проблема. Проблема в твоих приоритетах.",
-      "肩膀不是主要问题。你的轻重缓急才是。"
+      "Położyła mi dłoń na ramieniu.",
+      "She put a hand on my shoulder.",
+      "Она положила руку мне на плечо.",
+      "她把手放在我的肩膀上。"
     ]
   },
   {
@@ -4583,10 +4583,10 @@ const WORDS = [
     ],
     "pinyin": "zhǒubù",
     "examples": [
-      "Łokieć to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "An elbow is the theme of this conversation. Somehow, we are still talking about you.",
-      "Локоть — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "肘部是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Oparłam łokieć na biurku.",
+      "I rested my elbow on the desk.",
+      "Я опёрлась локтем на стол.",
+      "我把肘部靠在书桌上。"
     ]
   },
   {
@@ -4595,15 +4595,15 @@ const WORDS = [
     "words": [
       "dłoń",
       "a hand",
-      "кисть руки",
+      "ладонь",
       "手"
     ],
     "pinyin": "shǒu",
     "examples": [
-      "Dłoń to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A hand is not a good reason to call me at dawn.",
-      "Кисть руки — не повод звонить мне на рассвете.",
-      "手不是天一亮就给我打电话的好理由。"
+      "Moja dłoń jest zimna po spacerze.",
+      "My hand is cold after the walk.",
+      "После прогулки моя ладонь холодная.",
+      "散步后，我的手很冷。"
     ]
   },
   {
@@ -4617,10 +4617,10 @@ const WORDS = [
     ],
     "pinyin": "shǒuzhǐ",
     "examples": [
-      "Palec to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A finger is just the beginning of this story. Yes, it gets stranger.",
-      "Палец — только начало этой истории. Да, дальше ещё страннее.",
-      "手指只是这个故事的开始。没错，后面更奇怪。"
+      "Wskazałam obrazek palcem.",
+      "I pointed at the picture with my finger.",
+      "Я указала на картинку пальцем.",
+      "我用手指指着那幅图。"
     ]
   },
   {
@@ -4634,10 +4634,10 @@ const WORDS = [
     ],
     "pinyin": "xīgài",
     "examples": [
-      "Kolano? To jest twój wielki plan?",
-      "A knee? That is your grand plan?",
-      "Колено? Это и есть твой великий план?",
-      "膝盖？这就是你的宏伟计划？"
+      "Otarłam kolano podczas upadku.",
+      "I scraped my knee when I fell.",
+      "Я ободрала колено, когда упала.",
+      "摔倒时，我擦伤了膝盖。"
     ]
   },
   {
@@ -4651,10 +4651,10 @@ const WORDS = [
     ],
     "pinyin": "jiǎo",
     "examples": [
-      "Stopa to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A foot is the subject of my presentation. Try to contain your excitement.",
-      "Ступня — тема моей презентации. Постарайся сдержать восторг.",
-      "脚是我演示的主题。请克制一下你的激动。"
+      "Moja stopa nie mieści się w tym bucie.",
+      "My foot does not fit in this shoe.",
+      "Моя ступня не помещается в этот ботинок.",
+      "我的脚穿不进这只鞋。"
     ]
   },
   {
@@ -4668,10 +4668,10 @@ const WORDS = [
     ],
     "pinyin": "xīnzàng",
     "examples": [
-      "Serce to nie cecha osobowości. Sprawdziłam.",
-      "A heart is not a personality trait. I checked.",
-      "Сердце — не черта характера. Я проверила.",
-      "心脏不是性格特点。我查过了。"
+      "Moje serce bije szybciej, gdy biegam.",
+      "My heart beats faster when I run.",
+      "Когда я бегаю, моё сердце бьётся быстрее.",
+      "跑步时，我的心脏跳得更快。"
     ]
   },
   {
@@ -4685,10 +4685,10 @@ const WORDS = [
     ],
     "pinyin": "dànǎo",
     "examples": [
-      "Mózg to odpowiedź. Proszę nie pytać o pytanie.",
-      "A brain is the answer. Please do not ask about the question.",
-      "Мозг — это ответ. О вопросе лучше не спрашивай.",
-      "大脑就是答案。请别问问题是什么。"
+      "Mój mózg potrzebuje przerwy po tej lekcji.",
+      "My brain needs a break after this lesson.",
+      "Моему мозгу нужен перерыв после этого урока.",
+      "这节课后，我的大脑需要休息一下。"
     ]
   },
   {
@@ -4702,10 +4702,10 @@ const WORDS = [
     ],
     "pinyin": "wèi",
     "examples": [
-      "Żołądek to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A stomach is my topic today. Your opinions are an optional extra.",
-      "Желудок — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "胃是我今天的话题。你的意见是可选项。"
+      "Burczy mi w żołądku, bo nie zjadłam obiadu.",
+      "My stomach is rumbling because I skipped lunch.",
+      "У меня урчит в желудке, потому что я пропустила обед.",
+      "我没吃午饭，胃都咕咕叫了。"
     ]
   },
   {
@@ -4719,10 +4719,10 @@ const WORDS = [
     ],
     "pinyin": "pífū",
     "examples": [
-      "Skóra to nie zamiennik porządnych przeprosin.",
-      "Skin is not a substitute for a decent apology.",
-      "Кожа — не замена нормальному извинению.",
-      "皮肤代替不了一次像样的道歉。"
+      "Zimą moja skóra staje się sucha.",
+      "My skin gets dry in winter.",
+      "Зимой моя кожа становится сухой.",
+      "冬天我的皮肤会变干。"
     ]
   },
   {
@@ -4736,10 +4736,10 @@ const WORDS = [
     ],
     "pinyin": "gǔtou",
     "examples": [
-      "Kość to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A bone is an interesting choice. I am being diplomatic.",
-      "Кость — интересный выбор. Я стараюсь быть дипломатичной.",
-      "骨头是个有趣的选择。我已经说得很委婉了。"
+      "Zdjęcie rentgenowskie pokazało złamaną kość.",
+      "The X-ray showed a broken bone.",
+      "На рентгеновском снимке была видна сломанная кость.",
+      "X光片显示一根骨头断了。"
     ]
   },
   {
@@ -4753,10 +4753,10 @@ const WORDS = [
     ],
     "pinyin": "jīròu",
     "examples": [
-      "Mięsień to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A muscle is the title of my next masterpiece. Expectations should remain low.",
-      "Мышца — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "肌肉是我下一部杰作的标题。期待值最好低一点。"
+      "Naciągnęłam mięsień podczas treningu.",
+      "I pulled a muscle during training.",
+      "Я потянула мышцу на тренировке.",
+      "我训练时拉伤了肌肉。"
     ]
   },
   {
@@ -4770,10 +4770,10 @@ const WORDS = [
     ],
     "pinyin": "wēixiào",
     "examples": [
-      "Uśmiech to nie główny problem. Problemem są twoje priorytety.",
-      "A smile is not the main issue. Your priorities are.",
-      "Улыбка — не главная проблема. Проблема в твоих приоритетах.",
-      "微笑不是主要问题。你的轻重缓急才是。"
+      "Jej uśmiech sprawił, że poczułam się mile widziana.",
+      "Her smile made me feel welcome.",
+      "Её улыбка помогла мне почувствовать себя желанной гостьей.",
+      "她的微笑让我感到很受欢迎。"
     ]
   },
   {
@@ -4787,10 +4787,10 @@ const WORDS = [
     ],
     "pinyin": "xiàoshēng",
     "examples": [
-      "Śmiech to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A laugh is the theme of this conversation. Somehow, we are still talking about you.",
-      "Смех — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "笑声是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Jego śmiech wypełnił pokój.",
+      "His laugh filled the room.",
+      "Его смех наполнил комнату.",
+      "他的笑声传遍了整个房间。"
     ]
   },
   {
@@ -4804,10 +4804,10 @@ const WORDS = [
     ],
     "pinyin": "yǎnlèi",
     "examples": [
-      "Łza to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A tear is not a good reason to call me at dawn.",
-      "Слеза — не повод звонить мне на рассвете.",
-      "眼泪不是天一亮就给我打电话的好理由。"
+      "Łza spłynęła po jej policzku.",
+      "A tear rolled down her cheek.",
+      "Слеза скатилась по её щеке.",
+      "一滴眼泪顺着她的脸颊流下来。"
     ]
   },
   {
@@ -4821,10 +4821,10 @@ const WORDS = [
     ],
     "pinyin": "tóutòng",
     "examples": [
-      "Ból głowy to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A headache is just the beginning of this story. Yes, it gets stranger.",
-      "Головная боль — только начало этой истории. Да, дальше ещё страннее.",
-      "头痛只是这个故事的开始。没错，后面更奇怪。"
+      "Boli mnie głowa, więc odpocznę.",
+      "I have a headache, so I will rest.",
+      "У меня головная боль, поэтому я отдохну.",
+      "我头痛，所以要休息一下。"
     ]
   },
   {
@@ -4838,10 +4838,10 @@ const WORDS = [
     ],
     "pinyin": "fāshāo",
     "examples": [
-      "Gorączka? To jest twój wielki plan?",
-      "A fever? That is your grand plan?",
-      "Жар? Это и есть твой великий план?",
-      "发烧？这就是你的宏伟计划？"
+      "Została w domu, bo miała gorączkę.",
+      "She stayed home because she had a fever.",
+      "Она осталась дома, потому что у неё был жар.",
+      "她发烧了，所以待在家里。"
     ]
   },
   {
@@ -4855,10 +4855,10 @@ const WORDS = [
     ],
     "pinyin": "késou",
     "examples": [
-      "Kaszel to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A cough is the subject of my presentation. Try to contain your excitement.",
-      "Кашель — тема моей презентации. Постарайся сдержать восторг.",
-      "咳嗽是我演示的主题。请克制一下你的激动。"
+      "Kaszel nie dawał mu wczoraj w nocy spać.",
+      "His cough kept him awake last night.",
+      "Прошлой ночью кашель не давал ему уснуть.",
+      "昨晚咳嗽让他睡不着。"
     ]
   },
   {
@@ -4872,10 +4872,10 @@ const WORDS = [
     ],
     "pinyin": "pēntì",
     "examples": [
-      "Kichnięcie to nie cecha osobowości. Sprawdziłam.",
-      "A sneeze is not a personality trait. I checked.",
-      "Чихание — не черта характера. Я проверила.",
-      "喷嚏不是性格特点。我查过了。"
+      "Głośne kichnięcie przerwało ciszę.",
+      "A loud sneeze interrupted the silence.",
+      "Громкое чихание нарушило тишину.",
+      "一个响亮的喷嚏打破了安静。"
     ]
   },
   {
@@ -4889,10 +4889,10 @@ const WORDS = [
     ],
     "pinyin": "hūxī",
     "examples": [
-      "Oddech to odpowiedź. Proszę nie pytać o pytanie.",
-      "A breath is the answer. Please do not ask about the question.",
-      "Вдох — это ответ. О вопросе лучше не спрашивай.",
-      "呼吸就是答案。请别问问题是什么。"
+      "Weź spokojny oddech, zanim zaczniesz.",
+      "Take a slow breath before you begin.",
+      "Сделай медленный вдох, прежде чем начать.",
+      "开始之前，慢慢呼吸一下。"
     ]
   },
   {
@@ -4906,10 +4906,10 @@ const WORDS = [
     ],
     "pinyin": "shēngyīn",
     "examples": [
-      "Głos to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A voice is my topic today. Your opinions are an optional extra.",
-      "Голос — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "声音是我今天的话题。你的意见是可选项。"
+      "Rozpoznałam jej głos przez telefon.",
+      "I recognised her voice on the phone.",
+      "Я узнала её голос по телефону.",
+      "我在电话里认出了她的声音。"
     ]
   },
   {
@@ -4923,10 +4923,10 @@ const WORDS = [
     ],
     "pinyin": "bāhén",
     "examples": [
-      "Blizna to nie zamiennik porządnych przeprosin.",
-      "A scar is not a substitute for a decent apology.",
-      "Шрам — не замена нормальному извинению.",
-      "疤痕代替不了一次像样的道歉。"
+      "Ma małą bliznę na brodzie.",
+      "He has a small scar on his chin.",
+      "У него небольшой шрам на подбородке.",
+      "他的下巴上有一道小疤痕。"
     ]
   },
   {
@@ -4940,10 +4940,10 @@ const WORDS = [
     ],
     "pinyin": "xuéxiào",
     "examples": [
-      "Szkoła to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A school is an interesting choice. I am being diplomatic.",
-      "Школа — интересный выбор. Я стараюсь быть дипломатичной.",
-      "学校是个有趣的选择。我已经说得很委婉了。"
+      "Szkoła jest naprzeciwko parku.",
+      "The school is across from the park.",
+      "Школа находится напротив парка.",
+      "学校在公园对面。"
     ]
   },
   {
@@ -4957,10 +4957,10 @@ const WORDS = [
     ],
     "pinyin": "dàxué",
     "examples": [
-      "Uniwersytet to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A university is the title of my next masterpiece. Expectations should remain low.",
-      "Университет — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "大学是我下一部杰作的标题。期待值最好低一点。"
+      "Studiuje języki na uniwersytecie.",
+      "She studies languages at university.",
+      "Она изучает языки в университете.",
+      "她在大学学习语言。"
     ]
   },
   {
@@ -4974,10 +4974,10 @@ const WORDS = [
     ],
     "pinyin": "túshūguǎn",
     "examples": [
-      "Biblioteka to nie główny problem. Problemem są twoje priorytety.",
-      "A library is not the main issue. Your priorities are.",
-      "Библиотека — не главная проблема. Проблема в твоих приоритетах.",
-      "图书馆不是主要问题。你的轻重缓急才是。"
+      "Biblioteka jest otwarta do ósmej.",
+      "The library stays open until eight.",
+      "Библиотека открыта до восьми.",
+      "图书馆一直开到八点。"
     ]
   },
   {
@@ -4991,10 +4991,10 @@ const WORDS = [
     ],
     "pinyin": "jiàoshì",
     "examples": [
-      "Sala lekcyjna to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A classroom is the theme of this conversation. Somehow, we are still talking about you.",
-      "Класс — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "教室是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Nasza sala lekcyjna ma duże okna.",
+      "Our classroom has large windows.",
+      "В нашем классе большие окна.",
+      "我们的教室有很大的窗户。"
     ]
   },
   {
@@ -5008,10 +5008,10 @@ const WORDS = [
     ],
     "pinyin": "cídiǎn",
     "examples": [
-      "Słownik to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A dictionary is not a good reason to call me at dawn.",
-      "Словарь — не повод звонить мне на рассвете.",
-      "词典不是天一亮就给我打电话的好理由。"
+      "Sprawdziłam słowo w słowniku.",
+      "I looked up the word in a dictionary.",
+      "Я посмотрела слово в словаре.",
+      "我在词典里查了这个单词。"
     ]
   },
   {
@@ -5025,10 +5025,10 @@ const WORDS = [
     ],
     "pinyin": "kèběn",
     "examples": [
-      "Podręcznik to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A textbook is just the beginning of this story. Yes, it gets stranger.",
-      "Учебник — только начало этой истории. Да, дальше ещё страннее.",
-      "课本只是这个故事的开始。没错，后面更奇怪。"
+      "Otwórz podręcznik na następnym rozdziale.",
+      "Open your textbook to the next chapter.",
+      "Открой учебник на следующей главе.",
+      "把课本翻到下一章。"
     ]
   },
   {
@@ -5042,10 +5042,10 @@ const WORDS = [
     ],
     "pinyin": "jiātíng zuòyè",
     "examples": [
-      "Praca domowa? To jest twój wielki plan?",
-      "Homework? That is your grand plan?",
-      "Домашнее задание? Это и есть твой великий план?",
-      "家庭作业？这就是你的宏伟计划？"
+      "Skończyłam pracę domową przed kolacją.",
+      "I finished my homework before dinner.",
+      "Я закончила домашнее задание до ужина.",
+      "我晚饭前做完了家庭作业。"
     ]
   },
   {
@@ -5059,10 +5059,10 @@ const WORDS = [
     ],
     "pinyin": "kǎoshì",
     "examples": [
-      "Egzamin to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "An exam is the subject of my presentation. Try to contain your excitement.",
-      "Экзамен — тема моей презентации. Постарайся сдержать восторг.",
-      "考试是我演示的主题。请克制一下你的激动。"
+      "Egzamin zaczyna się jutro o dziesiątej.",
+      "The exam starts at ten tomorrow.",
+      "Экзамен начнётся завтра в десять.",
+      "考试明天十点开始。"
     ]
   },
   {
@@ -5076,10 +5076,10 @@ const WORDS = [
     ],
     "pinyin": "chéngjì",
     "examples": [
-      "Ocena to nie cecha osobowości. Sprawdziłam.",
-      "A grade is not a personality trait. I checked.",
-      "Оценка — не черта характера. Я проверила.",
-      "成绩不是性格特点。我查过了。"
+      "Moja ocena poprawiła się po miesiącu ćwiczeń.",
+      "My grade improved after a month of practice.",
+      "Моя оценка улучшилась после месяца практики.",
+      "练习了一个月后，我的成绩提高了。"
     ]
   },
   {
@@ -5093,10 +5093,10 @@ const WORDS = [
     ],
     "pinyin": "wénpíng",
     "examples": [
-      "Dyplom to odpowiedź. Proszę nie pytać o pytanie.",
-      "A diploma is the answer. Please do not ask about the question.",
-      "Диплом — это ответ. О вопросе лучше не спрашивай.",
-      "文凭就是答案。请别问问题是什么。"
+      "Otrzymała dyplom w czerwcu.",
+      "She received her diploma in June.",
+      "Она получила диплом в июне.",
+      "她在六月拿到了文凭。"
     ]
   },
   {
@@ -5110,10 +5110,10 @@ const WORDS = [
     ],
     "pinyin": "jiǎngzuò",
     "examples": [
-      "Wykład to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A lecture is my topic today. Your opinions are an optional extra.",
-      "Лекция — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "讲座是我今天的话题。你的意见是可选项。"
+      "Robiłam notatki podczas wykładu.",
+      "I took notes during the lecture.",
+      "Я делала записи во время лекции.",
+      "我在讲座期间做了笔记。"
     ]
   },
   {
@@ -5127,10 +5127,10 @@ const WORDS = [
     ],
     "pinyin": "kèchéng",
     "examples": [
-      "Kurs to nie zamiennik porządnych przeprosin.",
-      "A course is not a substitute for a decent apology.",
-      "Курс — не замена нормальному извинению.",
-      "课程代替不了一次像样的道歉。"
+      "Ten kurs jest odpowiedni dla początkujących.",
+      "This course is suitable for beginners.",
+      "Этот курс подходит для начинающих.",
+      "这门课程适合初学者。"
     ]
   },
   {
@@ -5144,10 +5144,10 @@ const WORDS = [
     ],
     "pinyin": "duànluò",
     "examples": [
-      "Akapit to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A paragraph is an interesting choice. I am being diplomatic.",
-      "Абзац — интересный выбор. Я стараюсь быть дипломатичной.",
-      "段落是个有趣的选择。我已经说得很委婉了。"
+      "Przeczytaj pierwszy akapit na głos.",
+      "Read the first paragraph aloud.",
+      "Прочитай первый абзац вслух.",
+      "把第一段落大声读出来。"
     ]
   },
   {
@@ -5161,10 +5161,10 @@ const WORDS = [
     ],
     "pinyin": "zhāngjié",
     "examples": [
-      "Rozdział to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A chapter is the title of my next masterpiece. Expectations should remain low.",
-      "Глава — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "章节是我下一部杰作的标题。期待值最好低一点。"
+      "Czytam jeden rozdział przed snem.",
+      "I read one chapter before bed.",
+      "Я читаю одну главу перед сном.",
+      "我睡前读一个章节。"
     ]
   },
   {
@@ -5178,10 +5178,10 @@ const WORDS = [
     ],
     "pinyin": "yè",
     "examples": [
-      "Strona to nie główny problem. Problemem są twoje priorytety.",
-      "A page is not the main issue. Your priorities are.",
-      "Страница — не главная проблема. Проблема в твоих приоритетах.",
-      "页不是主要问题。你的轻重缓急才是。"
+      "Na następnej stronie jest obrazek.",
+      "There is a picture on the next page.",
+      "На следующей странице есть картинка.",
+      "下一页有一幅图。"
     ]
   },
   {
@@ -5195,10 +5195,10 @@ const WORDS = [
     ],
     "pinyin": "biāotí",
     "examples": [
-      "Tytuł to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A title is the theme of this conversation. Somehow, we are still talking about you.",
-      "Заголовок — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "标题是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Tytuł zachęcił mnie do przeczytania artykułu.",
+      "The title made me want to read the article.",
+      "Заголовок вызвал у меня желание прочитать статью.",
+      "这个标题让我想读这篇文章。"
     ]
   },
   {
@@ -5212,10 +5212,10 @@ const WORDS = [
     ],
     "pinyin": "zìmǔ",
     "examples": [
-      "Litera to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A letter is not a good reason to call me at dawn.",
-      "Буква — не повод звонить мне на рассвете.",
-      "字母不是天一亮就给我打电话的好理由。"
+      "W tym słowie brakuje ci litery.",
+      "You missed a letter in this word.",
+      "Ты пропустила букву в этом слове.",
+      "这个单词里少了一个字母。"
     ]
   },
   {
@@ -5229,10 +5229,10 @@ const WORDS = [
     ],
     "pinyin": "yīnjié",
     "examples": [
-      "Sylaba to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A syllable is just the beginning of this story. Yes, it gets stranger.",
-      "Слог — только начало этой истории. Да, дальше ещё страннее.",
-      "音节只是这个故事的开始。没错，后面更奇怪。"
+      "Klaśnij raz przy każdej sylabie.",
+      "Clap once for each syllable.",
+      "Хлопни один раз на каждый слог.",
+      "每读一个音节，就拍一次手。"
     ]
   },
   {
@@ -5246,10 +5246,10 @@ const WORDS = [
     ],
     "pinyin": "yuányīn",
     "examples": [
-      "Samogłoska? To jest twój wielki plan?",
-      "A vowel? That is your grand plan?",
-      "Гласный звук? Это и есть твой великий план?",
-      "元音？这就是你的宏伟计划？"
+      "Posłuchaj uważnie samogłoski w tym słowie.",
+      "Listen carefully to the vowel in this word.",
+      "Внимательно послушай гласный звук в этом слове.",
+      "仔细听这个单词里的元音。"
     ]
   },
   {
@@ -5263,10 +5263,10 @@ const WORDS = [
     ],
     "pinyin": "fǔyīn",
     "examples": [
-      "Spółgłoska to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A consonant is the subject of my presentation. Try to contain your excitement.",
-      "Согласный звук — тема моей презентации. Постарайся сдержать восторг.",
-      "辅音是我演示的主题。请克制一下你的激动。"
+      "Ostatnią spółgłoskę trudno usłyszeć.",
+      "The final consonant is difficult to hear.",
+      "Последний согласный звук трудно услышать.",
+      "最后一个辅音很难听清。"
     ]
   },
   {
@@ -5280,10 +5280,10 @@ const WORDS = [
     ],
     "pinyin": "yǔfǎ",
     "examples": [
-      "Gramatyka to nie cecha osobowości. Sprawdziłam.",
-      "Grammar is not a personality trait. I checked.",
-      "Грамматика — не черта характера. Я проверила.",
-      "语法不是性格特点。我查过了。"
+      "Gramatyka staje się jaśniejsza, gdy widzę przykłady.",
+      "Grammar becomes clearer when I see examples.",
+      "Грамматика становится понятнее, когда я вижу примеры.",
+      "看到例子时，语法就更清楚了。"
     ]
   },
   {
@@ -5297,10 +5297,10 @@ const WORDS = [
     ],
     "pinyin": "fāyīn",
     "examples": [
-      "Wymowa to odpowiedź. Proszę nie pytać o pytanie.",
-      "Pronunciation is the answer. Please do not ask about the question.",
-      "Произношение — это ответ. О вопросе лучше не спрашивай.",
-      "发音就是答案。请别问问题是什么。"
+      "Nagrywam się, żeby ćwiczyć wymowę.",
+      "I record myself to practise pronunciation.",
+      "Я записываю себя, чтобы тренировать произношение.",
+      "我录下自己的声音来练习发音。"
     ]
   },
   {
@@ -5314,10 +5314,10 @@ const WORDS = [
     ],
     "pinyin": "cíhuì",
     "examples": [
-      "Słownictwo to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Vocabulary is my topic today. Your opinions are an optional extra.",
-      "Словарный запас — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "词汇是我今天的话题。你的意见是可选项。"
+      "Czytanie krótkich opowiadań pomaga poszerzać słownictwo.",
+      "Reading short stories helps expand my vocabulary.",
+      "Чтение коротких рассказов помогает расширять словарный запас.",
+      "读短篇故事有助于扩充我的词汇。"
     ]
   },
   {
@@ -5331,10 +5331,10 @@ const WORDS = [
     ],
     "pinyin": "fānyì",
     "examples": [
-      "Tłumaczenie to nie zamiennik porządnych przeprosin.",
-      "A translation is not a substitute for a decent apology.",
-      "Перевод — не замена нормальному извинению.",
-      "翻译代替不了一次像样的道歉。"
+      "To tłumaczenie brzmi bardziej naturalnie.",
+      "This translation sounds more natural.",
+      "Этот перевод звучит естественнее.",
+      "这个翻译听起来更自然。"
     ]
   },
   {
@@ -5348,10 +5348,10 @@ const WORDS = [
     ],
     "pinyin": "kǒuyīn",
     "examples": [
-      "Akcent to ciekawy wybór. Staram się być dyplomatyczna.",
-      "An accent is an interesting choice. I am being diplomatic.",
-      "Акцент — интересный выбор. Я стараюсь быть дипломатичной.",
-      "口音是个有趣的选择。我已经说得很委婉了。"
+      "Lubię słuchać różnych akcentów.",
+      "I enjoy listening to different accents.",
+      "Мне нравится слушать разные акценты.",
+      "我喜欢听不同的口音。"
     ]
   },
   {
@@ -5365,10 +5365,10 @@ const WORDS = [
     ],
     "pinyin": "duìhuà",
     "examples": [
-      "Dialog to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A dialogue is the title of my next masterpiece. Expectations should remain low.",
-      "Диалог — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "对话是我下一部杰作的标题。期待值最好低一点。"
+      "Ćwiczyliśmy dialog w parach.",
+      "We practised a dialogue in pairs.",
+      "Мы разыгрывали диалог в парах.",
+      "我们两人一组练习对话。"
     ]
   },
   {
@@ -5382,10 +5382,10 @@ const WORDS = [
     ],
     "pinyin": "dìngyì",
     "examples": [
-      "Definicja to nie główny problem. Problemem są twoje priorytety.",
-      "A definition is not the main issue. Your priorities are.",
-      "Определение — не главная проблема. Проблема в твоих приоритетах.",
-      "定义不是主要问题。你的轻重缓急才是。"
+      "Czy możesz wyjaśnić tę definicję prostszymi słowami?",
+      "Can you explain this definition in simpler words?",
+      "Можешь объяснить это определение проще?",
+      "你能用更简单的话解释这个定义吗？"
     ]
   },
   {
@@ -5399,10 +5399,10 @@ const WORDS = [
     ],
     "pinyin": "lìzi",
     "examples": [
-      "Przykład to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "An example is the theme of this conversation. Somehow, we are still talking about you.",
-      "Пример — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "例子是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Nauczyciel podał nam przydatny przykład.",
+      "The teacher gave us a useful example.",
+      "Учитель привёл нам полезный пример.",
+      "老师给了我们一个有用的例子。"
     ]
   },
   {
@@ -5416,10 +5416,10 @@ const WORDS = [
     ],
     "pinyin": "guīzé",
     "examples": [
-      "Reguła to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A rule is not a good reason to call me at dawn.",
-      "Правило — не повод звонить мне на рассвете.",
-      "规则不是天一亮就给我打电话的好理由。"
+      "Rozumiem regułę, ale zapominam jej używać.",
+      "I understand the rule but forget to use it.",
+      "Я понимаю правило, но забываю его применять.",
+      "我理解这个规则，但总忘记运用。"
     ]
   },
   {
@@ -5433,10 +5433,10 @@ const WORDS = [
     ],
     "pinyin": "lìwài",
     "examples": [
-      "Wyjątek to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "An exception is just the beginning of this story. Yes, it gets stranger.",
-      "Исключение — только начало этой истории. Да, дальше ещё страннее.",
-      "例外只是这个故事的开始。没错，后面更奇怪。"
+      "Ten czasownik jest wyjątkiem od reguły.",
+      "This verb is an exception to the rule.",
+      "Этот глагол — исключение из правила.",
+      "这个动词是规则的一个例外。"
     ]
   },
   {
@@ -5450,10 +5450,10 @@ const WORDS = [
     ],
     "pinyin": "bàngōngshì",
     "examples": [
-      "Biuro? To jest twój wielki plan?",
-      "An office? That is your grand plan?",
-      "Офис? Это и есть твой великий план?",
-      "办公室？这就是你的宏伟计划？"
+      "W biurze jest cicho, zanim wszyscy przyjdą.",
+      "The office is quiet before everyone arrives.",
+      "В офисе тихо, пока все не пришли.",
+      "大家还没到时，办公室很安静。"
     ]
   },
   {
@@ -5467,10 +5467,10 @@ const WORDS = [
     ],
     "pinyin": "gōngzuò",
     "examples": [
-      "Praca to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A job is the subject of my presentation. Try to contain your excitement.",
-      "Работа — тема моей презентации. Постарайся сдержать восторг.",
-      "工作是我演示的主题。请克制一下你的激动。"
+      "Znalazła pracę blisko domu.",
+      "She found a job close to home.",
+      "Она нашла работу рядом с домом.",
+      "她找到了一份离家近的工作。"
     ]
   },
   {
@@ -5484,10 +5484,10 @@ const WORDS = [
     ],
     "pinyin": "zhíyè shēngyá",
     "examples": [
-      "Kariera to nie cecha osobowości. Sprawdziłam.",
-      "A career is not a personality trait. I checked.",
-      "Карьера — не черта характера. Я проверила.",
-      "职业生涯不是性格特点。我查过了。"
+      "Chce zrobić karierę w projektowaniu.",
+      "He wants a career in design.",
+      "Он хочет сделать карьеру в дизайне.",
+      "他想在设计领域发展自己的职业生涯。"
     ]
   },
   {
@@ -5501,10 +5501,10 @@ const WORDS = [
     ],
     "pinyin": "gōngzī",
     "examples": [
-      "Pensja to odpowiedź. Proszę nie pytać o pytanie.",
-      "A salary is the answer. Please do not ask about the question.",
-      "Зарплата — это ответ. О вопросе лучше не спрашивай.",
-      "工资就是答案。请别问问题是什么。"
+      "Moja pensja wpływa pod koniec miesiąca.",
+      "My salary arrives at the end of the month.",
+      "Моя зарплата приходит в конце месяца.",
+      "我的工资在月底到账。"
     ]
   },
   {
@@ -5518,10 +5518,10 @@ const WORDS = [
     ],
     "pinyin": "hétong",
     "examples": [
-      "Umowa to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A contract is my topic today. Your opinions are an optional extra.",
-      "Договор — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "合同是我今天的话题。你的意见是可选项。"
+      "Przeczytaj uważnie umowę przed podpisaniem.",
+      "Read the contract carefully before signing.",
+      "Внимательно прочитай договор перед подписанием.",
+      "签字前仔细阅读合同。"
     ]
   },
   {
@@ -5535,10 +5535,10 @@ const WORDS = [
     ],
     "pinyin": "miànshì",
     "examples": [
-      "Rozmowa kwalifikacyjna to nie zamiennik porządnych przeprosin.",
-      "An interview is not a substitute for a decent apology.",
-      "Собеседование — не замена нормальному извинению.",
-      "面试代替不了一次像样的道歉。"
+      "Przygotowałam odpowiedzi przed rozmową kwalifikacyjną.",
+      "I prepared answers before the interview.",
+      "Я подготовила ответы перед собеседованием.",
+      "面试前，我准备好了回答。"
     ]
   },
   {
@@ -5552,10 +5552,10 @@ const WORDS = [
     ],
     "pinyin": "xiàngmù",
     "examples": [
-      "Projekt to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A project is an interesting choice. I am being diplomatic.",
-      "Проект — интересный выбор. Я стараюсь быть дипломатичной.",
-      "项目是个有趣的选择。我已经说得很委婉了。"
+      "Podzieliliśmy projekt na mniejsze etapy.",
+      "We divided the project into smaller steps.",
+      "Мы разделили проект на небольшие этапы.",
+      "我们把项目分成了几个小步骤。"
     ]
   },
   {
@@ -5569,10 +5569,10 @@ const WORDS = [
     ],
     "pinyin": "rènwu",
     "examples": [
-      "Zadanie to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A task is the title of my next masterpiece. Expectations should remain low.",
-      "Задача — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "任务是我下一部杰作的标题。期待值最好低一点。"
+      "Skończę to zadanie przed przerwą.",
+      "I will finish this task before taking a break.",
+      "Я закончу эту задачу перед перерывом.",
+      "我会先完成这个任务再休息。"
     ]
   },
   {
@@ -5586,10 +5586,10 @@ const WORDS = [
     ],
     "pinyin": "bàogào",
     "examples": [
-      "Raport to nie główny problem. Problemem są twoje priorytety.",
-      "A report is not the main issue. Your priorities are.",
-      "Отчёт — не главная проблема. Проблема в твоих приоритетах.",
-      "报告不是主要问题。你的轻重缓急才是。"
+      "Raport zawiera wyniki z zeszłego miesiąca.",
+      "The report includes last month's results.",
+      "Отчёт содержит результаты прошлого месяца.",
+      "报告包括上个月的结果。"
     ]
   },
   {
@@ -5603,10 +5603,10 @@ const WORDS = [
     ],
     "pinyin": "yǎnshì",
     "examples": [
-      "Prezentacja to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A presentation is the theme of this conversation. Somehow, we are still talking about you.",
-      "Презентация — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "演示是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Moja prezentacja ma więcej obrazków niż tekstu.",
+      "My presentation has more pictures than text.",
+      "В моей презентации больше картинок, чем текста.",
+      "我的演示中图片比文字多。"
     ]
   },
   {
@@ -5620,10 +5620,10 @@ const WORDS = [
     ],
     "pinyin": "wénjiàn",
     "examples": [
-      "Dokument to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A document is not a good reason to call me at dawn.",
-      "Документ — не повод звонить мне на рассвете.",
-      "文件不是天一亮就给我打电话的好理由。"
+      "Zapisz dokument, zanim go zamkniesz.",
+      "Please save the document before closing it.",
+      "Сохрани документ, прежде чем закрыть его.",
+      "关闭文件前请先保存。"
     ]
   },
   {
@@ -5637,10 +5637,10 @@ const WORDS = [
     ],
     "pinyin": "wénjiànjiā",
     "examples": [
-      "Folder to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A folder is just the beginning of this story. Yes, it gets stranger.",
-      "Папка — только начало этой истории. Да, дальше ещё страннее.",
-      "文件夹只是这个故事的开始。没错，后面更奇怪。"
+      "Trzymam wszystkie zdjęcia w jednym folderze.",
+      "I keep all the photos in one folder.",
+      "Я храню все фотографии в одной папке.",
+      "我把所有照片放在一个文件夹里。"
     ]
   },
   {
@@ -5654,10 +5654,10 @@ const WORDS = [
     ],
     "pinyin": "dǎyìnjī",
     "examples": [
-      "Drukarka? To jest twój wielki plan?",
-      "A printer? That is your grand plan?",
-      "Принтер? Это и есть твой великий план?",
-      "打印机？这就是你的宏伟计划？"
+      "W drukarce znowu skończył się papier.",
+      "The printer ran out of paper again.",
+      "В принтере снова закончилась бумага.",
+      "打印机又没纸了。"
     ]
   },
   {
@@ -5671,10 +5671,10 @@ const WORDS = [
     ],
     "pinyin": "dìngshūjī",
     "examples": [
-      "Zszywacz to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A stapler is the subject of my presentation. Try to contain your excitement.",
-      "Степлер — тема моей презентации. Постарайся сдержать восторг.",
-      "订书机是我演示的主题。请克制一下你的激动。"
+      "Użyj zszywacza, żeby połączyć te strony.",
+      "Use the stapler to attach these pages.",
+      "Скрепи эти страницы степлером.",
+      "用订书机把这些页订在一起。"
     ]
   },
   {
@@ -5688,10 +5688,10 @@ const WORDS = [
     ],
     "pinyin": "huíxíngzhēn",
     "examples": [
-      "Spinacz to nie cecha osobowości. Sprawdziłam.",
-      "A paper clip is not a personality trait. I checked.",
-      "Скрепка — не черта характера. Я проверила.",
-      "回形针不是性格特点。我查过了。"
+      "Spinacz trzyma notatki razem.",
+      "A paper clip holds the notes together.",
+      "Скрепка держит записи вместе.",
+      "回形针把这些笔记夹在一起。"
     ]
   },
   {
@@ -5705,10 +5705,10 @@ const WORDS = [
     ],
     "pinyin": "jìsuànqì",
     "examples": [
-      "Kalkulator to odpowiedź. Proszę nie pytać o pytanie.",
-      "A calculator is the answer. Please do not ask about the question.",
-      "Калькулятор — это ответ. О вопросе лучше не спрашивай.",
-      "计算器就是答案。请别问问题是什么。"
+      "Sprawdziłam sumę na kalkulatorze.",
+      "I checked the total with a calculator.",
+      "Я проверила сумму на калькуляторе.",
+      "我用计算器核对了总数。"
     ]
   },
   {
@@ -5722,10 +5722,10 @@ const WORDS = [
     ],
     "pinyin": "rìlì",
     "examples": [
-      "Kalendarz to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A calendar is my topic today. Your opinions are an optional extra.",
-      "Календарь — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "日历是我今天的话题。你的意见是可选项。"
+      "Zaznaczyłam datę w kalendarzu.",
+      "I marked the date on my calendar.",
+      "Я отметила дату в календаре.",
+      "我在日历上标出了日期。"
     ]
   },
   {
@@ -5739,10 +5739,10 @@ const WORDS = [
     ],
     "pinyin": "rìchéngbiǎo",
     "examples": [
-      "Harmonogram to nie zamiennik porządnych przeprosin.",
-      "A schedule is not a substitute for a decent apology.",
-      "Расписание — не замена нормальному извинению.",
-      "日程表代替不了一次像样的道歉。"
+      "W moim harmonogramie jest czas na krótki spacer.",
+      "My schedule leaves time for a short walk.",
+      "В моём расписании есть время для короткой прогулки.",
+      "我的日程表里留出了短暂散步的时间。"
     ]
   },
   {
@@ -5756,10 +5756,10 @@ const WORDS = [
     ],
     "pinyin": "xiūxi shíjiān",
     "examples": [
-      "Przerwa to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A break is an interesting choice. I am being diplomatic.",
-      "Перерыв — интересный выбор. Я стараюсь быть дипломатичной.",
-      "休息时间是个有趣的选择。我已经说得很委婉了。"
+      "Zróbmy przerwę po tym ćwiczeniu.",
+      "Let's take a break after this exercise.",
+      "Давай сделаем перерыв после этого упражнения.",
+      "做完这个练习，我们安排一点休息时间吧。"
     ]
   },
   {
@@ -5773,10 +5773,10 @@ const WORDS = [
     ],
     "pinyin": "jìnshēng",
     "examples": [
-      "Awans to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A promotion is the title of my next masterpiece. Expectations should remain low.",
-      "Повышение — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "晋升是我下一部杰作的标题。期待值最好低一点。"
+      "Świętowała awans z przyjaciółmi.",
+      "She celebrated her promotion with friends.",
+      "Она отметила повышение с друзьями.",
+      "她和朋友们一起庆祝晋升。"
     ]
   },
   {
@@ -5790,10 +5790,10 @@ const WORDS = [
     ],
     "pinyin": "yùsuàn",
     "examples": [
-      "Budżet to nie główny problem. Problemem są twoje priorytety.",
-      "A budget is not the main issue. Your priorities are.",
-      "Бюджет — не главная проблема. Проблема в твоих приоритетах.",
-      "预算不是主要问题。你的轻重缓急才是。"
+      "Ustaliliśmy budżet na podróż.",
+      "We set a budget for the trip.",
+      "Мы составили бюджет поездки.",
+      "我们为旅行制定了预算。"
     ]
   },
   {
@@ -5807,10 +5807,10 @@ const WORDS = [
     ],
     "pinyin": "fāpiào",
     "examples": [
-      "Faktura to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "An invoice is the theme of this conversation. Somehow, we are still talking about you.",
-      "Счёт на оплату — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "发票是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Faktura przyszła e-mailem.",
+      "The invoice arrived by email.",
+      "Счёт на оплату пришёл по электронной почте.",
+      "发票通过电子邮件发来了。"
     ]
   },
   {
@@ -5824,10 +5824,10 @@ const WORDS = [
     ],
     "pinyin": "fùkuǎn",
     "examples": [
-      "Płatność to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A payment is not a good reason to call me at dawn.",
-      "Платёж — не повод звонить мне на рассвете.",
-      "付款不是天一亮就给我打电话的好理由。"
+      "Płatność została zrealizowana dziś rano.",
+      "The payment went through this morning.",
+      "Платёж прошёл сегодня утром.",
+      "付款今天早上完成了。"
     ]
   },
   {
@@ -5841,10 +5841,10 @@ const WORDS = [
     ],
     "pinyin": "zhàiwù",
     "examples": [
-      "Dług to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A debt is just the beginning of this story. Yes, it gets stranger.",
-      "Долг — только начало этой истории. Да, дальше ещё страннее.",
-      "债务只是这个故事的开始。没错，后面更奇怪。"
+      "Spłacił dług w zeszłym roku.",
+      "He paid off the debt last year.",
+      "Он погасил долг в прошлом году.",
+      "他去年还清了债务。"
     ]
   },
   {
@@ -5858,10 +5858,10 @@ const WORDS = [
     ],
     "pinyin": "dàikuǎn",
     "examples": [
-      "Pożyczka? To jest twój wielki plan?",
-      "A loan? That is your grand plan?",
-      "Заём? Это и есть твой великий план?",
-      "贷款？这就是你的宏伟计划？"
+      "Wzięli pożyczkę na remont domu.",
+      "They took out a loan to renovate the house.",
+      "Они взяли заём на ремонт дома.",
+      "他们申请了贷款来翻新房子。"
     ]
   },
   {
@@ -5875,10 +5875,10 @@ const WORDS = [
     ],
     "pinyin": "lìrùn",
     "examples": [
-      "Zysk to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A profit is the subject of my presentation. Try to contain your excitement.",
-      "Прибыль — тема моей презентации. Постарайся сдержать восторг.",
-      "利润是我演示的主题。请克制一下你的激动。"
+      "Sklep osiągnął niewielki zysk w tym miesiącu.",
+      "The shop made a small profit this month.",
+      "Магазин получил небольшую прибыль в этом месяце.",
+      "商店这个月获得了少量利润。"
     ]
   },
   {
@@ -5892,10 +5892,10 @@ const WORDS = [
     ],
     "pinyin": "kuīsǔn",
     "examples": [
-      "Strata to nie cecha osobowości. Sprawdziłam.",
-      "A loss is not a personality trait. I checked.",
-      "Убыток — не черта характера. Я проверила.",
-      "亏损不是性格特点。我查过了。"
+      "Firma zgłosiła stratę w tym roku.",
+      "The company reported a loss this year.",
+      "Компания сообщила об убытке в этом году.",
+      "公司报告今年出现了亏损。"
     ]
   },
   {
@@ -5909,10 +5909,10 @@ const WORDS = [
     ],
     "pinyin": "jiàgé",
     "examples": [
-      "Cena to odpowiedź. Proszę nie pytać o pytanie.",
-      "A price is the answer. Please do not ask about the question.",
-      "Цена — это ответ. О вопросе лучше не спрашивай.",
-      "价格就是答案。请别问问题是什么。"
+      "Cena obejmuje śniadanie.",
+      "The price includes breakfast.",
+      "В цену включён завтрак.",
+      "价格包含早餐。"
     ]
   },
   {
@@ -5926,10 +5926,10 @@ const WORDS = [
     ],
     "pinyin": "yìngbì",
     "examples": [
-      "Moneta to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A coin is my topic today. Your opinions are an optional extra.",
-      "Монета — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "硬币是我今天的话题。你的意见是可选项。"
+      "Znalazłam monetę pod sofą.",
+      "I found a coin under the sofa.",
+      "Я нашла монету под диваном.",
+      "我在沙发下面找到了一枚硬币。"
     ]
   },
   {
@@ -5943,10 +5943,10 @@ const WORDS = [
     ],
     "pinyin": "zhǐbì",
     "examples": [
-      "Banknot to nie zamiennik porządnych przeprosin.",
-      "A banknote is not a substitute for a decent apology.",
-      "Банкнота — не замена нормальному извинению.",
-      "纸币代替不了一次像样的道歉。"
+      "Ta maszyna nie przyjmuje banknotów.",
+      "This machine does not accept banknotes.",
+      "Этот автомат не принимает банкноты.",
+      "这台机器不收纸币。"
     ]
   },
   {
@@ -5960,10 +5960,10 @@ const WORDS = [
     ],
     "pinyin": "shāngdiàn",
     "examples": [
-      "Sklep to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A shop is an interesting choice. I am being diplomatic.",
-      "Магазин — интересный выбор. Я стараюсь быть дипломатичной.",
-      "商店是个有趣的选择。我已经说得很委婉了。"
+      "Sklep zamyka się o szóstej.",
+      "The shop closes at six.",
+      "Магазин закрывается в шесть.",
+      "商店六点关门。"
     ]
   },
   {
@@ -5977,10 +5977,10 @@ const WORDS = [
     ],
     "pinyin": "shìchǎng",
     "examples": [
-      "Targ to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A market is the title of my next masterpiece. Expectations should remain low.",
-      "Рынок — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "市场是我下一部杰作的标题。期待值最好低一点。"
+      "Kupiliśmy warzywa na targu.",
+      "We bought vegetables at the market.",
+      "Мы купили овощи на рынке.",
+      "我们在市场买了蔬菜。"
     ]
   },
   {
@@ -5994,10 +5994,10 @@ const WORDS = [
     ],
     "pinyin": "chāoshì",
     "examples": [
-      "Supermarket to nie główny problem. Problemem są twoje priorytety.",
-      "A supermarket is not the main issue. Your priorities are.",
-      "Супермаркет — не главная проблема. Проблема в твоих приоритетах.",
-      "超市不是主要问题。你的轻重缓急才是。"
+      "W soboty w supermarkecie jest tłoczno.",
+      "The supermarket is busy on Saturdays.",
+      "По субботам в супермаркете много людей.",
+      "星期六超市里人很多。"
     ]
   },
   {
@@ -6011,10 +6011,10 @@ const WORDS = [
     ],
     "pinyin": "miànbāodiàn",
     "examples": [
-      "Piekarnia to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A bakery is the theme of this conversation. Somehow, we are still talking about you.",
-      "Пекарня — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "面包店是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "W piekarni pachnie świeżym chlebem.",
+      "The bakery smells of fresh bread.",
+      "В пекарне пахнет свежим хлебом.",
+      "面包店里飘着新鲜面包的香味。"
     ]
   },
   {
@@ -6028,10 +6028,10 @@ const WORDS = [
     ],
     "pinyin": "yàodiàn",
     "examples": [
-      "Apteka to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A pharmacy is not a good reason to call me at dawn.",
-      "Аптека — не повод звонить мне на рассвете.",
-      "药店不是天一亮就给我打电话的好理由。"
+      "Czy w pobliżu jest apteka?",
+      "Is there a pharmacy nearby?",
+      "Поблизости есть аптека?",
+      "附近有药店吗？"
     ]
   },
   {
@@ -6045,10 +6045,10 @@ const WORDS = [
     ],
     "pinyin": "yīyuàn",
     "examples": [
-      "Szpital to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A hospital is just the beginning of this story. Yes, it gets stranger.",
-      "Больница — только начало этой истории. Да, дальше ещё страннее.",
-      "医院只是这个故事的开始。没错，后面更奇怪。"
+      "Odwiedziliśmy przyjaciela w szpitalu.",
+      "We visited our friend in hospital.",
+      "Мы навестили друга в больнице.",
+      "我们去医院看望了朋友。"
     ]
   },
   {
@@ -6062,10 +6062,10 @@ const WORDS = [
     ],
     "pinyin": "yínháng",
     "examples": [
-      "Bank? To jest twój wielki plan?",
-      "A bank? That is your grand plan?",
-      "Банк? Это и есть твой великий план?",
-      "银行？这就是你的宏伟计划？"
+      "Bank jest obok poczty.",
+      "The bank is next to the post office.",
+      "Банк находится рядом с почтой.",
+      "银行就在邮局旁边。"
     ]
   },
   {
@@ -6079,10 +6079,10 @@ const WORDS = [
     ],
     "pinyin": "yóujú",
     "examples": [
-      "Poczta to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A post office is the subject of my presentation. Try to contain your excitement.",
-      "Почта — тема моей презентации. Постарайся сдержать восторг.",
-      "邮局是我演示的主题。请克制一下你的激动。"
+      "Wysłałam paczkę na poczcie.",
+      "I sent the parcel from the post office.",
+      "Я отправила посылку на почте.",
+      "我在邮局寄了包裹。"
     ]
   },
   {
@@ -6096,10 +6096,10 @@ const WORDS = [
     ],
     "pinyin": "cāntīng",
     "examples": [
-      "Restauracja to nie cecha osobowości. Sprawdziłam.",
-      "A restaurant is not a personality trait. I checked.",
-      "Ресторан — не черта характера. Я проверила.",
-      "餐厅不是性格特点。我查过了。"
+      "Zarezerwowaliśmy stolik w restauracji.",
+      "We booked a table at the restaurant.",
+      "Мы забронировали столик в ресторане.",
+      "我们在餐厅订了一张桌子。"
     ]
   },
   {
@@ -6113,10 +6113,10 @@ const WORDS = [
     ],
     "pinyin": "kāfēiguǎn",
     "examples": [
-      "Kawiarnia to odpowiedź. Proszę nie pytać o pytanie.",
-      "A café is the answer. Please do not ask about the question.",
-      "Кафе — это ответ. О вопросе лучше не спрашивай.",
-      "咖啡馆就是答案。请别问问题是什么。"
+      "Ta kawiarnia ma cichy kącik do czytania.",
+      "This café has a quiet corner for reading.",
+      "В этом кафе есть тихий уголок для чтения.",
+      "这家咖啡馆有个安静的阅读角落。"
     ]
   },
   {
@@ -6130,10 +6130,10 @@ const WORDS = [
     ],
     "pinyin": "diànyǐngyuàn",
     "examples": [
-      "Kino to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A cinema is my topic today. Your opinions are an optional extra.",
-      "Кинотеатр — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "电影院是我今天的话题。你的意见是可选项。"
+      "Dzisiaj wieczorem idziemy do kina.",
+      "We are going to the cinema tonight.",
+      "Сегодня вечером мы идём в кинотеатр.",
+      "我们今晚去电影院。"
     ]
   },
   {
@@ -6147,10 +6147,10 @@ const WORDS = [
     ],
     "pinyin": "jùyuàn",
     "examples": [
-      "Teatr to nie zamiennik porządnych przeprosin.",
-      "A theatre is not a substitute for a decent apology.",
-      "Театр — не замена нормальному извинению.",
-      "剧院代替不了一次像样的道歉。"
+      "Teatr wystawia nową sztukę.",
+      "The theatre is showing a new play.",
+      "В театре идёт новая пьеса.",
+      "剧院正在上演一部新戏。"
     ]
   },
   {
@@ -6164,10 +6164,10 @@ const WORDS = [
     ],
     "pinyin": "tǐyùchǎng",
     "examples": [
-      "Stadion to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A stadium is an interesting choice. I am being diplomatic.",
-      "Стадион — интересный выбор. Я стараюсь быть дипломатичной.",
-      "体育场是个有趣的选择。我已经说得很委婉了。"
+      "Stadion był pełen kibicujących fanów.",
+      "The stadium was full of cheering fans.",
+      "Стадион был полон болельщиков.",
+      "体育场里坐满了欢呼的球迷。"
     ]
   },
   {
@@ -6181,10 +6181,10 @@ const WORDS = [
     ],
     "pinyin": "yóuyǒngchí",
     "examples": [
-      "Basen to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A swimming pool is the title of my next masterpiece. Expectations should remain low.",
-      "Бассейн — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "游泳池是我下一部杰作的标题。期待值最好低一点。"
+      "Basen otwiera się wcześnie.",
+      "The swimming pool opens early.",
+      "Бассейн открывается рано.",
+      "游泳池很早就开门。"
     ]
   },
   {
@@ -6198,10 +6198,10 @@ const WORDS = [
     ],
     "pinyin": "jiànshēnfáng",
     "examples": [
-      "Siłownia to nie główny problem. Problemem są twoje priorytety.",
-      "A gym is not the main issue. Your priorities are.",
-      "Тренажёрный зал — не главная проблема. Проблема в твоих приоритетах.",
-      "健身房不是主要问题。你的轻重缓急才是。"
+      "Chodzę na siłownię po pracy.",
+      "I go to the gym after work.",
+      "После работы я хожу в тренажёрный зал.",
+      "我下班后去健身房。"
     ]
   },
   {
@@ -6215,10 +6215,10 @@ const WORDS = [
     ],
     "pinyin": "értóng yóulèchǎng",
     "examples": [
-      "Plac zabaw to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A playground is the theme of this conversation. Somehow, we are still talking about you.",
-      "Детская площадка — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "儿童游乐场是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Dzieci bawią się na placu zabaw.",
+      "The children are playing at the playground.",
+      "Дети играют на детской площадке.",
+      "孩子们在儿童游乐场玩。"
     ]
   },
   {
@@ -6232,10 +6232,10 @@ const WORDS = [
     ],
     "pinyin": "guǎngchǎng",
     "examples": [
-      "Plac to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A square is not a good reason to call me at dawn.",
-      "Площадь — не повод звонить мне на рассвете.",
-      "广场不是天一亮就给我打电话的好理由。"
+      "Spotkaliśmy się na głównym placu.",
+      "We met in the main square.",
+      "Мы встретились на главной площади.",
+      "我们在主广场见面了。"
     ]
   },
   {
@@ -6249,10 +6249,10 @@ const WORDS = [
     ],
     "pinyin": "pēnquán",
     "examples": [
-      "Fontanna to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A fountain is just the beginning of this story. Yes, it gets stranger.",
-      "Фонтан — только начало этой истории. Да, дальше ещё страннее.",
-      "喷泉只是这个故事的开始。没错，后面更奇怪。"
+      "Usiedliśmy obok fontanny.",
+      "We sat beside the fountain.",
+      "Мы сели рядом с фонтаном.",
+      "我们坐在喷泉旁边。"
     ]
   },
   {
@@ -6266,10 +6266,10 @@ const WORDS = [
     ],
     "pinyin": "jìniànbēi",
     "examples": [
-      "Pomnik? To jest twój wielki plan?",
-      "A monument? That is your grand plan?",
-      "Памятник? Это и есть твой великий план?",
-      "纪念碑？这就是你的宏伟计划？"
+      "Pomnik stoi w centrum miasta.",
+      "The monument stands in the centre of town.",
+      "Памятник стоит в центре города.",
+      "纪念碑坐落在市中心。"
     ]
   },
   {
@@ -6283,10 +6283,10 @@ const WORDS = [
     ],
     "pinyin": "chéngbǎo",
     "examples": [
-      "Zamek to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A castle is the subject of my presentation. Try to contain your excitement.",
-      "Замок — тема моей презентации. Постарайся сдержать восторг.",
-      "城堡是我演示的主题。请克制一下你的激动。"
+      "Zwiedziliśmy stary zamek.",
+      "We explored the old castle.",
+      "Мы осмотрели старый замок.",
+      "我们参观了古老的城堡。"
     ]
   },
   {
@@ -6300,10 +6300,10 @@ const WORDS = [
     ],
     "pinyin": "tǎ",
     "examples": [
-      "Wieża to nie cecha osobowości. Sprawdziłam.",
-      "A tower is not a personality trait. I checked.",
-      "Башня — не черта характера. Я проверила.",
-      "塔不是性格特点。我查过了。"
+      "Z wieży widać całe miasto.",
+      "The tower offers a view of the whole city.",
+      "С башни виден весь город.",
+      "从塔上可以看到整座城市。"
     ]
   },
   {
@@ -6317,10 +6317,10 @@ const WORDS = [
     ],
     "pinyin": "jiàotáng",
     "examples": [
-      "Kościół to odpowiedź. Proszę nie pytać o pytanie.",
-      "A church is the answer. Please do not ask about the question.",
-      "Церковь — это ответ. О вопросе лучше не спрашивай.",
-      "教堂就是答案。请别问问题是什么。"
+      "Słyszeliśmy dzwony z kościoła.",
+      "We heard bells from the church.",
+      "Мы слышали колокола церкви.",
+      "我们听见了教堂的钟声。"
     ]
   },
   {
@@ -6334,10 +6334,10 @@ const WORDS = [
     ],
     "pinyin": "sìmiào",
     "examples": [
-      "Świątynia to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A temple is my topic today. Your opinions are an optional extra.",
-      "Храм — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "寺庙是我今天的话题。你的意见是可选项。"
+      "Zwiedzający zdjęli buty przed wejściem do świątyni.",
+      "Visitors removed their shoes before entering the temple.",
+      "Посетители сняли обувь перед входом в храм.",
+      "游客进入寺庙前脱了鞋。"
     ]
   },
   {
@@ -6351,10 +6351,10 @@ const WORDS = [
     ],
     "pinyin": "suìdào",
     "examples": [
-      "Tunel to nie zamiennik porządnych przeprosin.",
-      "A tunnel is not a substitute for a decent apology.",
-      "Туннель — не замена нормальному извинению.",
-      "隧道代替不了一次像样的道歉。"
+      "Pociąg przejechał przez długi tunel.",
+      "The train went through a long tunnel.",
+      "Поезд проехал через длинный туннель.",
+      "火车穿过了一条长隧道。"
     ]
   },
   {
@@ -6368,10 +6368,10 @@ const WORDS = [
     ],
     "pinyin": "rénxíngdào",
     "examples": [
-      "Chodnik to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A pavement is an interesting choice. I am being diplomatic.",
-      "Тротуар — интересный выбор. Я стараюсь быть дипломатичной.",
-      "人行道是个有趣的选择。我已经说得很委婉了。"
+      "Nie wjeżdżaj rowerem na chodnik.",
+      "Keep your bicycle off the pavement.",
+      "Не заезжай на велосипеде на тротуар.",
+      "不要把自行车骑到人行道上。"
     ]
   },
   {
@@ -6385,10 +6385,10 @@ const WORDS = [
     ],
     "pinyin": "rénxíng héngdào",
     "examples": [
-      "Przejście dla pieszych to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A crossing is the title of my next masterpiece. Expectations should remain low.",
-      "Пешеходный переход — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "人行横道是我下一部杰作的标题。期待值最好低一点。"
+      "Skorzystaj z przejścia dla pieszych, żeby przejść na drugą stronę.",
+      "Use the crossing to get to the other side.",
+      "Воспользуйся пешеходным переходом, чтобы попасть на другую сторону.",
+      "走人行横道到对面去。"
     ]
   },
   {
@@ -6402,10 +6402,10 @@ const WORDS = [
     ],
     "pinyin": "dǔchē",
     "examples": [
-      "Korek uliczny to nie główny problem. Problemem są twoje priorytety.",
-      "A traffic jam is not the main issue. Your priorities are.",
-      "Пробка — не главная проблема. Проблема в твоих приоритетах.",
-      "堵车不是主要问题。你的轻重缓急才是。"
+      "Utknęliśmy w korku ulicznym na godzinę.",
+      "We were stuck in a traffic jam for an hour.",
+      "Мы простояли в пробке целый час.",
+      "我们堵车堵了一个小时。"
     ]
   },
   {
@@ -6419,10 +6419,10 @@ const WORDS = [
     ],
     "pinyin": "chūzūchē",
     "examples": [
-      "Taksówka to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A taxi is the theme of this conversation. Somehow, we are still talking about you.",
-      "Такси — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "出租车是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Pojechaliśmy taksówką na lotnisko.",
+      "We took a taxi to the airport.",
+      "Мы поехали в аэропорт на такси.",
+      "我们坐出租车去了机场。"
     ]
   },
   {
@@ -6436,10 +6436,10 @@ const WORDS = [
     ],
     "pinyin": "dùlún",
     "examples": [
-      "Prom to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A ferry is not a good reason to call me at dawn.",
-      "Паром — не повод звонить мне на рассвете.",
-      "渡轮不是天一亮就给我打电话的好理由。"
+      "Prom zabiera nas na wyspę.",
+      "The ferry takes us to the island.",
+      "Паром везёт нас на остров.",
+      "渡轮载我们去岛上。"
     ]
   },
   {
@@ -6453,10 +6453,10 @@ const WORDS = [
     ],
     "pinyin": "gǎngkǒu",
     "examples": [
-      "Port to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A port is just the beginning of this story. Yes, it gets stranger.",
-      "Порт — только начало этой истории. Да, дальше ещё страннее.",
-      "港口只是这个故事的开始。没错，后面更奇怪。"
+      "Statek dotarł do portu o świcie.",
+      "The ship arrived at the port at dawn.",
+      "Корабль прибыл в порт на рассвете.",
+      "船在黎明时抵达港口。"
     ]
   },
   {
@@ -6470,10 +6470,10 @@ const WORDS = [
     ],
     "pinyin": "nǎiniú",
     "examples": [
-      "Krowa? To jest twój wielki plan?",
-      "A cow? That is your grand plan?",
-      "Корова? Это и есть твой великий план?",
-      "奶牛？这就是你的宏伟计划？"
+      "Krowa pasie się przy płocie.",
+      "A cow is grazing beside the fence.",
+      "Корова пасётся у забора.",
+      "一头奶牛在围栏旁吃草。"
     ]
   },
   {
@@ -6487,10 +6487,10 @@ const WORDS = [
     ],
     "pinyin": "zhū",
     "examples": [
-      "Świnia to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A pig is the subject of my presentation. Try to contain your excitement.",
-      "Свинья — тема моей презентации. Постарайся сдержать восторг.",
-      "猪是我演示的主题。请克制一下你的激动。"
+      "Świnia odpoczywa w cieniu.",
+      "The pig is resting in the shade.",
+      "Свинья отдыхает в тени.",
+      "猪在阴凉处休息。"
     ]
   },
   {
@@ -6504,10 +6504,10 @@ const WORDS = [
     ],
     "pinyin": "miányáng",
     "examples": [
-      "Owca to nie cecha osobowości. Sprawdziłam.",
-      "A sheep is not a personality trait. I checked.",
-      "Овца — не черта характера. Я проверила.",
-      "绵羊不是性格特点。我查过了。"
+      "Owca weszła na ścieżkę.",
+      "A sheep wandered onto the path.",
+      "Овца вышла на тропинку.",
+      "一只绵羊走到了小路上。"
     ]
   },
   {
@@ -6521,10 +6521,10 @@ const WORDS = [
     ],
     "pinyin": "shānyáng",
     "examples": [
-      "Koza to odpowiedź. Proszę nie pytać o pytanie.",
-      "A goat is the answer. Please do not ask about the question.",
-      "Коза — это ответ. О вопросе лучше не спрашивай.",
-      "山羊就是答案。请别问问题是什么。"
+      "Koza wspięła się na skałę.",
+      "The goat climbed onto a rock.",
+      "Коза забралась на скалу.",
+      "山羊爬上了一块岩石。"
     ]
   },
   {
@@ -6538,10 +6538,10 @@ const WORDS = [
     ],
     "pinyin": "jī",
     "examples": [
-      "Kura to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A chicken is my topic today. Your opinions are an optional extra.",
-      "Курица — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "鸡是我今天的话题。你的意见是可选项。"
+      "Kura zniosła dziś rano jajko.",
+      "The chicken laid an egg this morning.",
+      "Курица снесла яйцо сегодня утром.",
+      "这只鸡今天早上下了一个蛋。"
     ]
   },
   {
@@ -6555,10 +6555,10 @@ const WORDS = [
     ],
     "pinyin": "yāzi",
     "examples": [
-      "Kaczka to nie zamiennik porządnych przeprosin.",
-      "A duck is not a substitute for a decent apology.",
-      "Утка — не замена нормальному извинению.",
-      "鸭子代替不了一次像样的道歉。"
+      "Kaczka przepłynęła przez staw.",
+      "A duck swam across the pond.",
+      "Утка переплыла пруд.",
+      "一只鸭子游过了池塘。"
     ]
   },
   {
@@ -6572,10 +6572,10 @@ const WORDS = [
     ],
     "pinyin": "é",
     "examples": [
-      "Gęś to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A goose is an interesting choice. I am being diplomatic.",
-      "Гусь — интересный выбор. Я стараюсь быть дипломатичной.",
-      "鹅是个有趣的选择。我已经说得很委婉了。"
+      "Gęś zablokowała ścieżkę i nie chciała się ruszyć.",
+      "A goose blocked the path and refused to move.",
+      "Гусь перегородил тропинку и не хотел уходить.",
+      "一只鹅挡住了小路，怎么也不肯走。"
     ]
   },
   {
@@ -6589,10 +6589,10 @@ const WORDS = [
     ],
     "pinyin": "huǒjī",
     "examples": [
-      "Indyk to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A turkey is the title of my next masterpiece. Expectations should remain low.",
-      "Индюк — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "火鸡是我下一部杰作的标题。期待值最好低一点。"
+      "Indyk rozłożył pióra ogona.",
+      "The turkey spread its tail feathers.",
+      "Индюк распустил хвост.",
+      "火鸡展开了尾羽。"
     ]
   },
   {
@@ -6606,10 +6606,10 @@ const WORDS = [
     ],
     "pinyin": "lù",
     "examples": [
-      "Jeleń to nie główny problem. Problemem są twoje priorytety.",
-      "A deer is not the main issue. Your priorities are.",
-      "Олень — не главная проблема. Проблема в твоих приоритетах.",
-      "鹿不是主要问题。你的轻重缓急才是。"
+      "Obserwowaliśmy jelenia na skraju lasu.",
+      "We watched a deer at the edge of the forest.",
+      "Мы наблюдали за оленем на опушке леса.",
+      "我们看着森林边缘的一只鹿。"
     ]
   },
   {
@@ -6623,10 +6623,10 @@ const WORDS = [
     ],
     "pinyin": "sōngshǔ",
     "examples": [
-      "Wiewiórka to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A squirrel is the theme of this conversation. Somehow, we are still talking about you.",
-      "Белка — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "松鼠是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Wiewiórka schowała orzech pod drzewem.",
+      "A squirrel hid a nut under the tree.",
+      "Белка спрятала орех под деревом.",
+      "松鼠把一颗坚果藏在树下。"
     ]
   },
   {
@@ -6640,10 +6640,10 @@ const WORDS = [
     ],
     "pinyin": "cìwei",
     "examples": [
-      "Jeż to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A hedgehog is not a good reason to call me at dawn.",
-      "Ёж — не повод звонить мне на рассвете.",
-      "刺猬不是天一亮就给我打电话的好理由。"
+      "Jeż pojawił się w ogrodzie o zmierzchu.",
+      "A hedgehog appeared in the garden at dusk.",
+      "Ёж появился в саду в сумерках.",
+      "黄昏时，一只刺猬出现在花园里。"
     ]
   },
   {
@@ -6657,10 +6657,10 @@ const WORDS = [
     ],
     "pinyin": "biānfú",
     "examples": [
-      "Nietoperz to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A bat is just the beginning of this story. Yes, it gets stranger.",
-      "Летучая мышь — только начало этой истории. Да, дальше ещё страннее.",
-      "蝙蝠只是这个故事的开始。没错，后面更奇怪。"
+      "Nietoperz wyleciał z jaskini.",
+      "A bat flew out of the cave.",
+      "Летучая мышь вылетела из пещеры.",
+      "一只蝙蝠从洞穴里飞出来。"
     ]
   },
   {
@@ -6674,10 +6674,10 @@ const WORDS = [
     ],
     "pinyin": "qīngwā",
     "examples": [
-      "Żaba? To jest twój wielki plan?",
-      "A frog? That is your grand plan?",
-      "Лягушка? Это и есть твой великий план?",
-      "青蛙？这就是你的宏伟计划？"
+      "Żaba wskoczyła do stawu.",
+      "A frog jumped into the pond.",
+      "Лягушка прыгнула в пруд.",
+      "青蛙跳进了池塘。"
     ]
   },
   {
@@ -6691,10 +6691,10 @@ const WORDS = [
     ],
     "pinyin": "shé",
     "examples": [
-      "Wąż to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A snake is the subject of my presentation. Try to contain your excitement.",
-      "Змея — тема моей презентации. Постарайся сдержать восторг.",
-      "蛇是我演示的主题。请克制一下你的激动。"
+      "Wąż zniknął w trawie.",
+      "The snake disappeared into the grass.",
+      "Змея исчезла в траве.",
+      "蛇消失在草丛中。"
     ]
   },
   {
@@ -6708,10 +6708,10 @@ const WORDS = [
     ],
     "pinyin": "guī",
     "examples": [
-      "Żółw to nie cecha osobowości. Sprawdziłam.",
-      "A turtle is not a personality trait. I checked.",
-      "Черепаха — не черта характера. Я проверила.",
-      "龟不是性格特点。我查过了。"
+      "Żółw powoli szedł w stronę wody.",
+      "The turtle moved slowly towards the water.",
+      "Черепаха медленно двигалась к воде.",
+      "龟慢慢地向水边移动。"
     ]
   },
   {
@@ -6725,10 +6725,10 @@ const WORDS = [
     ],
     "pinyin": "xīyì",
     "examples": [
-      "Jaszczurka to odpowiedź. Proszę nie pytać o pytanie.",
-      "A lizard is the answer. Please do not ask about the question.",
-      "Ящерица — это ответ. О вопросе лучше не спрашивай.",
-      "蜥蜴就是答案。请别问问题是什么。"
+      "Jaszczurka wygrzewała się na kamieniu.",
+      "A lizard warmed itself on a stone.",
+      "Ящерица грелась на камне.",
+      "蜥蜴在石头上晒太阳。"
     ]
   },
   {
@@ -6742,10 +6742,10 @@ const WORDS = [
     ],
     "pinyin": "èyú",
     "examples": [
-      "Krokodyl to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A crocodile is my topic today. Your opinions are an optional extra.",
-      "Крокодил — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "鳄鱼是我今天的话题。你的意见是可选项。"
+      "Krokodyl leżał nieruchomo przy rzece.",
+      "The crocodile lay motionless by the river.",
+      "Крокодил неподвижно лежал у реки.",
+      "鳄鱼一动不动地趴在河边。"
     ]
   },
   {
@@ -6759,10 +6759,10 @@ const WORDS = [
     ],
     "pinyin": "dàxiàng",
     "examples": [
-      "Słoń to nie zamiennik porządnych przeprosin.",
-      "An elephant is not a substitute for a decent apology.",
-      "Слон — не замена нормальному извинению.",
-      "大象代替不了一次像样的道歉。"
+      "Słoń rozpryskiwał wodę trąbą.",
+      "The elephant sprayed water with its trunk.",
+      "Слон брызгал водой из хобота.",
+      "大象用鼻子喷水。"
     ]
   },
   {
@@ -6776,10 +6776,10 @@ const WORDS = [
     ],
     "pinyin": "shīzi",
     "examples": [
-      "Lew to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A lion is an interesting choice. I am being diplomatic.",
-      "Лев — интересный выбор. Я стараюсь быть дипломатичной.",
-      "狮子是个有趣的选择。我已经说得很委婉了。"
+      "Lew odpoczywał pod drzewem.",
+      "The lion rested under a tree.",
+      "Лев отдыхал под деревом.",
+      "狮子在树下休息。"
     ]
   },
   {
@@ -6793,10 +6793,10 @@ const WORDS = [
     ],
     "pinyin": "lǎohǔ",
     "examples": [
-      "Tygrys to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A tiger is the title of my next masterpiece. Expectations should remain low.",
-      "Тигр — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "老虎是我下一部杰作的标题。期待值最好低一点。"
+      "Tygrys cicho szedł przez wysoką trawę.",
+      "The tiger walked quietly through the tall grass.",
+      "Тигр тихо шёл сквозь высокую траву.",
+      "老虎悄悄穿过高高的草丛。"
     ]
   },
   {
@@ -6810,10 +6810,10 @@ const WORDS = [
     ],
     "pinyin": "chángjǐnglù",
     "examples": [
-      "Żyrafa to nie główny problem. Problemem są twoje priorytety.",
-      "A giraffe is not the main issue. Your priorities are.",
-      "Жираф — не главная проблема. Проблема в твоих приоритетах.",
-      "长颈鹿不是主要问题。你的轻重缓急才是。"
+      "Żyrafa dosięgnęła najwyższych liści.",
+      "The giraffe reached the highest leaves.",
+      "Жираф дотянулся до самых высоких листьев.",
+      "长颈鹿够到了最高处的叶子。"
     ]
   },
   {
@@ -6827,10 +6827,10 @@ const WORDS = [
     ],
     "pinyin": "bānmǎ",
     "examples": [
-      "Zebra to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A zebra is the theme of this conversation. Somehow, we are still talking about you.",
-      "Зебра — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "斑马是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Zebra stała obok wodopoju.",
+      "A zebra stood beside the watering hole.",
+      "Зебра стояла у водопоя.",
+      "斑马站在水塘旁边。"
     ]
   },
   {
@@ -6844,10 +6844,10 @@ const WORDS = [
     ],
     "pinyin": "hóuzi",
     "examples": [
-      "Małpa to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A monkey is not a good reason to call me at dawn.",
-      "Обезьяна — не повод звонить мне на рассвете.",
-      "猴子不是天一亮就给我打电话的好理由。"
+      "Małpa przeskakiwała z gałęzi na gałąź.",
+      "The monkey climbed from branch to branch.",
+      "Обезьяна перебиралась с ветки на ветку.",
+      "猴子在树枝之间爬来爬去。"
     ]
   },
   {
@@ -6861,10 +6861,10 @@ const WORDS = [
     ],
     "pinyin": "xióngmāo",
     "examples": [
-      "Panda to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A panda is just the beginning of this story. Yes, it gets stranger.",
-      "Панда — только начало этой истории. Да, дальше ещё страннее.",
-      "熊猫只是这个故事的开始。没错，后面更奇怪。"
+      "Panda cały dzień jadła bambus.",
+      "The panda ate bamboo all day.",
+      "Панда весь день ела бамбук.",
+      "熊猫一整天都在吃竹子。"
     ]
   },
   {
@@ -6878,10 +6878,10 @@ const WORDS = [
     ],
     "pinyin": "qǐ'é",
     "examples": [
-      "Pingwin? To jest twój wielki plan?",
-      "A penguin? That is your grand plan?",
-      "Пингвин? Это и есть твой великий план?",
-      "企鹅？这就是你的宏伟计划？"
+      "Pingwin zanurkował w zimnej wodzie.",
+      "The penguin dived into the cold water.",
+      "Пингвин нырнул в холодную воду.",
+      "企鹅跳进了冰冷的水里。"
     ]
   },
   {
@@ -6895,10 +6895,10 @@ const WORDS = [
     ],
     "pinyin": "hǎitún",
     "examples": [
-      "Delfin to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A dolphin is the subject of my presentation. Try to contain your excitement.",
-      "Дельфин — тема моей презентации. Постарайся сдержать восторг.",
-      "海豚是我演示的主题。请克制一下你的激动。"
+      "Delfin wyskoczył obok naszej łodzi.",
+      "A dolphin jumped beside our boat.",
+      "Дельфин выпрыгнул рядом с нашей лодкой.",
+      "一只海豚在我们的船旁跃出水面。"
     ]
   },
   {
@@ -6912,10 +6912,10 @@ const WORDS = [
     ],
     "pinyin": "jīng",
     "examples": [
-      "Wieloryb to nie cecha osobowości. Sprawdziłam.",
-      "A whale is not a personality trait. I checked.",
-      "Кит — не черта характера. Я проверила.",
-      "鲸不是性格特点。我查过了。"
+      "Zobaczyliśmy wieloryba ze statku.",
+      "We saw a whale from the ship.",
+      "Мы увидели кита с корабля.",
+      "我们从船上看见了一头鲸。"
     ]
   },
   {
@@ -6929,10 +6929,10 @@ const WORDS = [
     ],
     "pinyin": "shāyú",
     "examples": [
-      "Rekin to odpowiedź. Proszę nie pytać o pytanie.",
-      "A shark is the answer. Please do not ask about the question.",
-      "Акула — это ответ. О вопросе лучше не спрашивай.",
-      "鲨鱼就是答案。请别问问题是什么。"
+      "Rekin przepłynął obok podwodnej kamery.",
+      "A shark swam past the underwater camera.",
+      "Акула проплыла мимо подводной камеры.",
+      "一条鲨鱼游过水下相机旁。"
     ]
   },
   {
@@ -6946,10 +6946,10 @@ const WORDS = [
     ],
     "pinyin": "zhāngyú",
     "examples": [
-      "Ośmiornica to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "An octopus is my topic today. Your opinions are an optional extra.",
-      "Осьминог — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "章鱼是我今天的话题。你的意见是可选项。"
+      "Ośmiornica ukryła się między skałami.",
+      "The octopus hid between the rocks.",
+      "Осьминог спрятался между камнями.",
+      "章鱼躲在岩石之间。"
     ]
   },
   {
@@ -6963,10 +6963,10 @@ const WORDS = [
     ],
     "pinyin": "pángxiè",
     "examples": [
-      "Krab to nie zamiennik porządnych przeprosin.",
-      "A crab is not a substitute for a decent apology.",
-      "Краб — не замена нормальному извинению.",
-      "螃蟹代替不了一次像样的道歉。"
+      "Krab przeszedł bokiem po piasku.",
+      "A crab walked sideways across the sand.",
+      "Краб боком прошёл по песку.",
+      "螃蟹横着爬过沙地。"
     ]
   },
   {
@@ -6980,10 +6980,10 @@ const WORDS = [
     ],
     "pinyin": "dǎo",
     "examples": [
-      "Wyspa to ciekawy wybór. Staram się być dyplomatyczna.",
-      "An island is an interesting choice. I am being diplomatic.",
-      "Остров — интересный выбор. Я стараюсь быть дипломатичной.",
-      "岛是个有趣的选择。我已经说得很委婉了。"
+      "Dotarliśmy na wyspę łodzią.",
+      "We reached the island by boat.",
+      "Мы добрались до острова на лодке.",
+      "我们坐船到了岛上。"
     ]
   },
   {
@@ -6997,10 +6997,10 @@ const WORDS = [
     ],
     "pinyin": "shāmò",
     "examples": [
-      "Pustynia to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A desert is the title of my next masterpiece. Expectations should remain low.",
-      "Пустыня — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "沙漠是我下一部杰作的标题。期待值最好低一点。"
+      "Pustynia wyglądała złociście o zachodzie słońca.",
+      "The desert looked golden at sunset.",
+      "На закате пустыня казалась золотой.",
+      "日落时，沙漠看起来金灿灿的。"
     ]
   },
   {
@@ -7014,10 +7014,10 @@ const WORDS = [
     ],
     "pinyin": "shāngǔ",
     "examples": [
-      "Dolina to nie główny problem. Problemem są twoje priorytety.",
-      "A valley is not the main issue. Your priorities are.",
-      "Долина — не главная проблема. Проблема в твоих приоритетах.",
-      "山谷不是主要问题。你的轻重缓急才是。"
+      "Przez dolinę płynie wąska rzeka.",
+      "A narrow river runs through the valley.",
+      "По долине течёт узкая река.",
+      "一条窄窄的河流经山谷。"
     ]
   },
   {
@@ -7031,10 +7031,10 @@ const WORDS = [
     ],
     "pinyin": "xiǎoshān",
     "examples": [
-      "Wzgórze to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A hill is the theme of this conversation. Somehow, we are still talking about you.",
-      "Холм — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "小山是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Weszliśmy na wzgórze, żeby zobaczyć widok.",
+      "We climbed the hill to see the view.",
+      "Мы поднялись на холм, чтобы полюбоваться видом.",
+      "我们爬上小山看风景。"
     ]
   },
   {
@@ -7048,10 +7048,10 @@ const WORDS = [
     ],
     "pinyin": "pùbù",
     "examples": [
-      "Wodospad to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A waterfall is not a good reason to call me at dawn.",
-      "Водопад — не повод звонить мне на рассвете.",
-      "瀑布不是天一亮就给我打电话的好理由。"
+      "Usłyszeliśmy wodospad, zanim go zobaczyliśmy.",
+      "We heard the waterfall before we saw it.",
+      "Мы услышали водопад раньше, чем увидели его.",
+      "还没看见瀑布，我们就听见了它的声音。"
     ]
   },
   {
@@ -7065,10 +7065,10 @@ const WORDS = [
     ],
     "pinyin": "dòngxué",
     "examples": [
-      "Jaskinia to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A cave is just the beginning of this story. Yes, it gets stranger.",
-      "Пещера — только начало этой истории. Да, дальше ещё страннее.",
-      "洞穴只是这个故事的开始。没错，后面更奇怪。"
+      "W jaskini było chłodno i ciemno.",
+      "The cave was cool and dark inside.",
+      "Внутри пещеры было прохладно и темно.",
+      "洞穴里又凉又暗。"
     ]
   },
   {
@@ -7082,10 +7082,10 @@ const WORDS = [
     ],
     "pinyin": "huǒshān",
     "examples": [
-      "Wulkan? To jest twój wielki plan?",
-      "A volcano? That is your grand plan?",
-      "Вулкан? Это и есть твой великий план?",
-      "火山？这就是你的宏伟计划？"
+      "Ze wsi było widać wulkan.",
+      "We could see the volcano from the village.",
+      "Из деревни был виден вулкан.",
+      "从村庄能看到火山。"
     ]
   },
   {
@@ -7099,10 +7099,10 @@ const WORDS = [
     ],
     "pinyin": "yánshí",
     "examples": [
-      "Skała to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A rock is the subject of my presentation. Try to contain your excitement.",
-      "Скала — тема моей презентации. Постарайся сдержать восторг.",
-      "岩石是我演示的主题。请克制一下你的激动。"
+      "Usiedliśmy na płaskiej skale, żeby odpocząć.",
+      "We sat on a flat rock to rest.",
+      "Мы сели отдохнуть на плоской скале.",
+      "我们坐在平坦的岩石上休息。"
     ]
   },
   {
@@ -7116,10 +7116,10 @@ const WORDS = [
     ],
     "pinyin": "shítou",
     "examples": [
-      "Kamień to nie cecha osobowości. Sprawdziłam.",
-      "A stone is not a personality trait. I checked.",
-      "Камень — не черта характера. Я проверила.",
-      "石头不是性格特点。我查过了。"
+      "Znalazłam gładki kamień przy rzece.",
+      "I found a smooth stone by the river.",
+      "Я нашла гладкий камень у реки.",
+      "我在河边找到了一块光滑的石头。"
     ]
   },
   {
@@ -7133,10 +7133,10 @@ const WORDS = [
     ],
     "pinyin": "shāzi",
     "examples": [
-      "Piasek to odpowiedź. Proszę nie pytać o pytanie.",
-      "Sand is the answer. Please do not ask about the question.",
-      "Песок — это ответ. О вопросе лучше не спрашивай.",
-      "沙子就是答案。请别问问题是什么。"
+      "W moich butach jest piasek.",
+      "There is sand in my shoes.",
+      "В моих ботинках песок.",
+      "我的鞋里有沙子。"
     ]
   },
   {
@@ -7150,10 +7150,10 @@ const WORDS = [
     ],
     "pinyin": "tǔrǎng",
     "examples": [
-      "Gleba to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Soil is my topic today. Your opinions are an optional extra.",
-      "Почва — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "土壤是我今天的话题。你的意见是可选项。"
+      "Gleba jest jeszcze wilgotna po deszczu.",
+      "The soil is still damp after the rain.",
+      "После дождя почва ещё влажная.",
+      "下雨后，土壤还是湿的。"
     ]
   },
   {
@@ -7167,10 +7167,10 @@ const WORDS = [
     ],
     "pinyin": "cǎo",
     "examples": [
-      "Trawa to nie zamiennik porządnych przeprosin.",
-      "Grass is not a substitute for a decent apology.",
-      "Трава — не замена нормальному извинению.",
-      "草代替不了一次像样的道歉。"
+      "Trawa wymaga skoszenia.",
+      "The grass needs cutting.",
+      "Траву нужно подстричь.",
+      "草该修剪了。"
     ]
   },
   {
@@ -7184,10 +7184,10 @@ const WORDS = [
     ],
     "pinyin": "zhǒngzi",
     "examples": [
-      "Nasiono to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A seed is an interesting choice. I am being diplomatic.",
-      "Семя — интересный выбор. Я стараюсь быть дипломатичной.",
-      "种子是个有趣的选择。我已经说得很委婉了。"
+      "Zasadziliśmy nasiono w małej doniczce.",
+      "We planted a seed in a small pot.",
+      "Мы посадили семя в маленький горшок.",
+      "我们在小花盆里种下了一颗种子。"
     ]
   },
   {
@@ -7201,10 +7201,10 @@ const WORDS = [
     ],
     "pinyin": "gēn",
     "examples": [
-      "Korzeń to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A root is the title of my next masterpiece. Expectations should remain low.",
-      "Корень — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "根是我下一部杰作的标题。期待值最好低一点。"
+      "Korzeń wystawał ze ścieżki.",
+      "A root was sticking out of the path.",
+      "Из тропинки торчал корень.",
+      "一条树根从小路上露了出来。"
     ]
   },
   {
@@ -7218,10 +7218,10 @@ const WORDS = [
     ],
     "pinyin": "shùzhī",
     "examples": [
-      "Gałąź to nie główny problem. Problemem są twoje priorytety.",
-      "A branch is not the main issue. Your priorities are.",
-      "Ветка — не главная проблема. Проблема в твоих приоритетах.",
-      "树枝不是主要问题。你的轻重缓急才是。"
+      "Ptak usiadł na gałęzi.",
+      "A bird landed on the branch.",
+      "Птица села на ветку.",
+      "一只鸟落在树枝上。"
     ]
   },
   {
@@ -7235,10 +7235,10 @@ const WORDS = [
     ],
     "pinyin": "mógu",
     "examples": [
-      "Grzyb to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A mushroom is the theme of this conversation. Somehow, we are still talking about you.",
-      "Гриб — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "蘑菇是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Grzyb wyrósł obok starego drzewa.",
+      "A mushroom grew beside the old tree.",
+      "Гриб вырос рядом со старым деревом.",
+      "老树旁长出了一朵蘑菇。"
     ]
   },
   {
@@ -7252,10 +7252,10 @@ const WORDS = [
     ],
     "pinyin": "méigui",
     "examples": [
-      "Róża to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A rose is not a good reason to call me at dawn.",
-      "Роза — не повод звонить мне на рассвете.",
-      "玫瑰不是天一亮就给我打电话的好理由。"
+      "Włożyła czerwoną różę do szklanki.",
+      "She placed a red rose in a glass.",
+      "Она поставила красную розу в стакан.",
+      "她把一朵红玫瑰放进玻璃杯里。"
     ]
   },
   {
@@ -7269,10 +7269,10 @@ const WORDS = [
     ],
     "pinyin": "yùjīnxiāng",
     "examples": [
-      "Tulipan to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A tulip is just the beginning of this story. Yes, it gets stranger.",
-      "Тюльпан — только начало этой истории. Да, дальше ещё страннее.",
-      "郁金香只是这个故事的开始。没错，后面更奇怪。"
+      "Pierwszy tulipan rozkwitł dziś rano.",
+      "The first tulip opened this morning.",
+      "Первый тюльпан раскрылся сегодня утром.",
+      "第一朵郁金香今天早上开了。"
     ]
   },
   {
@@ -7286,10 +7286,10 @@ const WORDS = [
     ],
     "pinyin": "xiàngrìkuí",
     "examples": [
-      "Słonecznik? To jest twój wielki plan?",
-      "A sunflower? That is your grand plan?",
-      "Подсолнух? Это и есть твой великий план?",
-      "向日葵？这就是你的宏伟计划？"
+      "Słonecznik wyrósł ponad płot.",
+      "The sunflower grew taller than the fence.",
+      "Подсолнух вырос выше забора.",
+      "向日葵长得比围栏还高。"
     ]
   },
   {
@@ -7303,10 +7303,10 @@ const WORDS = [
     ],
     "pinyin": "zhúzi",
     "examples": [
-      "Bambus to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "Bamboo is the subject of my presentation. Try to contain your excitement.",
-      "Бамбук — тема моей презентации. Постарайся сдержать восторг.",
-      "竹子是我演示的主题。请克制一下你的激动。"
+      "Bambus rośnie wzdłuż ogrodowej ścieżki.",
+      "Bamboo grows along the garden path.",
+      "Бамбук растёт вдоль садовой дорожки.",
+      "竹子沿着花园小路生长。"
     ]
   },
   {
@@ -7320,10 +7320,10 @@ const WORDS = [
     ],
     "pinyin": "wù",
     "examples": [
-      "Mgła to nie cecha osobowości. Sprawdziłam.",
-      "Fog is not a personality trait. I checked.",
-      "Туман — не черта характера. Я проверила.",
-      "雾不是性格特点。我查过了。"
+      "Mgła zasłoniła góry.",
+      "The fog hid the mountains.",
+      "Туман скрыл горы.",
+      "雾遮住了群山。"
     ]
   },
   {
@@ -7337,10 +7337,10 @@ const WORDS = [
     ],
     "pinyin": "shuāng",
     "examples": [
-      "Szron to odpowiedź. Proszę nie pytać o pytanie.",
-      "Frost is the answer. Please do not ask about the question.",
-      "Иней — это ответ. О вопросе лучше не спрашивай.",
-      "霜就是答案。请别问问题是什么。"
+      "Szron pokrył dziś rano okna.",
+      "Frost covered the windows this morning.",
+      "Сегодня утром иней покрыл окна.",
+      "今天早上，窗户上结了霜。"
     ]
   },
   {
@@ -7354,10 +7354,10 @@ const WORDS = [
     ],
     "pinyin": "léishēng",
     "examples": [
-      "Grzmot to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Thunder is my topic today. Your opinions are an optional extra.",
-      "Гром — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "雷声是我今天的话题。你的意见是可选项。"
+      "Obudził mnie głośny grzmot.",
+      "A loud clap of thunder woke me up.",
+      "Меня разбудил громкий раскат грома.",
+      "一声响亮的雷声把我吵醒了。"
     ]
   },
   {
@@ -7371,10 +7371,10 @@ const WORDS = [
     ],
     "pinyin": "shǎndiàn",
     "examples": [
-      "Błyskawica to nie zamiennik porządnych przeprosin.",
-      "Lightning is not a substitute for a decent apology.",
-      "Молния — не замена нормальному извинению.",
-      "闪电代替不了一次像样的道歉。"
+      "Błyskawica rozświetliła niebo.",
+      "Lightning lit up the sky.",
+      "Молния осветила небо.",
+      "闪电照亮了天空。"
     ]
   },
   {
@@ -7388,10 +7388,10 @@ const WORDS = [
     ],
     "pinyin": "cǎihóng",
     "examples": [
-      "Tęcza to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A rainbow is an interesting choice. I am being diplomatic.",
-      "Радуга — интересный выбор. Я стараюсь быть дипломатичной.",
-      "彩虹是个有趣的选择。我已经说得很委婉了。"
+      "Po deszczu pojawiła się tęcza.",
+      "A rainbow appeared after the rain.",
+      "После дождя появилась радуга.",
+      "雨后出现了彩虹。"
     ]
   },
   {
@@ -7405,10 +7405,10 @@ const WORDS = [
     ],
     "pinyin": "léibào",
     "examples": [
-      "Burza to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A storm is the title of my next masterpiece. Expectations should remain low.",
-      "Гроза — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "雷暴是我下一部杰作的标题。期待值最好低一点。"
+      "Podczas burzy zostaliśmy w domu.",
+      "We stayed indoors during the storm.",
+      "Во время грозы мы остались дома.",
+      "雷暴期间，我们待在家里。"
     ]
   },
   {
@@ -7422,10 +7422,10 @@ const WORDS = [
     ],
     "pinyin": "rìchū",
     "examples": [
-      "Wschód słońca to nie główny problem. Problemem są twoje priorytety.",
-      "A sunrise is not the main issue. Your priorities are.",
-      "Восход солнца — не главная проблема. Проблема в твоих приоритетах.",
-      "日出不是主要问题。你的轻重缓急才是。"
+      "Obudziliśmy się wcześnie, żeby zobaczyć wschód słońca.",
+      "We woke up early to watch the sunrise.",
+      "Мы проснулись рано, чтобы посмотреть восход солнца.",
+      "我们早早起床看日出。"
     ]
   },
   {
@@ -7439,10 +7439,10 @@ const WORDS = [
     ],
     "pinyin": "rìluò",
     "examples": [
-      "Zachód słońca to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A sunset is the theme of this conversation. Somehow, we are still talking about you.",
-      "Закат — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "日落是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Zachód słońca zabarwił chmury na pomarańczowo.",
+      "The sunset turned the clouds orange.",
+      "Закат окрасил облака в оранжевый цвет.",
+      "日落把云染成了橙色。"
     ]
   },
   {
@@ -7456,10 +7456,10 @@ const WORDS = [
     ],
     "pinyin": "yǐngzi",
     "examples": [
-      "Cień to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A shadow is not a good reason to call me at dawn.",
-      "Тень — не повод звонить мне на рассвете.",
-      "影子不是天一亮就给我打电话的好理由。"
+      "Mój cień rozciągał się po chodniku.",
+      "My shadow stretched across the pavement.",
+      "Моя тень растянулась по тротуару.",
+      "我的影子长长地铺在人行道上。"
     ]
   },
   {
@@ -7473,10 +7473,10 @@ const WORDS = [
     ],
     "pinyin": "bōlàng",
     "examples": [
-      "Fala to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A wave is just the beginning of this story. Yes, it gets stranger.",
-      "Волна — только начало этой истории. Да, дальше ещё страннее.",
-      "波浪只是这个故事的开始。没错，后面更奇怪。"
+      "Fala zmoczyła mi stopy.",
+      "A wave soaked my feet.",
+      "Волна намочила мне ноги.",
+      "一道波浪打湿了我的脚。"
     ]
   },
   {
@@ -7490,10 +7490,10 @@ const WORDS = [
     ],
     "pinyin": "táozi",
     "examples": [
-      "Brzoskwinia? To jest twój wielki plan?",
-      "A peach? That is your grand plan?",
-      "Персик? Это и есть твой великий план?",
-      "桃子？这就是你的宏伟计划？"
+      "Ta brzoskwinia jest miękka i soczysta.",
+      "This peach is soft and juicy.",
+      "Этот персик мягкий и сочный.",
+      "这个桃子又软又多汁。"
     ]
   },
   {
@@ -7507,10 +7507,10 @@ const WORDS = [
     ],
     "pinyin": "lí",
     "examples": [
-      "Gruszka to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A pear is the subject of my presentation. Try to contain your excitement.",
-      "Груша — тема моей презентации. Постарайся сдержать восторг.",
-      "梨是我演示的主题。请克制一下你的激动。"
+      "Pokroiłam gruszkę na kawałki na deser.",
+      "I cut a pear into pieces for dessert.",
+      "Я нарезала грушу кусочками на десерт.",
+      "我把梨切成块当甜点。"
     ]
   },
   {
@@ -7524,10 +7524,10 @@ const WORDS = [
     ],
     "pinyin": "lǐzi",
     "examples": [
-      "Śliwka to nie cecha osobowości. Sprawdziłam.",
-      "A plum is not a personality trait. I checked.",
-      "Слива — не черта характера. Я проверила.",
-      "李子不是性格特点。我查过了。"
+      "Wyjmij pestkę ze śliwki.",
+      "Remove the stone from the plum.",
+      "Вынь косточку из сливы.",
+      "把李子的核去掉。"
     ]
   },
   {
@@ -7541,10 +7541,10 @@ const WORDS = [
     ],
     "pinyin": "yīngtáo",
     "examples": [
-      "Czereśnia to odpowiedź. Proszę nie pytać o pytanie.",
-      "A cherry is the answer. Please do not ask about the question.",
-      "Черешня — это ответ. О вопросе лучше не спрашивай.",
-      "樱桃就是答案。请别问问题是什么。"
+      "Położyła czereśnię na wierzchu ciasta.",
+      "She put a cherry on top of the cake.",
+      "Она положила черешню на торт.",
+      "她在蛋糕上放了一颗樱桃。"
     ]
   },
   {
@@ -7558,10 +7558,10 @@ const WORDS = [
     ],
     "pinyin": "shùméi",
     "examples": [
-      "Malina to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A raspberry is my topic today. Your opinions are an optional extra.",
-      "Малина — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "树莓是我今天的话题。你的意见是可选项。"
+      "Malina wpadła do mojego jogurtu.",
+      "A raspberry fell into my yogurt.",
+      "Малина упала в мой йогурт.",
+      "一颗树莓掉进了我的酸奶里。"
     ]
   },
   {
@@ -7575,10 +7575,10 @@ const WORDS = [
     ],
     "pinyin": "lánméi",
     "examples": [
-      "Borówka to nie zamiennik porządnych przeprosin.",
-      "A blueberry is not a substitute for a decent apology.",
-      "Голубика — не замена нормальному извинению.",
-      "蓝莓代替不了一次像样的道歉。"
+      "Znalazłam jedną borówkę na dnie miski.",
+      "I found one blueberry at the bottom of the bowl.",
+      "Я нашла одну ягоду голубики на дне миски.",
+      "我在碗底找到了一颗蓝莓。"
     ]
   },
   {
@@ -7592,10 +7592,10 @@ const WORDS = [
     ],
     "pinyin": "xīguā",
     "examples": [
-      "Arbuz to ciekawy wybór. Staram się być dyplomatyczna.",
-      "A watermelon is an interesting choice. I am being diplomatic.",
-      "Арбуз — интересный выбор. Я стараюсь быть дипломатичной.",
-      "西瓜是个有趣的选择。我已经说得很委婉了。"
+      "Podzieliliśmy się zimnym arbuzem na plaży.",
+      "We shared a cold watermelon on the beach.",
+      "Мы разделили холодный арбуз на пляже.",
+      "我们在海滩上分着吃了一个冰西瓜。"
     ]
   },
   {
@@ -7609,10 +7609,10 @@ const WORDS = [
     ],
     "pinyin": "tiánguā",
     "examples": [
-      "Melon to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A melon is the title of my next masterpiece. Expectations should remain low.",
-      "Дыня — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "甜瓜是我下一部杰作的标题。期待值最好低一点。"
+      "Ten melon słodko pachnie.",
+      "This melon smells sweet.",
+      "Эта дыня сладко пахнет.",
+      "这个甜瓜闻起来很甜。"
     ]
   },
   {
@@ -7626,10 +7626,10 @@ const WORDS = [
     ],
     "pinyin": "bōluó",
     "examples": [
-      "Ananas to nie główny problem. Problemem są twoje priorytety.",
-      "A pineapple is not the main issue. Your priorities are.",
-      "Ананас — не главная проблема. Проблема в твоих приоритетах.",
-      "菠萝不是主要问题。你的轻重缓急才是。"
+      "Obierz ananasa przed pokrojeniem.",
+      "Peel the pineapple before slicing it.",
+      "Очисти ананас, прежде чем нарезать его.",
+      "切菠萝前先削皮。"
     ]
   },
   {
@@ -7643,10 +7643,10 @@ const WORDS = [
     ],
     "pinyin": "mángguǒ",
     "examples": [
-      "Mango to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A mango is the theme of this conversation. Somehow, we are still talking about you.",
-      "Манго — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "芒果是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Zmiksowałam mango z jogurtem.",
+      "I blended a mango with yogurt.",
+      "Я взбила манго с йогуртом.",
+      "我把芒果和酸奶一起搅拌了。"
     ]
   },
   {
@@ -7660,10 +7660,10 @@ const WORDS = [
     ],
     "pinyin": "yēzi",
     "examples": [
-      "Kokos to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A coconut is not a good reason to call me at dawn.",
-      "Кокос — не повод звонить мне на рассвете.",
-      "椰子不是天一亮就给我打电话的好理由。"
+      "Otwieranie tego kokosa trwało dłużej niż jego zjedzenie.",
+      "Opening this coconut took longer than eating it.",
+      "Открыть этот кокос заняло больше времени, чем съесть его.",
+      "打开这个椰子花的时间比吃掉它还长。"
     ]
   },
   {
@@ -7677,10 +7677,10 @@ const WORDS = [
     ],
     "pinyin": "niúyóuguǒ",
     "examples": [
-      "Awokado to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "An avocado is just the beginning of this story. Yes, it gets stranger.",
-      "Авокадо — только начало этой истории. Да, дальше ещё страннее.",
-      "牛油果只是这个故事的开始。没错，后面更奇怪。"
+      "Awokado wreszcie dojrzało.",
+      "The avocado is finally ripe.",
+      "Авокадо наконец созрел.",
+      "牛油果终于熟了。"
     ]
   },
   {
@@ -7694,10 +7694,10 @@ const WORDS = [
     ],
     "pinyin": "huángguā",
     "examples": [
-      "Ogórek? To jest twój wielki plan?",
-      "A cucumber? That is your grand plan?",
-      "Огурец? Это и есть твой великий план?",
-      "黄瓜？这就是你的宏伟计划？"
+      "Pokrój ogórek do sałatki.",
+      "Slice the cucumber for the salad.",
+      "Нарежь огурец для салата.",
+      "把黄瓜切片做沙拉。"
     ]
   },
   {
@@ -7711,10 +7711,10 @@ const WORDS = [
     ],
     "pinyin": "nánguā",
     "examples": [
-      "Dynia to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A pumpkin is the subject of my presentation. Try to contain your excitement.",
-      "Тыква — тема моей презентации. Постарайся сдержать восторг.",
-      "南瓜是我演示的主题。请克制一下你的激动。"
+      "Zrobiliśmy zupę z dyni.",
+      "We made soup from a pumpkin.",
+      "Мы приготовили суп из тыквы.",
+      "我们用南瓜做了汤。"
     ]
   },
   {
@@ -7728,10 +7728,10 @@ const WORDS = [
     ],
     "pinyin": "juǎnxīncài",
     "examples": [
-      "Kapusta to nie cecha osobowości. Sprawdziłam.",
-      "Cabbage is not a personality trait. I checked.",
-      "Капуста — не черта характера. Я проверила.",
-      "卷心菜不是性格特点。我查过了。"
+      "Poszatkowałam kapustę na kolację.",
+      "I chopped cabbage for dinner.",
+      "Я нашинковала капусту на ужин.",
+      "我把卷心菜切碎，准备做晚饭。"
     ]
   },
   {
@@ -7745,10 +7745,10 @@ const WORDS = [
     ],
     "pinyin": "shēngcài",
     "examples": [
-      "Sałata to odpowiedź. Proszę nie pytać o pytanie.",
-      "Lettuce is the answer. Please do not ask about the question.",
-      "Салат-латук — это ответ. О вопросе лучше не спрашивай.",
-      "生菜就是答案。请别问问题是什么。"
+      "Umyj sałatę przed podaniem.",
+      "Wash the lettuce before serving it.",
+      "Вымой салат-латук перед подачей.",
+      "上桌前先洗生菜。"
     ]
   },
   {
@@ -7762,10 +7762,10 @@ const WORDS = [
     ],
     "pinyin": "bōcài",
     "examples": [
-      "Szpinak to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Spinach is my topic today. Your opinions are an optional extra.",
-      "Шпинат — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "菠菜是我今天的话题。你的意见是可选项。"
+      "Dodałam szpinak do omletu.",
+      "I added spinach to the omelette.",
+      "Я добавила шпинат в омлет.",
+      "我在煎蛋里加了菠菜。"
     ]
   },
   {
@@ -7779,10 +7779,10 @@ const WORDS = [
     ],
     "pinyin": "xīlánhuā",
     "examples": [
-      "Brokuł to nie zamiennik porządnych przeprosin.",
-      "Broccoli is not a substitute for a decent apology.",
-      "Брокколи — не замена нормальному извинению.",
-      "西兰花代替不了一次像样的道歉。"
+      "Gotuj brokuł na parze, aż zmięknie.",
+      "Steam the broccoli until it is tender.",
+      "Готовь брокколи на пару до мягкости.",
+      "把西兰花蒸到变软。"
     ]
   },
   {
@@ -7796,10 +7796,10 @@ const WORDS = [
     ],
     "pinyin": "huāyēcài",
     "examples": [
-      "Kalafior to ciekawy wybór. Staram się być dyplomatyczna.",
-      "Cauliflower is an interesting choice. I am being diplomatic.",
-      "Цветная капуста — интересный выбор. Я стараюсь быть дипломатичной.",
-      "花椰菜是个有趣的选择。我已经说得很委婉了。"
+      "Pieczony kalafior z przyprawami smakuje pysznie.",
+      "Roasted cauliflower tastes delicious with spices.",
+      "Запечённая цветная капуста со специями очень вкусная.",
+      "烤花椰菜加上香料很好吃。"
     ]
   },
   {
@@ -7813,10 +7813,10 @@ const WORDS = [
     ],
     "pinyin": "dàsuàn",
     "examples": [
-      "Czosnek to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "Garlic is the title of my next masterpiece. Expectations should remain low.",
-      "Чеснок — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "大蒜是我下一部杰作的标题。期待值最好低一点。"
+      "W kuchni pachnie czosnkiem.",
+      "The kitchen smells of garlic.",
+      "На кухне пахнет чесноком.",
+      "厨房里有大蒜的香味。"
     ]
   },
   {
@@ -7830,10 +7830,10 @@ const WORDS = [
     ],
     "pinyin": "jiāng",
     "examples": [
-      "Imbir to nie główny problem. Problemem są twoje priorytety.",
-      "Ginger is not the main issue. Your priorities are.",
-      "Имбирь — не главная проблема. Проблема в твоих приоритетах.",
-      "姜不是主要问题。你的轻重缓急才是。"
+      "Dodałam świeży imbir do herbaty.",
+      "I put fresh ginger in my tea.",
+      "Я добавила свежий имбирь в чай.",
+      "我在茶里放了新鲜的姜。"
     ]
   },
   {
@@ -7847,10 +7847,10 @@ const WORDS = [
     ],
     "pinyin": "ròuguì",
     "examples": [
-      "Cynamon to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "Cinnamon is the theme of this conversation. Somehow, we are still talking about you.",
-      "Корица — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "肉桂是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Odrobina cynamonu poprawia smak owsianki.",
+      "A little cinnamon makes the porridge taste better.",
+      "Немного корицы делает овсянку вкуснее.",
+      "加一点肉桂，燕麦粥就更好吃了。"
     ]
   },
   {
@@ -7864,10 +7864,10 @@ const WORDS = [
     ],
     "pinyin": "hújiāo",
     "examples": [
-      "Pieprz to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "Pepper is not a good reason to call me at dawn.",
-      "Перец — не повод звонить мне на рассвете.",
-      "胡椒不是天一亮就给我打电话的好理由。"
+      "Chcesz trochę pieprzu do zupy?",
+      "Would you like some pepper on your soup?",
+      "Хочешь немного перца в суп?",
+      "你的汤里要加点胡椒吗？"
     ]
   },
   {
@@ -7881,10 +7881,10 @@ const WORDS = [
     ],
     "pinyin": "cù",
     "examples": [
-      "Ocet to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "Vinegar is just the beginning of this story. Yes, it gets stranger.",
-      "Уксус — только начало этой истории. Да, дальше ещё страннее.",
-      "醋只是这个故事的开始。没错，后面更奇怪。"
+      "Wymieszaj ocet z oliwą na sos.",
+      "Mix vinegar with olive oil for the dressing.",
+      "Смешай уксус с оливковым маслом для заправки.",
+      "把醋和橄榄油混合，做成沙拉酱汁。"
     ]
   },
   {
@@ -7898,10 +7898,10 @@ const WORDS = [
     ],
     "pinyin": "gǎnlǎnyóu",
     "examples": [
-      "Oliwa? To jest twój wielki plan?",
-      "Olive oil? That is your grand plan?",
-      "Оливковое масло? Это и есть твой великий план?",
-      "橄榄油？这就是你的宏伟计划？"
+      "Rozgrzej odrobinę oliwy na patelni.",
+      "Heat a little olive oil in the pan.",
+      "Разогрей немного оливкового масла на сковороде.",
+      "在平底锅里加热一点橄榄油。"
     ]
   },
   {
@@ -7915,10 +7915,10 @@ const WORDS = [
     ],
     "pinyin": "miànfěn",
     "examples": [
-      "Mąka to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "Flour is the subject of my presentation. Try to contain your excitement.",
-      "Мука — тема моей презентации. Постарайся сдержать восторг.",
-      "面粉是我演示的主题。请克制一下你的激动。"
+      "Na całym blacie kuchennym jest mąka.",
+      "There is flour all over the kitchen counter.",
+      "Вся кухонная столешница в муке.",
+      "厨房台面上全是面粉。"
     ]
   },
   {
@@ -7932,10 +7932,10 @@ const WORDS = [
     ],
     "pinyin": "nǎiyóu",
     "examples": [
-      "Śmietanka to nie cecha osobowości. Sprawdziłam.",
-      "Cream is not a personality trait. I checked.",
-      "Сливки — не черта характера. Я проверила.",
-      "奶油不是性格特点。我查过了。"
+      "Dodałam śmietankę do sosu.",
+      "I added cream to the sauce.",
+      "Я добавила сливки в соус.",
+      "我在酱汁里加了奶油。"
     ]
   },
   {
@@ -7949,10 +7949,10 @@ const WORDS = [
     ],
     "pinyin": "guǒjiàng",
     "examples": [
-      "Dżem to odpowiedź. Proszę nie pytać o pytanie.",
-      "Jam is the answer. Please do not ask about the question.",
-      "Джем — это ответ. О вопросе лучше не спрашивай.",
-      "果酱就是答案。请别问问题是什么。"
+      "Posmaruj tost dżemem.",
+      "Spread some jam on the toast.",
+      "Намажь тост джемом.",
+      "在吐司上涂点果酱。"
     ]
   },
   {
@@ -7966,10 +7966,10 @@ const WORDS = [
     ],
     "pinyin": "jièmojiàng",
     "examples": [
-      "Musztarda to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Mustard is my topic today. Your opinions are an optional extra.",
-      "Горчица — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "芥末酱是我今天的话题。你的意见是可选项。"
+      "Ta musztarda jest ostrzejsza, niż się spodziewałam.",
+      "This mustard is stronger than I expected.",
+      "Эта горчица острее, чем я ожидала.",
+      "这个芥末酱比我想的辣。"
     ]
   },
   {
@@ -7983,10 +7983,10 @@ const WORDS = [
     ],
     "pinyin": "báobǐng",
     "examples": [
-      "Naleśnik to nie zamiennik porządnych przeprosin.",
-      "A pancake is not a substitute for a decent apology.",
-      "Блин — не замена нормальному извинению.",
-      "薄饼代替不了一次像样的道歉。"
+      "Nadziałam naleśnik owocami.",
+      "I filled a pancake with fruit.",
+      "Я начинила блин фруктами.",
+      "我在薄饼里包了水果。"
     ]
   },
   {
@@ -8000,10 +8000,10 @@ const WORDS = [
     ],
     "pinyin": "yāoqǐng",
     "examples": [
-      "Zaproszenie to ciekawy wybór. Staram się być dyplomatyczna.",
-      "An invitation is an interesting choice. I am being diplomatic.",
-      "Приглашение — интересный выбор. Я стараюсь быть дипломатичной.",
-      "邀请是个有趣的选择。我已经说得很委婉了。"
+      "Dostałam zaproszenie na jej ślub.",
+      "I received an invitation to her wedding.",
+      "Я получила приглашение на её свадьбу.",
+      "我收到了她婚礼的邀请。"
     ]
   },
   {
@@ -8017,10 +8017,10 @@ const WORDS = [
     ],
     "pinyin": "qìngzhù",
     "examples": [
-      "Świętowanie to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A celebration is the title of my next masterpiece. Expectations should remain low.",
-      "Празднование — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "庆祝是我下一部杰作的标题。期待值最好低一点。"
+      "Świętowanie trwało do późnej nocy.",
+      "The celebration continued late into the night.",
+      "Празднование продолжалось до поздней ночи.",
+      "庆祝活动一直持续到深夜。"
     ]
   },
   {
@@ -8034,10 +8034,10 @@ const WORDS = [
     ],
     "pinyin": "shēngrì",
     "examples": [
-      "Urodziny to nie główny problem. Problemem są twoje priorytety.",
-      "A birthday is not the main issue. Your priorities are.",
-      "День рождения — не главная проблема. Проблема в твоих приоритетах.",
-      "生日不是主要问题。你的轻重缓急才是。"
+      "Upiekliśmy ciasto na jego urodziny.",
+      "We baked a cake for his birthday.",
+      "Мы испекли торт на его день рождения.",
+      "我们为他的生日做了一个蛋糕。"
     ]
   },
   {
@@ -8051,10 +8051,10 @@ const WORDS = [
     ],
     "pinyin": "hūnlǐ",
     "examples": [
-      "Ślub to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A wedding is the theme of this conversation. Somehow, we are still talking about you.",
-      "Свадьба — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "婚礼是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Ich ślub odbył się w ogrodzie.",
+      "Their wedding took place in a garden.",
+      "Их свадьба прошла в саду.",
+      "他们的婚礼在花园里举行。"
     ]
   },
   {
@@ -8068,10 +8068,10 @@ const WORDS = [
     ],
     "pinyin": "lǐwù",
     "examples": [
-      "Prezent to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A gift is not a good reason to call me at dawn.",
-      "Подарок — не повод звонить мне на рассвете.",
-      "礼物不是天一亮就给我打电话的好理由。"
+      "Zapakowałam prezent w niebieski papier.",
+      "I wrapped the gift in blue paper.",
+      "Я завернула подарок в синюю бумагу.",
+      "我用蓝色纸包好了礼物。"
     ]
   },
   {
@@ -8085,10 +8085,10 @@ const WORDS = [
     ],
     "pinyin": "zànměi",
     "examples": [
-      "Komplement to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A compliment is just the beginning of this story. Yes, it gets stranger.",
-      "Комплимент — только начало этой истории. Да, дальше ещё страннее.",
-      "赞美只是这个故事的开始。没错，后面更奇怪。"
+      "Jej komplement wywołał u mnie uśmiech.",
+      "Her compliment made me smile.",
+      "Её комплимент заставил меня улыбнуться.",
+      "她的赞美让我笑了。"
     ]
   },
   {
@@ -8102,10 +8102,10 @@ const WORDS = [
     ],
     "pinyin": "dàoqiàn",
     "examples": [
-      "Przeprosiny? To jest twój wielki plan?",
-      "An apology? That is your grand plan?",
-      "Извинение? Это и есть твой великий план?",
-      "道歉？这就是你的宏伟计划？"
+      "Przyjęłam jego przeprosiny za spóźnienie.",
+      "I accepted his apology for being late.",
+      "Я приняла его извинение за опоздание.",
+      "我接受了他为迟到所作的道歉。"
     ]
   },
   {
@@ -8119,10 +8119,10 @@ const WORDS = [
     ],
     "pinyin": "jiāotán",
     "examples": [
-      "Rozmowa to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A conversation is the subject of my presentation. Try to contain your excitement.",
-      "Разговор — тема моей презентации. Постарайся сдержать восторг.",
-      "交谈是我演示的主题。请克制一下你的激动。"
+      "Nasza rozmowa trwała dłużej, niż starczyło kawy.",
+      "Our conversation lasted longer than the coffee.",
+      "Наш разговор продолжался дольше, чем хватило кофе.",
+      "我们的交谈还没结束，咖啡就喝完了。"
     ]
   },
   {
@@ -8136,10 +8136,10 @@ const WORDS = [
     ],
     "pinyin": "zhēngchǎo",
     "examples": [
-      "Kłótnia to nie cecha osobowości. Sprawdziłam.",
-      "An argument is not a personality trait. I checked.",
-      "Ссора — не черта характера. Я проверила.",
-      "争吵不是性格特点。我查过了。"
+      "Nasza kłótnia dotyczyła tego, czyja kolej na gotowanie.",
+      "We had an argument about whose turn it was to cook.",
+      "У нас была ссора из-за того, чья очередь готовить.",
+      "我们为了轮到谁做饭而争吵。"
     ]
   },
   {
@@ -8153,10 +8153,10 @@ const WORDS = [
     ],
     "pinyin": "xiàohua",
     "examples": [
-      "Żart to odpowiedź. Proszę nie pytać o pytanie.",
-      "A joke is the answer. Please do not ask about the question.",
-      "Шутка — это ответ. О вопросе лучше не спрашивай.",
-      "笑话就是答案。请别问问题是什么。"
+      "Wreszcie zrozumiałam żart bez tłumaczenia.",
+      "I finally understood the joke without a translation.",
+      "Я наконец поняла шутку без перевода.",
+      "我终于不用翻译就听懂了这个笑话。"
     ]
   },
   {
@@ -8170,10 +8170,10 @@ const WORDS = [
     ],
     "pinyin": "fěngcì",
     "examples": [
-      "Sarkazm to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "Sarcasm is my topic today. Your opinions are an optional extra.",
-      "Сарказм — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "讽刺是我今天的话题。你的意见是可选项。"
+      "Jego sarkazm był oczywisty, gdy nazwał opóźnienie cudownym.",
+      "His sarcasm was clear when he called the delay wonderful.",
+      "Его сарказм был очевиден, когда он назвал задержку прекрасной.",
+      "他说延误“太棒了”的时候，讽刺意味很明显。"
     ]
   },
   {
@@ -8187,10 +8187,10 @@ const WORDS = [
     ],
     "pinyin": "fǎnfěng",
     "examples": [
-      "Ironia to nie zamiennik porządnych przeprosin.",
-      "Irony is not a substitute for a decent apology.",
-      "Ирония — не замена нормальному извинению.",
-      "反讽代替不了一次像样的道歉。"
+      "Ironia polega na tym, że kurs zarządzania czasem zaczął się z opóźnieniem.",
+      "The irony is that the time-management course started late.",
+      "Ирония в том, что курс по управлению временем начался с опозданием.",
+      "反讽的是，时间管理课程居然迟到了才开始。"
     ]
   },
   {
@@ -8204,10 +8204,10 @@ const WORDS = [
     ],
     "pinyin": "yōumò",
     "examples": [
-      "Humor to ciekawy wybór. Staram się być dyplomatyczna.",
-      "Humour is an interesting choice. I am being diplomatic.",
-      "Юмор — интересный выбор. Я стараюсь быть дипломатичной.",
-      "幽默是个有趣的选择。我已经说得很委婉了。"
+      "Jej poczucie humoru ułatwia przetrwanie długich spotkań.",
+      "Her sense of humour makes long meetings easier.",
+      "Её чувство юмора помогает пережить долгие встречи.",
+      "她的幽默感让漫长的会议轻松了些。"
     ]
   },
   {
@@ -8221,10 +8221,10 @@ const WORDS = [
     ],
     "pinyin": "yáoyán",
     "examples": [
-      "Plotka to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A rumour is the title of my next masterpiece. Expectations should remain low.",
-      "Слух — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "谣言是我下一部杰作的标题。期待值最好低一点。"
+      "Plotka szybko rozeszła się po biurze.",
+      "The rumour spread quickly through the office.",
+      "Слух быстро разошёлся по офису.",
+      "谣言很快传遍了办公室。"
     ]
   },
   {
@@ -8238,10 +8238,10 @@ const WORDS = [
     ],
     "pinyin": "huíyì",
     "examples": [
-      "Wspomnienie to nie główny problem. Problemem są twoje priorytety.",
-      "A memory is not the main issue. Your priorities are.",
-      "Воспоминание — не главная проблема. Проблема в твоих приоритетах.",
-      "回忆不是主要问题。你的轻重缓急才是。"
+      "Ta piosenka przywołuje szczęśliwe wspomnienie.",
+      "This song brings back a happy memory.",
+      "Эта песня вызывает счастливое воспоминание.",
+      "这首歌唤起了一段快乐的回忆。"
     ]
   },
   {
@@ -8255,10 +8255,10 @@ const WORDS = [
     ],
     "pinyin": "xuǎnzé",
     "examples": [
-      "Wybór to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A choice is the theme of this conversation. Somehow, we are still talking about you.",
-      "Выбор — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "选择是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Mamy wybór między pociągiem a autobusem.",
+      "We have a choice between the train and the bus.",
+      "У нас есть выбор между поездом и автобусом.",
+      "我们可以在火车和公共汽车之间作选择。"
     ]
   },
   {
@@ -8272,10 +8272,10 @@ const WORDS = [
     ],
     "pinyin": "jīhuì",
     "examples": [
-      "Szansa to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "A chance is not a good reason to call me at dawn.",
-      "Шанс — не повод звонить мне на рассвете.",
-      "机会不是天一亮就给我打电话的好理由。"
+      "Ta podróż to szansa na ćwiczenie mówienia.",
+      "This trip is a chance to practise speaking.",
+      "Эта поездка — шанс попрактиковаться в разговоре.",
+      "这次旅行是练习口语的机会。"
     ]
   },
   {
@@ -8289,10 +8289,10 @@ const WORDS = [
     ],
     "pinyin": "fēngxiǎn",
     "examples": [
-      "Ryzyko to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A risk is just the beginning of this story. Yes, it gets stranger.",
-      "Риск — только начало этой истории. Да, дальше ещё страннее.",
-      "风险只是这个故事的开始。没错，后面更奇怪。"
+      "Po południu jest ryzyko deszczu.",
+      "There is a risk of rain this afternoon.",
+      "Сегодня днём есть риск дождя.",
+      "今天下午有下雨的风险。"
     ]
   },
   {
@@ -8306,10 +8306,10 @@ const WORDS = [
     ],
     "pinyin": "tiǎozhàn",
     "examples": [
-      "Wyzwanie? To jest twój wielki plan?",
-      "A challenge? That is your grand plan?",
-      "Вызов? Это и есть твой великий план?",
-      "挑战？这就是你的宏伟计划？"
+      "Przeczytanie pierwszej powieści po chińsku to wyzwanie.",
+      "Reading my first novel in Chinese is a challenge.",
+      "Прочитать первый роман на китайском — настоящий вызов.",
+      "读完第一本中文小说是个挑战。"
     ]
   },
   {
@@ -8323,10 +8323,10 @@ const WORDS = [
     ],
     "pinyin": "jiějué bànfǎ",
     "examples": [
-      "Rozwiązanie to temat mojej prezentacji. Spróbuj opanować ekscytację.",
-      "A solution is the subject of my presentation. Try to contain your excitement.",
-      "Решение задачи — тема моей презентации. Постарайся сдержать восторг.",
-      "解决办法是我演示的主题。请克制一下你的激动。"
+      "Znaleźliśmy proste rozwiązanie problemu.",
+      "We found a simple solution to the problem.",
+      "Мы нашли простое решение задачи.",
+      "我们找到了一个简单的解决办法。"
     ]
   },
   {
@@ -8340,10 +8340,10 @@ const WORDS = [
     ],
     "pinyin": "yuányīn",
     "examples": [
-      "Powód to nie cecha osobowości. Sprawdziłam.",
-      "A reason is not a personality trait. I checked.",
-      "Причина — не черта характера. Я проверила.",
-      "原因不是性格特点。我查过了。"
+      "Jaki jest powód opóźnienia?",
+      "What is the reason for the delay?",
+      "В чём причина задержки?",
+      "延误的原因是什么？"
     ]
   },
   {
@@ -8357,10 +8357,10 @@ const WORDS = [
     ],
     "pinyin": "jiéguǒ",
     "examples": [
-      "Wynik to odpowiedź. Proszę nie pytać o pytanie.",
-      "A result is the answer. Please do not ask about the question.",
-      "Результат — это ответ. О вопросе лучше не спрашивай.",
-      "结果就是答案。请别问问题是什么。"
+      "Jestem zadowolona z wyniku swojej pracy.",
+      "I am happy with the result of my work.",
+      "Я довольна результатом своей работы.",
+      "我对自己的工作结果很满意。"
     ]
   },
   {
@@ -8374,10 +8374,10 @@ const WORDS = [
     ],
     "pinyin": "mùdì",
     "examples": [
-      "Cel to mój dzisiejszy temat. Twoje opinie to opcjonalny dodatek.",
-      "A purpose is my topic today. Your opinions are an optional extra.",
-      "Цель — моя тема на сегодня. Твои мнения — необязательное дополнение.",
-      "目的是我今天的话题。你的意见是可选项。"
+      "Celem tego ćwiczenia jest ćwiczenie słuchania.",
+      "The purpose of this exercise is to practise listening.",
+      "Цель этого упражнения — тренировка понимания на слух.",
+      "这个练习的目的是练习听力。"
     ]
   },
   {
@@ -8391,10 +8391,10 @@ const WORDS = [
     ],
     "pinyin": "yōuxiān shìxiàng",
     "examples": [
-      "Priorytet to nie zamiennik porządnych przeprosin.",
-      "A priority is not a substitute for a decent apology.",
-      "Приоритет — не замена нормальному извинению.",
-      "优先事项代替不了一次像样的道歉。"
+      "Wysypianie się jest moim priorytetem w tym tygodniu.",
+      "Getting enough sleep is my priority this week.",
+      "Высыпаться — мой приоритет на этой неделе.",
+      "这周，睡够觉是我的优先事项。"
     ]
   },
   {
@@ -8408,10 +8408,10 @@ const WORDS = [
     ],
     "pinyin": "chéngjiù",
     "examples": [
-      "Osiągnięcie to ciekawy wybór. Staram się być dyplomatyczna.",
-      "An achievement is an interesting choice. I am being diplomatic.",
-      "Достижение — интересный выбор. Я стараюсь быть дипломатичной.",
-      "成就是个有趣的选择。我已经说得很委婉了。"
+      "Ukończenie kursu było ważnym osiągnięciem.",
+      "Finishing the course was an important achievement.",
+      "Завершение курса стало важным достижением.",
+      "完成课程是一项重要成就。"
     ]
   },
   {
@@ -8425,10 +8425,10 @@ const WORDS = [
     ],
     "pinyin": "jièxiàn",
     "examples": [
-      "Granica to tytuł mojego kolejnego arcydzieła. Lepiej nie mieć wielkich oczekiwań.",
-      "A boundary is the title of my next masterpiece. Expectations should remain low.",
-      "Граница — название моего следующего шедевра. Лучше не завышать ожидания.",
-      "界限是我下一部杰作的标题。期待值最好低一点。"
+      "Wyznaczyłam wyraźną granicę między pracą a odpoczynkiem.",
+      "I set a clear boundary between work and rest.",
+      "Я установила чёткую границу между работой и отдыхом.",
+      "我在工作和休息之间划定了明确的界限。"
     ]
   },
   {
@@ -8442,10 +8442,10 @@ const WORDS = [
     ],
     "pinyin": "tuǒxié",
     "examples": [
-      "Kompromis to nie główny problem. Problemem są twoje priorytety.",
-      "A compromise is not the main issue. Your priorities are.",
-      "Компромисс — не главная проблема. Проблема в твоих приоритетах.",
-      "妥协不是主要问题。你的轻重缓急才是。"
+      "Osiągnęliśmy kompromis w sprawie dat podróży.",
+      "We reached a compromise about the travel dates.",
+      "Мы достигли компромисса по поводу дат поездки.",
+      "我们对旅行日期达成了妥协。"
     ]
   },
   {
@@ -8459,10 +8459,10 @@ const WORDS = [
     ],
     "pinyin": "hòuguǒ",
     "examples": [
-      "Konsekwencja to temat tej rozmowy. Jakimś cudem nadal rozmawiamy o tobie.",
-      "A consequence is the theme of this conversation. Somehow, we are still talking about you.",
-      "Последствие — тема этого разговора. Но почему-то мы всё ещё говорим о тебе.",
-      "后果是这次谈话的主题。不知怎么，我们还是在聊你。"
+      "Spóźnienie na autobus było konsekwencją późnego wyjścia.",
+      "Missing the bus was a consequence of leaving late.",
+      "Опоздание на автобус стало последствием позднего выхода.",
+      "没赶上公共汽车是出门太晚的后果。"
     ]
   },
   {
@@ -8476,10 +8476,10 @@ const WORDS = [
     ],
     "pinyin": "jiǎshè",
     "examples": [
-      "Założenie to nie dobry powód, żeby dzwonić do mnie o świcie.",
-      "An assumption is not a good reason to call me at dawn.",
-      "Предположение — не повод звонить мне на рассвете.",
-      "假设不是天一亮就给我打电话的好理由。"
+      "Moje założenie dotyczące godzin otwarcia było błędne.",
+      "My assumption about the opening hours was wrong.",
+      "Моё предположение о часах работы было неверным.",
+      "我对营业时间的假设是错的。"
     ]
   },
   {
@@ -8493,10 +8493,10 @@ const WORDS = [
     ],
     "pinyin": "qiǎohé",
     "examples": [
-      "Zbieg okoliczności to dopiero początek tej historii. Tak, dalej robi się dziwniej.",
-      "A coincidence is just the beginning of this story. Yes, it gets stranger.",
-      "Совпадение — только начало этой истории. Да, дальше ещё страннее.",
-      "巧合只是这个故事的开始。没错，后面更奇怪。"
+      "Spotkanie cię tutaj to miły zbieg okoliczności.",
+      "Meeting you here is a lovely coincidence.",
+      "Встретить тебя здесь — приятное совпадение.",
+      "在这里遇见你真是个美好的巧合。"
     ]
   }
 ];
